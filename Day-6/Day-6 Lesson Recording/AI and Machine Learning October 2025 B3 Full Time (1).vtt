@@ -1,0 +1,1244 @@
+WEBVTT
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9500-0
+00:00:14.170 --> 00:00:15.730
+So we have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9502-0
+00:00:18.370 --> 00:00:20.010
+Search dot balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9506-0
+00:00:23.210 --> 00:00:24.170
+Plus equal to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9508-0
+00:00:26.250 --> 00:00:26.650
+Remote.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9510-0
+00:00:30.570 --> 00:00:32.650
+We are right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9512-0
+00:00:34.010 --> 00:00:34.410
+Duff.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9514-0
+00:00:37.450 --> 00:00:38.250
+Withdraw.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9519-0
+00:00:53.330 --> 00:00:55.570
+We have right here if.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9542-0
+00:00:57.530 --> 00:01:03.736
+That dot balance greater than equal to
+the amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9542-1
+00:01:03.736 --> 00:01:12.010
+Then what we have done we have right
+balance minus equal to amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9545-0
+00:01:13.290 --> 00:01:14.650
+And we have print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9547-0
+00:01:19.330 --> 00:01:20.130
+Balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9551-0
+00:01:23.250 --> 00:01:24.850
+After withdrawal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9555-0
+00:01:30.730 --> 00:01:35.170
+We have right here balance else.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9557-0
+00:01:38.970 --> 00:01:40.770
+Here we write as.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9562-0
+00:02:12.650 --> 00:02:15.770
+The insufficient amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9563-0
+00:02:17.170 --> 00:02:17.890
+Really.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9565-0
+00:02:20.370 --> 00:02:20.730
+Account.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9566-0
+00:02:22.770 --> 00:02:23.570
+I mean.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9567-0
+00:02:25.690 --> 00:02:26.330
+Print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9569-0
+00:02:32.330 --> 00:02:32.730
+Transaction.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9570-0
+00:02:35.370 --> 00:02:35.850
+Food.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9587-0
+00:02:39.090 --> 00:02:44.343
+So what it will do we if you'll deposit
+some money, it will deposit.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9587-1
+00:02:44.343 --> 00:02:46.170
+Let me write here print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9590-0
+00:02:49.970 --> 00:02:52.890
+Balance after.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9592-0
+00:02:54.050 --> 00:02:55.290
+Deposit.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9596-0
+00:02:58.850 --> 00:03:00.330
+Here we have ready dependents.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9649-0
+00:03:03.090 --> 00:03:06.463
+Self dot balance got it.
+So what we have done,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9649-1
+00:03:06.463 --> 00:03:11.056
+we have created an account.
+Initially we have taken the account
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9649-2
+00:03:11.056 --> 00:03:16.080
+holder name and the balance.
+Then if you will deposit it will add the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9649-3
+00:03:16.080 --> 00:03:21.390
+amount and show you the balance.
+If you withdraw it will minus the amount
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9649-4
+00:03:21.390 --> 00:03:22.610
+and show you the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9682-0
+00:03:22.690 --> 00:03:26.146
+Balance.
+But if you trying to withdraw the more
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9682-1
+00:03:26.146 --> 00:03:29.530
+than the balance,
+for example you have the 10,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9682-2
+00:03:29.530 --> 00:03:33.778
+000 in your account and you are trying to
+withdraw the 12,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9682-3
+00:03:33.778 --> 00:03:39.394
+000 so it will give you insufficient
+amount in account and transaction failed
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9682-4
+00:03:39.394 --> 00:03:39.610
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9696-0
+00:03:41.410 --> 00:03:45.022
+You do it up to this level,
+then we will call it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9696-1
+00:03:45.022 --> 00:03:48.850
+I'll show you the call.
+This is 1 realistic example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9700-0
+00:03:51.210 --> 00:03:52.410
+In the real scenario.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9715-0
+00:05:19.050 --> 00:05:20.650
+It.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9716-0
+00:05:28.770 --> 00:05:28.850
+Um.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9719-0
+00:05:46.530 --> 00:05:47.290
+We're done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9755-0
+00:05:54.530 --> 00:05:59.734
+See this is example I have right here.
+Also self owner balance 0 owner balance
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9755-1
+00:05:59.734 --> 00:06:04.279
+is going to manage deposit self amount
+self balance amount withdraw.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9755-2
+00:06:04.279 --> 00:06:08.890
+Here is print insufficient fund define
+self print owner self balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9758-0
+00:06:08.970 --> 00:06:11.090
+Print owner self balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9766-0
+00:06:47.290 --> 00:06:52.490
+Yeah, it'll be fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9767-0
+00:06:55.610 --> 00:06:55.850
+2.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9768-0
+00:06:59.290 --> 00:06:59.450
+Done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9771-0
+00:07:02.130 --> 00:07:03.930
+Let me print here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9774-0
+00:07:08.730 --> 00:07:11.810
+Account folder name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9782-0
+00:07:15.810 --> 00:07:21.810
+And we have print here the folder name
+you see.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9783-0
+00:07:24.970 --> 00:07:25.290
+No.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9785-0
+00:07:27.930 --> 00:07:28.090
+dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9792-0
+00:07:33.610 --> 00:07:38.810
+Self dot PC holder and here is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9793-0
+00:07:45.090 --> 00:07:45.210
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9794-0
+00:07:48.530 --> 00:07:48.890
+Account.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9796-0
+00:07:54.210 --> 00:07:54.570
+Balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9798-0
+00:08:01.610 --> 00:08:02.490
+12 dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9800-0
+00:08:06.410 --> 00:08:06.690
+Wellness.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9805-0
+00:08:08.170 --> 00:08:10.610
+OK, so when we have it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9806-0
+00:08:12.090 --> 00:08:12.370
+Hello.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9865-0
+00:08:27.290 --> 00:08:31.965
+So this time I have not tried display
+I've read show I have not tried show info.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9865-1
+00:08:31.965 --> 00:08:35.774
+You can write anything and this one is
+deposit. This is a method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9865-2
+00:08:35.774 --> 00:08:39.641
+This is a withdraw method.
+So what we will write we will write the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9865-3
+00:08:39.641 --> 00:08:42.815
+name the the name like that show the
+intended purpose.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9865-4
+00:08:42.815 --> 00:08:46.970
+For example for depositing the amount
+this is the deposit function for.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9877-0
+00:08:47.290 --> 00:08:51.037
+Withdrawing the amount,
+there is withdraw method for showing the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9877-1
+00:08:51.037 --> 00:08:55.130
+details here the show methods right?
+We can write the meaningful name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9907-0
+00:08:57.610 --> 00:09:04.151
+This is your complete class.
+Now you want to create the object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9907-1
+00:09:04.151 --> 00:09:09.056
+For example,
+I have created one account holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9907-2
+00:09:09.056 --> 00:09:16.210
+Here is let's say AC1 is equal to account
+and we have right here the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9934-0
+00:09:16.330 --> 00:09:23.145
+Name.
+Let's say that is Samir and here is the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9934-1
+00:09:23.145 --> 00:09:32.330
+amount, amount, 50,000 for example, right?
+And we have AC to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9947-0
+00:09:33.850 --> 00:09:41.930
+Here the account and this one is for
+someone else. Let's say that is for chunk.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9957-0
+00:09:44.370 --> 00:09:51.410
+And here is the amount he have 14,
+000 in his account. Fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9972-0
+00:09:52.850 --> 00:10:02.570
+This one you have you want to display the
+details so we are at AC one dot show.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9987-0
+00:10:04.210 --> 00:10:11.018
+It will show you the display details of
+Sameer and AC2 dot show.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9987-1
+00:10:11.018 --> 00:10:14.370
+It will display the details for.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9994-0
+00:10:15.290 --> 00:10:18.450
+Chunk, right? We'll go here,
+view terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9996-0
+00:10:24.410 --> 00:10:25.530
+I'm CLS.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10000-0
+00:10:28.690 --> 00:10:31.810
+With the name banking example, huh?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10001-0
+00:10:40.810 --> 00:10:41.050
+Banking.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10004-0
+00:10:43.290 --> 00:10:44.210
+EX dot Y.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10020-0
+00:10:46.290 --> 00:10:49.999
+So account holder name Samir,
+account balance is this one,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10020-1
+00:10:49.999 --> 00:10:54.210
+account holder name is Chang and account
+balance is this much now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10031-0
+00:10:56.890 --> 00:11:01.662
+For example,
+you want to do some sort of transaction,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10031-1
+00:11:01.662 --> 00:11:02.810
+so I will do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10039-0
+00:11:55.930 --> 00:11:56.010
+It.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10049-0
+00:12:24.050 --> 00:12:25.050
+Sir, I had a question.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10050-0
+00:12:26.570 --> 00:12:27.370
+Yes, please.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10067-0
+00:12:28.370 --> 00:12:35.337
+Um, in line 5 uh,
+do we no need to write self dot or but
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10062-0
+00:12:32.650 --> 00:12:34.610
+Do we know it?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10067-1
+00:12:35.337 --> 00:12:37.170
+it's only fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10068-0
+00:12:38.690 --> 00:12:39.970
+Did it come again?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10072-0
+00:12:39.410 --> 00:12:41.610
+In line 12 and 13.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10075-0
+00:12:42.330 --> 00:12:43.850
+Line #12.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10093-0
+00:12:44.210 --> 00:12:50.133
+Uh, that entity do we need?
+Do we no need to write self dot by or but
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10081-0
+00:12:46.290 --> 00:12:46.810
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10093-1
+00:12:50.133 --> 00:12:50.810
+is fine?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10117-0
+00:12:50.810 --> 00:12:55.721
+Self dot balance right?
+We need to write a self dot balance minus
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10117-1
+00:12:55.721 --> 00:13:00.334
+equal to amount. OK, it's fine.
+The self I am not right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10117-2
+00:13:00.334 --> 00:13:05.170
+That was my you have to write the self
+dot balance as well here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10120-0
+00:13:06.970 --> 00:13:10.490
+OK, here as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10127-0
+00:13:13.810 --> 00:13:17.410
+It's required. You have to write it.
+I forget to write.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10128-0
+00:13:18.410 --> 00:13:18.570
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10129-0
+00:13:21.370 --> 00:13:21.610
+No.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10137-0
+00:13:22.650 --> 00:13:27.533
+For example,
+here you want to withdraw from this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10137-1
+00:13:27.533 --> 00:13:28.330
+account.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10139-0
+00:13:36.450 --> 00:13:37.490
+Run this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10143-0
+00:13:38.570 --> 00:13:40.090
+Let me show you with one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10147-0
+00:13:43.050 --> 00:13:45.210
+I have right here again.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10151-0
+00:13:46.610 --> 00:13:48.810
+This one object I'm writing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10160-0
+00:14:14.610 --> 00:14:17.250
+So this one is here right now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10164-0
+00:14:21.330 --> 00:14:23.450
+Withdraw amount. Let's see.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10165-0
+00:14:27.090 --> 00:14:27.610
+Mold.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10168-0
+00:14:30.810 --> 00:14:31.810
+The blue amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10171-0
+00:14:33.450 --> 00:14:35.730
+Is equal to plot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10173-0
+00:14:40.650 --> 00:14:41.690
+We put.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10176-0
+00:14:45.450 --> 00:14:47.170
+Enter amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10178-0
+00:14:48.610 --> 00:14:50.010
+To withdraw.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10200-0
+00:14:51.410 --> 00:14:58.103
+Whatever amount user have entered we have
+assigned to this withdraw amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10200-1
+00:14:58.103 --> 00:15:03.210
+We will write here AC one dot withdraw
+and that W amount.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10203-0
+00:15:04.730 --> 00:15:05.890
+We have withdrawal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10209-0
+00:15:07.570 --> 00:15:12.250
+OK, this one we have done what happened.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10223-0
+00:15:23.890 --> 00:15:28.330
+This one enter amount to withdraw.
+I have entered let's say 20,000.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10251-0
+00:15:31.370 --> 00:15:36.004
+So balance after withdrawal is 20,000 -,
+30,000 right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10251-1
+00:15:36.004 --> 00:15:42.660
+I have run it again and this time for
+example I have entered 67,000 something.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10251-2
+00:15:42.660 --> 00:15:47.210
+So insufficient amount in account
+transaction failed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10253-0
+00:15:48.330 --> 00:15:49.050
+Got it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10254-0
+00:15:50.330 --> 00:15:51.050
+Do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10268-0
+00:17:19.650 --> 00:17:22.970
+The amount is equal to withdraw amount,
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10269-0
+00:17:28.650 --> 00:17:29.690
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10272-0
+00:17:43.770 --> 00:17:43.850
+Um.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10274-0
+00:17:58.610 --> 00:17:59.210
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10285-0
+00:18:57.770 --> 00:18:59.530
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10287-0
+00:19:09.130 --> 00:19:09.610
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10288-0
+00:19:14.530 --> 00:19:20.250
+You are.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10292-0
+00:19:43.610 --> 00:19:43.930
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10299-0
+00:19:55.490 --> 00:20:00.410
+I think.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10300-0
+00:20:14.650 --> 00:20:15.610
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10301-0
+00:20:17.610 --> 00:20:18.010
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10306-0
+00:20:27.090 --> 00:20:30.010
+See here one thing done up to this level.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10327-0
+00:22:29.370 --> 00:22:30.090
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10329-0
+00:22:43.450 --> 00:22:44.010
+I'm giving it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10331-0
+00:22:56.770 --> 00:22:57.290
+Let me check.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10334-0
+00:23:10.530 --> 00:23:10.810
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10341-0
+00:23:12.850 --> 00:23:18.810
+Hmm. Uh, it says. Uh,
+dependence versus pointy.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10391-0
+00:23:20.490 --> 00:23:24.936
+Polymorphism inheritance versus
+polymorphism you are asking.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10391-1
+00:23:24.936 --> 00:23:30.039
+See inheritance is actually the
+polymorphism is a part of inheritance
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10391-2
+00:23:30.039 --> 00:23:33.829
+only right?
+See inheritance means you have the base
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10391-3
+00:23:33.829 --> 00:23:39.733
+class right? And you have the drive class.
+So inheritance you it's inherited the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10391-4
+00:23:39.733 --> 00:23:40.170
+value.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10433-0
+00:23:40.290 --> 00:23:45.103
+You can use it here right now.
+You can use the multiple form on this one,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10433-1
+00:23:45.103 --> 00:23:49.265
+so that is known as method overriding.
+We have the method here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10433-2
+00:23:49.265 --> 00:23:52.777
+We want to override it,
+so that is method overriding.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10433-3
+00:23:52.777 --> 00:23:55.964
+So that is polymorphous means method
+overriding.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10433-4
+00:23:55.964 --> 00:23:58.370
+So the method you have override here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10471-0
+00:23:58.370 --> 00:24:02.655
+See here, here is show info.
+This is the main method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10471-1
+00:24:02.655 --> 00:24:06.939
+Here we have overrided.
+So this is method overriding.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10471-2
+00:24:06.939 --> 00:24:10.748
+This is inheritance.
+This is method overriding.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10471-3
+00:24:10.748 --> 00:24:15.033
+So you mean that you can do multiple
+overriding. Yes,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10471-4
+00:24:15.033 --> 00:24:17.730
+after this developer you have the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10473-0
+00:24:18.050 --> 00:24:19.410
+So let's say.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10492-0
+00:24:20.450 --> 00:24:24.023
+App developer, right.
+In the app developer you want to override
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10492-1
+00:24:24.023 --> 00:24:26.981
+it further. You can do it. OK, you can do.
+OK, sure.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10492-2
+00:24:26.981 --> 00:24:30.330
+You can do one more layer and you need
+the last one, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10513-0
+00:24:34.330 --> 00:24:40.110
+This is the polymorphic,
+the same method we have multiple form,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10513-1
+00:24:40.110 --> 00:24:43.090
+so that is polymorphic or method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10538-0
+00:24:47.250 --> 00:24:51.995
+And we can also have the the one method
+twice and all we can write with the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10538-1
+00:24:51.995 --> 00:24:54.992
+different parameter.
+That's method overloading.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10538-2
+00:24:54.992 --> 00:24:56.490
+Is it method overriding?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10539-0
+00:24:59.050 --> 00:24:59.090
+Uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10541-0
+00:25:00.490 --> 00:25:01.730
+Here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10549-0
+00:25:47.970 --> 00:25:50.490
+Based on.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10550-0
+00:25:51.890 --> 00:25:59.810
+To the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10564-0
+00:26:07.490 --> 00:26:25.490
+What you do is improve the graduate.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10568-0
+00:26:25.530 --> 00:26:30.210
+Yes, we don't know the problem.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10570-0
+00:26:32.250 --> 00:26:33.530
+Yes, sure.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10573-0
+00:26:37.250 --> 00:26:37.770
+I'm gonna miss.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10574-0
+00:26:41.170 --> 00:26:41.930
+Stop.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10593-0
+00:26:51.850 --> 00:27:05.598
+So guys, you can take the lunch break now.
+Let me resolve that issue first.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10593-1
+00:27:05.598 --> 00:27:08.130
+What happened?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10594-0
+00:27:10.370 --> 00:27:10.490
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10618-0
+00:27:14.250 --> 00:27:24.056
+And #24 you see account and you're OK see
+here this this one here you have two
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10618-1
+00:27:24.056 --> 00:27:31.130
+things right? So this is a string.
+I will close it here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10623-0
+00:27:31.210 --> 00:27:36.490
+And this is the value to write it like
+this, it will correct.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10640-0
+00:27:38.650 --> 00:27:48.446
+So there is 2 value.
+First one is the name, name is the string,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10640-1
+00:27:48.446 --> 00:27:53.650
+the second one is the amount here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10691-0
+00:27:54.290 --> 00:27:58.896
+So fine,
+you can go for the lunch now and after
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10691-1
+00:27:58.896 --> 00:28:05.710
+one hour we will meet. All of you,
+you can go for the lunch break now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10691-2
+00:28:05.710 --> 00:28:12.523
+We will start at after one hour.
+Do you have an issue? I just want to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10691-3
+00:28:12.523 --> 00:28:13.770
+So this is a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10703-0
+00:28:13.770 --> 00:28:28.810
+OK, so I don't, I don't enter anything.
+So is that correct, Sir?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10709-0
+00:28:58.210 --> 00:28:58.690
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10710-0
+00:29:03.090 --> 00:29:06.850
+Actually, I think.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10713-0
+00:29:26.050 --> 00:29:27.970
+Send message.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10719-0
+00:29:29.170 --> 00:29:36.290
+And then also get things into it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10720-0
+00:29:41.090 --> 00:29:41.210
+Home.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10749-0
+00:29:50.170 --> 00:29:55.578
+OK, so it's a lunch break.
+After one hour we'll join all of you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10749-1
+00:29:55.578 --> 00:30:01.068
+So online one also you guys can go for
+the lunch break now. Fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/10749-2
+00:30:01.068 --> 00:30:03.730
+So 130 is 2:30 will start again.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11137-0
+01:31:14.610 --> 01:31:20.170
+Fine. Should we start now? OK,
+all of you are here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11144-0
+01:31:22.610 --> 01:31:25.570
+Online one also, are you there?
+One of you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11147-0
+01:31:26.330 --> 01:31:28.210
+Yes, Sir.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11146-0
+01:31:26.970 --> 01:31:27.090
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11149-0
+01:31:28.850 --> 01:31:30.410
+Fine. See here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11156-0
+01:31:34.250 --> 01:31:37.410
+We were working on this particular
+example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11176-0
+01:32:18.410 --> 01:32:21.530
+This one we were working on, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11177-0
+01:32:24.250 --> 01:32:24.450
+Here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11187-0
+01:32:25.610 --> 01:32:30.610
+One thing I want to ask and after that I
+will show you the solution also.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11189-0
+01:32:36.130 --> 01:32:37.090
+Here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11193-0
+01:32:47.210 --> 01:32:48.330
+You terminally.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11201-0
+01:32:59.890 --> 01:33:02.850
+You have done it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11203-0
+01:33:06.850 --> 01:33:07.890
+EX dot Y.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11207-0
+01:33:13.690 --> 01:33:16.250
+4000.5 euros.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11213-0
+01:33:17.930 --> 01:33:20.090
+So this is variance after window.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11243-0
+01:33:21.130 --> 01:33:28.084
+See here we want that the user can't
+access this balance directly and change
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11243-1
+01:33:28.084 --> 01:33:35.128
+it from here from the outside, right?
+So for example you are right AC one dot
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11243-2
+01:33:35.128 --> 01:33:35.850
+balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11269-0
+01:33:36.370 --> 01:33:40.540
+Plus equal to something is equal to 20,
+000 something.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11269-1
+01:33:40.540 --> 01:33:46.606
+You have changed it or you have right
+here 25 something something that we don't
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11269-2
+01:33:46.606 --> 01:33:52.368
+want that user can do this thing.
+So for that we can use the encapsulation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11269-3
+01:33:52.368 --> 01:33:53.050
+See here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11272-0
+01:33:59.370 --> 01:34:00.770
+Whatever you have, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11276-0
+01:34:04.650 --> 01:34:06.850
+It's how bad it is this thing here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11316-0
+01:34:07.930 --> 01:34:13.996
+So 25,000 started in this one.
+So we don't want that you can access this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11316-1
+01:34:13.996 --> 01:34:19.064
+value directly. Fine.
+You want you can access it through the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11316-2
+01:34:19.064 --> 01:34:23.634
+method only.
+So for that we can use the encapsulation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11316-3
+01:34:23.634 --> 01:34:26.210
+We can encapsulate it inside a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11342-0
+01:34:26.330 --> 01:34:33.393
+Member see here control PC. Got it.
+What I showed you that we don't want to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11342-1
+01:34:33.393 --> 01:34:40.828
+access this balance directly, right?
+So for that we will use the encapsulation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11342-2
+01:34:40.828 --> 01:34:41.850
+So here is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11349-0
+01:34:43.650 --> 01:34:47.210
+Let me tell you the theory,
+then we'll show you practically.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11391-0
+01:34:50.730 --> 01:34:55.507
+Encapsulation restricts direct access to
+the object data.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11391-1
+01:34:55.507 --> 01:34:59.708
+We use private attribute and getter
+setter method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11391-2
+01:34:59.708 --> 01:35:05.803
+Getter is for returning the value.
+Setter is for setting the value right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11391-3
+01:35:05.803 --> 01:35:10.250
+So if you write only the get then you
+can't directly.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11423-0
+01:35:10.330 --> 01:35:15.647
+Set the value to this one right.
+For example you have to clear here the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11423-1
+01:35:15.647 --> 01:35:19.783
+balance and you have right here def get
+balance itself.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11423-2
+01:35:19.783 --> 01:35:25.395
+So here self balance is returning.
+You can't set the value directly to this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11423-3
+01:35:25.395 --> 01:35:25.690
+one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11425-0
+01:35:25.770 --> 01:35:27.450
+So for example in the same.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11448-0
+01:35:51.930 --> 01:35:57.384
+You have a class this account.
+For example you have account and you have
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11448-1
+01:35:57.384 --> 01:36:00.970
+self balance.
+Balance is equal to balance gate.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11456-0
+01:36:22.450 --> 01:36:24.130
+Yeah, great to this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11465-0
+01:36:25.530 --> 01:36:29.610
+And the rest thing you have right the
+same like you have right earlier.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11467-0
+01:36:38.370 --> 01:36:39.570
+AC holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11474-0
+01:37:14.090 --> 01:37:17.370
+Hold this version.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11476-0
+01:37:19.370 --> 01:37:20.210
+AC holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11487-0
+01:37:25.050 --> 01:37:28.904
+You can write the same also if you want,
+just to avoid the confusion.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11487-1
+01:37:28.904 --> 01:37:30.170
+You can write the same.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11493-0
+01:37:51.530 --> 01:37:54.010
+No, here it is. Uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11495-0
+01:37:56.170 --> 01:37:57.250
+We have right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11515-0
+01:37:58.970 --> 01:38:03.817
+If you want to write the same,
+you can write the same. No need to worry.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11515-1
+01:38:03.817 --> 01:38:08.530
+So here is we have created the account.
+You have write AC dot balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11526-0
+01:38:10.970 --> 01:38:17.010
+Is equal to something, let's say 34,
+000 something. We'll go here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11530-0
+01:38:18.610 --> 01:38:20.170
+We would terminate.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11532-0
+01:38:27.650 --> 01:38:27.810
+And.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11534-0
+01:38:30.370 --> 01:38:31.130
+Fearless.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11536-0
+01:38:35.890 --> 01:38:36.050
+See you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11545-0
+01:38:41.010 --> 01:38:45.613
+Account holder.
+He will pass from here the account holder
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11545-1
+01:38:45.613 --> 01:38:46.010
+name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11546-0
+01:38:49.570 --> 01:38:49.730
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11550-0
+01:38:52.570 --> 01:38:55.330
+Terminal view terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11553-0
+01:39:02.090 --> 01:39:03.730
+We have done this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11554-0
+01:39:07.730 --> 01:39:08.050
+Print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11558-0
+01:39:11.730 --> 01:39:13.410
+See it auto balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11563-0
+01:39:24.530 --> 01:39:26.090
+View Terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11564-0
+01:39:27.850 --> 01:39:28.610
+Unis.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11567-0
+01:39:32.250 --> 01:39:33.330
+34,000.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11570-0
+01:39:38.890 --> 01:39:40.490
+If you have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11577-0
+01:39:57.690 --> 01:39:59.490
+And you have tried to access the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11584-0
+01:40:05.210 --> 01:40:09.970
+Valance is equal to this one.
+We'll go here view terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11585-0
+01:40:16.450 --> 01:40:16.610
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11586-0
+01:40:18.330 --> 01:40:18.610
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/11590-0
+01:40:25.290 --> 01:40:26.290
+You tell me.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-0
+01:40:38.157 --> 01:40:42.117
+34,
+000 so it's the same thing whether you
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-1
+01:40:42.117 --> 01:40:47.734
+will write this way.
+So here is we can take the value and we
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-2
+01:40:47.734 --> 01:40:53.904
+can pass using the getter,
+get the balance will return the balance
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-3
+01:40:53.904 --> 01:40:55.837
+to self self balance.

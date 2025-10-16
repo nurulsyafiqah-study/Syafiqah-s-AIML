@@ -1,0 +1,6109 @@
+WEBVTT
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/190-0
+00:30:11.737 --> 00:30:12.257
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/191-0
+00:30:17.897 --> 00:30:21.737
+Hi, good morning.
+I'm going to start the session now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/192-0
+00:30:24.417 --> 00:30:26.057
+Hope everyone is here now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/193-0
+00:30:32.657 --> 00:30:34.097
+Good morning, Sir.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/194-0
+00:30:34.257 --> 00:30:35.177
+Good morning.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/195-0
+00:30:45.377 --> 00:30:47.217
+Let me share my screen.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/196-0
+00:30:49.737 --> 00:30:53.017
+We were discussing about the Uh classes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/198-0
+00:31:05.217 --> 00:31:07.177
+Let's continue that discussion.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/199-0
+00:31:10.657 --> 00:31:13.777
+The file file I already have shared with
+you guys, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/200-0
+00:31:17.537 --> 00:31:19.977
+Object oriented programming.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/201-0
+00:31:26.537 --> 00:31:30.623
+So what is object-oriented programming?
+How to define a class,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/201-1
+00:31:30.623 --> 00:31:34.514
+creating the object methods in a class,
+object constructor,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/201-2
+00:31:34.514 --> 00:31:37.497
+hands-on labs and assessment quiz at the
+end.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/202-0
+00:31:41.257 --> 00:31:46.925
+So what is object oriented programming?
+Theoretically I already told you we are
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/202-1
+00:31:46.925 --> 00:31:50.821
+think about the objects, right?
+Not the functionality.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/202-2
+00:31:50.821 --> 00:31:55.002
+We will think about the objects and
+depend on the objects.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/202-3
+00:31:55.002 --> 00:31:59.819
+We will create our programs.
+For example you are going to develop a
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/202-4
+00:31:59.819 --> 00:32:00.457
+employee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/203-0
+00:32:00.777 --> 00:32:06.535
+Management system. So what you will do,
+you will think about the employees and
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/203-1
+00:32:06.535 --> 00:32:12.002
+then employee have some certain
+characteristic. They have some sort of ID,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/203-2
+00:32:12.002 --> 00:32:17.614
+they have name and qualification and then
+you have some sort of methods what
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/203-3
+00:32:17.614 --> 00:32:20.457
+employees doing, registration, display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/204-0
+00:32:21.937 --> 00:32:22.657
+A lot so.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/205-0
+00:32:24.217 --> 00:32:29.698
+The similar sort of things we will put
+together that is known as a class and
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/205-1
+00:32:29.698 --> 00:32:35.607
+then we will create a real time entity of
+the class. For example you will say car.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/205-2
+00:32:35.607 --> 00:32:39.879
+So car is a class.
+Then you are going to create a real time
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/205-3
+00:32:39.879 --> 00:32:40.377
+entity.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/208-0
+00:32:41.697 --> 00:32:46.578
+Proton anything you are going to create
+that is this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/208-1
+00:32:46.578 --> 00:32:51.291
+The object that is the real time example
+of that thing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/208-2
+00:32:51.291 --> 00:32:57.435
+For example you have created the employee.
+Employee is a blue blueprint.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/208-3
+00:32:57.435 --> 00:33:00.297
+It's a blueprint employee have ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/209-0
+00:33:00.857 --> 00:33:06.190
+It's have a name and doing certain task.
+Then you have created one employee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/209-1
+00:33:06.190 --> 00:33:09.375
+For example you have created let's say
+Ajmal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/209-2
+00:33:09.375 --> 00:33:13.669
+So Ajmal have an ID 01 and he has some
+sort of qualification.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/209-3
+00:33:13.669 --> 00:33:17.617
+So the Ajmal is the real time entity of
+employee, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/252-0
+00:33:38.586 --> 00:33:43.813
+That will call automatically whenever you
+will create the object of the class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/252-1
+00:33:43.813 --> 00:33:48.642
+The constructor is a special kind of
+method that is called automatically
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/252-2
+00:33:48.642 --> 00:33:52.149
+whenever you will create the object of
+class, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/252-3
+00:33:52.149 --> 00:33:55.986
+So let's see one example of how we will
+define the class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/298-0
+00:33:57.426 --> 00:34:01.469
+So as I already told you,
+a class is a blueprint for creating the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/298-1
+00:34:01.469 --> 00:34:04.470
+object. It's a template,
+it's an object factory,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/298-2
+00:34:04.470 --> 00:34:08.145
+anything you can see right?
+So how we will write the class?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/298-3
+00:34:08.145 --> 00:34:10.901
+We will write the class.
+Class is a keyword.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/298-4
+00:34:10.901 --> 00:34:15.066
+Then after that we will write the class
+name and inside this class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/330-0
+00:34:15.626 --> 00:34:20.431
+We will let all the class attributes.
+We will let the functionality,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/330-1
+00:34:20.431 --> 00:34:25.864
+we will let the method. For example,
+you want to use the ID name and you want
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/330-2
+00:34:25.864 --> 00:34:31.226
+to do some sort of method display
+register so you can write inside that one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/348-0
+00:34:31.226 --> 00:34:35.185
+Here is one example.
+You have created a car and the car is
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/348-1
+00:34:35.185 --> 00:34:40.688
+defining. You have defined a method start.
+Whenever you will create the object of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/348-2
+00:34:40.688 --> 00:34:43.506
+the car, you can access this method start.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/351-0
+00:34:49.306 --> 00:34:50.906
+So that uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/362-0
+00:34:51.946 --> 00:34:58.066
+Initial example of class we already have
+seen. Let's discuss about the constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/408-0
+00:35:01.026 --> 00:35:06.227
+So constructor, what is constructor?
+Constructor is a special kind of method
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/408-1
+00:35:06.227 --> 00:35:11.563
+that is called automatically whenever you
+will create the object of the class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/408-2
+00:35:11.563 --> 00:35:16.494
+So how we will write the constructor we
+will write here init initialize.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/408-3
+00:35:16.494 --> 00:35:20.546
+This is short form of initialization.
+So we will write the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/456-0
+00:35:20.706 --> 00:35:24.758
+Under score, under score, init,
+under score, under score.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/456-1
+00:35:24.758 --> 00:35:30.067
+Then we will write this parenthesis small
+bracket that is your constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/456-2
+00:35:30.067 --> 00:35:33.909
+Whenever we'll see this init that is your
+constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/456-3
+00:35:33.909 --> 00:35:39.079
+So initially once you are going to
+construct all kind of object that time
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/456-4
+00:35:39.079 --> 00:35:40.266
+you will use the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/501-0
+00:35:40.346 --> 00:35:43.721
+A constructor.
+So this method you need not to call.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/501-1
+00:35:43.721 --> 00:35:48.978
+It is called automatically. For example,
+here we have create a class student and
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/501-2
+00:35:48.978 --> 00:35:52.352
+inside this student we have write the
+name and age.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/501-3
+00:35:52.352 --> 00:35:57.609
+So whenever you will create the object of
+this class it is automatically called.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/501-4
+00:35:57.609 --> 00:35:59.426
+Let me show you practically.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/538-0
+00:35:59.786 --> 00:36:03.652
+So what we will do this is day number six,
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/538-1
+00:36:03.652 --> 00:36:10.068
+So we'll create the folder for day number
+six. So here you will go to your folder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/538-2
+00:36:10.068 --> 00:36:15.866
+This is your folder AIML and you will go
+create one subfolder inside that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/538-3
+00:36:15.866 --> 00:36:17.026
+That is day #6.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/544-0
+00:36:17.386 --> 00:36:22.586
+Right click here new folder and folder
+name is DA 6.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/545-0
+00:36:24.706 --> 00:36:24.946
+Right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/596-0
+00:36:27.346 --> 00:36:30.611
+And we will start with the constructor
+example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/596-1
+00:36:30.611 --> 00:36:34.420
+So you right click here and you can open
+it in VS code.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/596-2
+00:36:34.420 --> 00:36:37.480
+So more options from here open with VS
+code.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/596-3
+00:36:37.480 --> 00:36:42.921
+If you are not able to see that options
+here so you can directly open using the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/596-4
+00:36:42.921 --> 00:36:46.186
+VS code also you already know right?
+So I will.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/605-0
+00:36:46.386 --> 00:36:51.584
+Directly open from the Visual Studio code.
+You will go to the Visual Studio code
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/605-1
+00:36:51.584 --> 00:36:52.226
+from here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/607-0
+00:36:53.506 --> 00:36:54.026
+And.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/645-0
+00:36:55.306 --> 00:36:59.461
+You will go here,
+find open folder and you will go to that
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/645-1
+00:36:59.461 --> 00:37:04.461
+location that is AIML day six.
+Select the folder and you can open this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/645-2
+00:37:04.461 --> 00:37:08.898
+way. It's up to you.
+Whatever the way is comfortable with you,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/645-3
+00:37:08.898 --> 00:37:13.546
+you can use done up to this level.
+All of you online one as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/650-0
+00:37:13.666 --> 00:37:18.186
+So right click here we are going to
+create a new for example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/652-0
+00:37:19.786 --> 00:37:21.146
+This is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/664-0
+00:37:22.426 --> 00:37:29.346
+Object oriented programming OOB example
+one I have given the name dot py.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/705-0
+00:37:30.346 --> 00:37:36.019
+Or simply, let's say example one dot py,
+the day six example number one dot py,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/705-1
+00:37:36.019 --> 00:37:40.273
+right? We are going to create a class.
+To create the class,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/705-2
+00:37:40.273 --> 00:37:44.882
+we will let class is a keyword.
+Then we will let the class name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/705-3
+00:37:44.882 --> 00:37:48.641
+For example,
+you are going to create a class player,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/705-4
+00:37:48.641 --> 00:37:49.066
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/711-0
+00:37:49.306 --> 00:37:54.546
+Player and enter.
+Here you are going to define.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/714-0
+00:37:58.106 --> 00:37:59.946
+Define the in need.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/720-0
+00:38:02.866 --> 00:38:06.466
+Init and we want to declare here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/724-0
+00:38:07.786 --> 00:38:10.386
+Let's say I have right here print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/732-0
+00:38:13.626 --> 00:38:20.746
+Welcome to player class.
+Just to show you that player class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/755-0
+00:38:24.026 --> 00:38:29.282
+And this class we have created.
+This is how we'll create the class, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/755-1
+00:38:29.282 --> 00:38:33.626
+Just a constructor, no method,
+nothing here, right? And here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/777-0
+00:38:35.386 --> 00:38:40.966
+I'm going to create the object of the
+class. So create the object of the class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/777-1
+00:38:40.966 --> 00:38:46.546
+The syntax is we will write the object
+name. Let me write here object creation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/782-0
+00:38:47.946 --> 00:38:51.186
+This is objective issue we are going to
+write here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/792-0
+00:38:52.266 --> 00:38:58.946
+Let's say P1 or player one.
+Let's say P1 is equal to player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/798-0
+00:39:01.786 --> 00:39:05.546
+We have just tried this one and we want
+to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/817-0
+00:39:07.226 --> 00:39:11.927
+We have done this one only, right?
+We have not tried anything,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/817-1
+00:39:11.927 --> 00:39:17.149
+we have not call any method,
+just we have create the object and we'll
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/817-2
+00:39:17.149 --> 00:39:17.746
+go here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/820-0
+00:39:20.346 --> 00:39:22.986
+We will like from here Python.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/823-0
+00:39:24.626 --> 00:39:26.706
+Example one dot py.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/842-0
+00:39:28.506 --> 00:39:32.909
+Welcome to player class.
+So you'll see we have just created the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/842-1
+00:39:32.909 --> 00:39:37.106
+object and it's automatically called the
+this method, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/864-0
+00:39:41.466 --> 00:39:45.490
+It's fine. It is your your.
+Spencer is perfectly fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/864-1
+00:39:45.490 --> 00:39:49.367
+There's no problem with it.
+Even before we complain,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/864-2
+00:39:49.367 --> 00:39:55.438
+there's no problem. We'll start an update.
+I think once again we'll check anything
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/864-3
+00:39:55.438 --> 00:39:57.706
+with nothing. So we can use it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/879-0
+00:39:57.906 --> 00:40:01.713
+OK, no, I need. Sorry you someone,
+for example,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/879-1
+00:40:01.713 --> 00:40:07.186
+you said the money that you know about
+the the class, right? OK, so.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/907-0
+00:40:08.906 --> 00:40:11.841
+What is? What is it so far?
+Just what this is?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/907-1
+00:40:11.841 --> 00:40:17.087
+Salman started explaining about the class.
+Are you connecting with the concept plus
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/907-2
+00:40:17.087 --> 00:40:20.771
+what? What is the?
+What do you think is the purpose of the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/907-3
+00:40:20.771 --> 00:40:23.706
+class?
+You you tend to make sense of the play?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/917-0
+00:40:24.586 --> 00:40:31.110
+But can you just explain in your words
+why? Why do you need classes in in Python?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/917-1
+00:40:31.110 --> 00:40:31.826
+Any idea?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/928-0
+00:40:33.466 --> 00:40:37.214
+And you wonder what that you think you
+don't have to be exactly right or it
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/928-1
+00:40:37.214 --> 00:40:38.546
+doesn't, it doesn't matter.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/935-0
+00:40:40.146 --> 00:40:44.106
+Where do you think that we should use
+passes the purpose?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/947-0
+00:40:48.186 --> 00:40:56.506
+How are you? Me. Yeah. Hey, the game.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/951-0
+00:40:58.426 --> 00:41:04.146
+We give comment to the completed in one
+in one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/977-0
+00:41:05.546 --> 00:41:11.889
+And then not the common class. Yeah,
+class. What is the purpose? Now, Mr.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/977-1
+00:41:11.889 --> 00:41:15.918
+Salman is teaching the class, right? Yeah,
+OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/977-2
+00:41:15.918 --> 00:41:20.546
+we can record the class again and again.
+We can call.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/979-0
+00:41:20.986 --> 00:41:21.346
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/980-0
+00:41:23.226 --> 00:41:23.346
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/982-0
+00:41:27.426 --> 00:41:27.946
+Miss you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/984-0
+00:41:36.386 --> 00:41:37.226
+Similar.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/989-0
+00:41:38.186 --> 00:41:41.986
+A similar character think something like
+that, yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1015-0
+00:41:43.226 --> 00:41:49.594
+Then it's the one. It's the a bit fine,
+but think see, like you know,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1015-1
+00:41:49.594 --> 00:41:56.599
+you know the plain English, right?
+In English you have heard about the noun,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1015-2
+00:41:56.599 --> 00:41:59.146
+right? What is noun? Anyone.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1055-0
+00:41:59.266 --> 00:42:04.722
+Noun in English noun, you know person,
+place or thing is noun, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1055-1
+00:42:04.722 --> 00:42:08.930
+Similarly here in Python or any
+programming language,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1055-2
+00:42:08.930 --> 00:42:14.464
+the class is a count kind of noun.
+You see the person, place or thing,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1055-3
+00:42:14.464 --> 00:42:18.906
+any entity you are creating that class
+the class have a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1098-0
+00:42:18.986 --> 00:42:22.460
+Sense of attributes and functionality
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1098-1
+00:42:22.460 --> 00:42:28.404
+Like you say the in the noun you say
+person. So person is a just a template.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1098-2
+00:42:28.404 --> 00:42:34.656
+It's not a actual person. For example Mr.
+Wahid is here. So he is actual person.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1098-3
+00:42:34.656 --> 00:42:36.586
+He is a an object of the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1155-0
+00:42:36.786 --> 00:42:41.601
+Class, right? So class is a blueprint.
+It's a template of the things I told you
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1155-1
+00:42:41.601 --> 00:42:45.814
+in the last session. For example,
+you are using these laptops, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1155-2
+00:42:45.814 --> 00:42:49.966
+You are using the Dell, you are using Mac.
+So these are all laptops,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1155-3
+00:42:49.966 --> 00:42:53.156
+but they have the different kind of
+characteristics.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1155-4
+00:42:53.156 --> 00:42:56.466
+Every laptop have a different kind of
+characteristics.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1206-0
+00:42:56.586 --> 00:43:00.960
+Once we will create the template,
+the blueprint right after that we can
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1206-1
+00:43:00.960 --> 00:43:03.876
+create the instance of that thing.
+For example,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1206-2
+00:43:03.876 --> 00:43:07.157
+you have to manage the employees in our
+organization.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1206-3
+00:43:07.157 --> 00:43:11.531
+So we will not create the separate
+separate, we'll create the template.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1206-4
+00:43:11.531 --> 00:43:16.026
+In the template we will there will be one
+ID, 1 qualification, one short.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1252-0
+00:43:16.106 --> 00:43:20.325
+Of job he is doing or she is doing.
+So those characteristics we will lay
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1252-1
+00:43:20.325 --> 00:43:23.735
+inside the class.
+Whenever we need to create the real time
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1252-2
+00:43:23.735 --> 00:43:26.566
+entity,
+we will create the object of that class,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1252-3
+00:43:26.566 --> 00:43:31.363
+right? So if someone asks what is class?
+So class is a template, it's a blueprint,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1252-4
+00:43:31.363 --> 00:43:35.466
+it's a collection of the things.
+We will wrap all the things together.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1263-0
+00:43:35.586 --> 00:43:40.682
+Together and whenever we required,
+we can create the real time entity for
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1263-1
+00:43:40.682 --> 00:43:42.266
+that thing. Got it? OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1299-0
+00:43:43.906 --> 00:43:48.590
+I'm not from my programming,
+but I'm like you guys, OK?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1299-1
+00:43:48.590 --> 00:43:54.862
+I'm from my networking, security,
+that's my area of expertise. So what Mr.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1299-2
+00:43:54.862 --> 00:43:59.546
+Salman explained. OK,
+it's a I'm taking your sight, OK?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1304-0
+00:43:59.906 --> 00:44:04.026
+So it's it's a for me also a big sounds
+like a uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1348-0
+00:44:05.186 --> 00:44:09.435
+I take time to think a little bit.
+I have to think about it and then I try
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1348-1
+00:44:09.435 --> 00:44:14.138
+to make sense out of it to understand in
+the relevance of what we're learning. OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1348-2
+00:44:14.138 --> 00:44:18.840
+in the in Python, we're learning Python.
+So where exactly am I going to apply this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1348-3
+00:44:18.840 --> 00:44:23.146
+class or object or oops concept,
+like object oriented programming concepts?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1378-0
+00:44:23.866 --> 00:44:28.653
+Where exactly I have to apply it.
+So for me, if I'm one of you,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1378-1
+00:44:28.653 --> 00:44:33.589
+I will ask Mr. Salman,
+can you show me some maybe a diagrammatic,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1378-2
+00:44:33.589 --> 00:44:37.328
+some sort of a, you know,
+a picture or a mapping,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1378-3
+00:44:37.328 --> 00:44:39.946
+how exactly I can visualize better?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1393-0
+00:44:40.586 --> 00:44:46.351
+The class structure. OK, so Miss Amman,
+do you have any such a diagram you can
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1393-1
+00:44:46.351 --> 00:44:51.386
+you can show? At least I can also see.
+Sure. So please, please show.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1420-0
+00:44:54.386 --> 00:44:59.307
+So I'm expecting you all to ask the
+questions like what I'm trying to ask.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1420-1
+00:44:59.307 --> 00:45:03.506
+I'm I'm not from programming background
+as well, so he's asked.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1460-0
+00:45:04.826 --> 00:45:08.355
+Explanation.
+He explains in the way best possible from
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1460-1
+00:45:08.355 --> 00:45:12.333
+his point of view. But as a student,
+from your point of view,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1460-2
+00:45:12.333 --> 00:45:16.504
+you must try to ask question in the best
+way that you can learn.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1460-3
+00:45:16.504 --> 00:45:20.546
+So both have to take advantage of each
+other. So if you don't.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1472-0
+00:45:21.026 --> 00:45:24.300
+You know,
+use his expertise for your understanding
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1472-1
+00:45:24.300 --> 00:45:28.666
+and then then it it will not be a proper
+learning. So ask interact.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1520-0
+00:45:30.386 --> 00:45:33.708
+Instead of, you know,
+just keeping with yourself,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1520-1
+00:45:33.708 --> 00:45:36.698
+there is no such thing as a simple
+question.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1520-2
+00:45:36.698 --> 00:45:41.814
+There is no such thing as a dumb question.
+No such thing. Please ask me. OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1520-3
+00:45:41.814 --> 00:45:46.133
+I ask him a diagram. Mr. Salamat,
+do you have any contender? No,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1520-4
+00:45:46.133 --> 00:45:50.186
+the diagram is at such is a no.
+Make them understand better.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1558-0
+00:45:50.386 --> 00:45:54.277
+How to visualize the class structure? Yes,
+absolutely. Yeah,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1558-1
+00:45:54.277 --> 00:45:59.317
+that that will help me as well. See,
+for example, you are going to create all,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1558-2
+00:45:59.317 --> 00:46:03.591
+you know, the car, dogs, animals,
+you know, right? So for example,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1558-3
+00:46:03.591 --> 00:46:07.801
+you have a car, right?
+So the car has some sort of functionality.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1558-4
+00:46:07.801 --> 00:46:09.906
+So this is again the text, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1562-0
+00:46:09.986 --> 00:46:15.786
+Visual. No, we will.
+That's mobile and sync. Fine. No issue.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1566-0
+00:46:18.226 --> 00:46:19.866
+Visually you want to see OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1574-0
+00:46:27.026 --> 00:46:34.026
+It's fine. It's totally fine. It's good.
+At least.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1576-0
+00:46:44.626 --> 00:46:47.266
+Quick, for example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1580-0
+00:46:55.386 --> 00:47:00.546
+Three, three wise. Uh, login need.
+I'll be like, I have uh with you space.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1581-0
+00:47:01.506 --> 00:47:01.626
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1627-0
+00:47:03.346 --> 00:47:07.093
+This is all Mike. Yes, and me.
+Just to be friendly,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1627-1
+00:47:07.093 --> 00:47:13.003
+actually I was really lost from the first
+chapter up till now and I just give you
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1627-2
+00:47:13.003 --> 00:47:17.975
+the view. Just a few minutes.
+I didn't get the idea actually because
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1627-3
+00:47:17.975 --> 00:47:21.146
+see this one is the the class.
+This is the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1671-0
+00:47:21.266 --> 00:47:26.451
+The row row concept, right?
+So this is the you have created the class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1671-1
+00:47:26.451 --> 00:47:29.810
+So class have some sort of properties,
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1671-2
+00:47:29.810 --> 00:47:35.725
+You have the some sort of color will be
+there, some sort of price will be there,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1671-3
+00:47:35.725 --> 00:47:40.106
+some sort of miles he can cover model.
+So this is the just.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1718-0
+00:47:40.626 --> 00:47:45.587
+Blank idea in your mind what you are
+going to do that is the abstract idea.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1718-1
+00:47:45.587 --> 00:47:49.242
+It's going to forward,
+it's going to backwards and all.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1718-2
+00:47:49.242 --> 00:47:54.398
+Once you go you will create the real time
+entity. This is the real time class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1718-3
+00:47:54.398 --> 00:47:58.837
+So here it's have some sort of color,
+it's have some sort of price.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1718-4
+00:47:58.837 --> 00:47:59.946
+Here is how much.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1734-0
+00:48:00.626 --> 00:48:05.410
+Kilometer here the model start backward,
+forward. This is the real time.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1734-1
+00:48:05.410 --> 00:48:09.472
+This is the template.
+This is the blank thing and this is the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1734-2
+00:48:09.472 --> 00:48:10.586
+real time entity.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1749-0
+00:48:12.946 --> 00:48:17.897
+But you are programmer.
+You need not to go to that one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1749-1
+00:48:17.897 --> 00:48:21.786
+That's very it's basic thing.
+Let him come.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1751-0
+00:48:25.506 --> 00:48:26.306
+You got it now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1758-0
+00:48:34.946 --> 00:48:36.906
+Let me copy it and put it here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1761-0
+00:48:53.106 --> 00:48:53.186
+It.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1762-0
+00:48:55.626 --> 00:48:55.786
+And.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1763-0
+00:48:57.626 --> 00:48:58.426
+It's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1765-0
+00:49:00.826 --> 00:49:17.066
+Let me put it here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1783-0
+00:49:25.386 --> 00:49:30.746
+Yeah, yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1791-0
+00:49:38.586 --> 00:49:50.506
+I can't understand.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1802-0
+00:49:52.066 --> 00:49:58.826
+Sorry for the interruption.
+So this is the one image I'll put here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1849-0
+00:50:00.466 --> 00:50:05.750
+See, this is the template, right?
+So this time we don't have the actual
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1849-1
+00:50:05.750 --> 00:50:11.180
+thing. We have the idea in our mind,
+right? We are going to create a car.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1849-2
+00:50:11.180 --> 00:50:16.757
+So the car should have some sort of color.
+It must have some sort of price.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1849-3
+00:50:16.757 --> 00:50:19.986
+It must go some sort of kilometers and
+all.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1886-0
+00:50:19.986 --> 00:50:23.883
+And there will be one model.
+It can have the functionality,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1886-1
+00:50:23.883 --> 00:50:29.275
+it can start, it can go to the backward,
+forward and all. So this is the template,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1886-2
+00:50:29.275 --> 00:50:33.107
+this is the class.
+Now you are going to create a real time
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1886-3
+00:50:33.107 --> 00:50:34.666
+entity, the real object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1926-0
+00:50:35.026 --> 00:50:38.334
+One car,
+one car you are going to create that is
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1926-1
+00:50:38.334 --> 00:50:42.519
+have a color, let's say red.
+Then it have some sort of price.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1926-2
+00:50:42.519 --> 00:50:46.029
+It has some sort of the destination it's
+can cover.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1926-3
+00:50:46.029 --> 00:50:49.944
+It's some sort of model it have and these
+are the things.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1926-4
+00:50:49.944 --> 00:50:54.466
+There's another car from the same
+template you can create another.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1951-0
+00:50:54.906 --> 00:51:00.642
+Card with the color of let's say green or
+the blue color or silver or anything and
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1951-1
+00:51:00.642 --> 00:51:06.033
+it should make have the different sort of
+prices. Thank you Sir. OK, you Sir,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1951-2
+00:51:06.033 --> 00:51:07.346
+does it make sense?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1982-0
+00:51:08.786 --> 00:51:13.875
+You understand better, right? OK,
+this what? What? What? What did Mr.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1982-1
+00:51:13.875 --> 00:51:19.690
+Salman did now? He went to Google, right?
+He tried to find using some sentence,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/1982-2
+00:51:19.690 --> 00:51:25.506
+some phrase he used. OK, what's the class?
+Oops in the in the graphical format.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2004-0
+00:51:25.746 --> 00:51:30.159
+He used that to find some videos.
+I mean that there's some sort of a
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2004-1
+00:51:30.159 --> 00:51:34.700
+graphical explanation and he watched it
+and it is making sense, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2004-2
+00:51:34.700 --> 00:51:37.066
+It's you can visualize better, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2015-0
+00:51:38.946 --> 00:51:41.624
+You want him to do the all the training
+in this way.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2015-1
+00:51:41.624 --> 00:51:43.746
+It's taking it's going to take six months.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2031-0
+00:51:46.346 --> 00:51:50.426
+Is going to take a long time.
+So my advice to you, my dear friends,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2031-1
+00:51:50.426 --> 00:51:52.106
+you need to do this at home.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2072-0
+00:51:55.066 --> 00:51:58.596
+Because if you go this way,
+it still will take too long.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2072-1
+00:51:58.596 --> 00:52:02.559
+So but if you can help him by preparing
+extra spending at home,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2072-2
+00:52:02.559 --> 00:52:07.142
+you can learn more because he can use his
+expertise to learn more things.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2072-3
+00:52:07.142 --> 00:52:11.786
+But by helping to prepare fundamentals,
+everything at home, do extra work.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2103-0
+00:52:12.066 --> 00:52:15.996
+These 30 days,
+give yourself these 30 days. Do more work,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2103-1
+00:52:15.996 --> 00:52:19.791
+spend more time. OK, tomorrow's topics.
+Ask Mr. Salman.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2103-2
+00:52:19.791 --> 00:52:25.482
+He will tell you and then do some reading
+about it. Next day, by the time you come,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2103-3
+00:52:25.482 --> 00:52:27.786
+it will not be a surprise for you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2131-0
+00:52:28.386 --> 00:52:32.854
+So this is a problem of a prerequisite or
+no ID learning in the past.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2131-1
+00:52:32.854 --> 00:52:36.557
+But the only way you can address it by
+reading, watching,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2131-2
+00:52:36.557 --> 00:52:40.195
+doing more and more something about it on
+a daily basis.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2131-3
+00:52:40.195 --> 00:52:43.706
+Then only your your mind will become IT
+thinking mind.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2168-0
+00:52:44.026 --> 00:52:47.452
+So you do that 100% you will see a good
+results. OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2168-1
+00:52:47.452 --> 00:52:52.041
+so that's my this is not actually
+practically I wanted to demonstrate.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2168-2
+00:52:52.041 --> 00:52:57.018
+That's why I disturb your class so that
+you know you can learn more by doing
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2168-3
+00:52:57.018 --> 00:53:01.026
+extra work at home.
+We just have to go and find you know more
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2168-4
+00:53:01.026 --> 00:53:01.866
+explanations.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2199-0
+00:53:02.226 --> 00:53:07.081
+More ways of, you know,
+understanding better. How can you do that?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2199-1
+00:53:07.081 --> 00:53:11.212
+You tomorrow's topics.
+You get a list of topics from Mr.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2199-2
+00:53:11.212 --> 00:53:17.226
+Salman that night before you come to the
+class. Do your homework and you do it OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2232-0
+00:53:17.626 --> 00:53:21.535
+So I hope this helps.
+Sorry for the encryption. It's OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2232-1
+00:53:21.535 --> 00:53:25.100
+it's good.
+Maybe if there's someone can say that BS
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2232-2
+00:53:25.100 --> 00:53:29.558
+file, not the example. Mm-hmm.
+I I will do. I will do that also.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2232-3
+00:53:29.558 --> 00:53:34.906
+That's fine and that that's also fine.
+Yeah, I can. I can put in advance one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2243-0
+00:53:35.226 --> 00:53:41.170
+It's OK. If you want it earlier,
+I can do that also. OK, so please begin.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2243-1
+00:53:41.170 --> 00:53:45.266
+Yeah, fine. Thank you. OK, Mr. Meet,
+I think it's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2244-0
+00:53:45.306 --> 00:53:45.386
+It.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2246-0
+00:53:46.666 --> 00:53:52.386
+So this I think it was.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2277-0
+00:54:21.066 --> 00:54:29.466
+I think I by mistake I have given him the
+apartment key. Why would I?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2277-1
+00:54:29.466 --> 00:54:37.746
+Can I please check the apartment key I
+have given to you by mistake.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2290-0
+00:54:37.946 --> 00:54:45.546
+I don't know,
+but it's anyway so then so this one is we
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2290-1
+00:54:45.546 --> 00:54:49.346
+will write here the example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2293-0
+00:54:50.746 --> 00:54:52.746
+So what happened is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2317-0
+00:54:54.986 --> 00:54:59.639
+We have defined this is the constructor.
+It's automatically create this thing
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2317-1
+00:54:59.639 --> 00:55:02.384
+right?
+So now we are going to create a method
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2317-2
+00:55:02.384 --> 00:55:05.426
+done up to this level.
+This one you have not done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2324-0
+00:55:29.946 --> 00:55:33.466
+Let's create one method define.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2326-0
+00:55:34.226 --> 00:55:35.706
+Register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2328-0
+00:55:36.666 --> 00:55:38.626
+Here is start.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2336-0
+00:55:40.186 --> 00:55:45.106
+We want the player ID, let's say.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2357-0
+00:55:46.346 --> 00:55:55.706
+ID we want the name and we want the T OK,
+so we have self dot ID is equal to ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2359-0
+00:55:57.546 --> 00:55:58.986
+You want the name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2362-0
+00:56:00.786 --> 00:56:02.946
+Self dot name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2365-0
+00:56:04.106 --> 00:56:04.706
+Is equal to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2375-0
+00:56:06.786 --> 00:56:16.706
+Name we want team self dot team is equal
+to team.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2379-0
+00:56:19.186 --> 00:56:20.946
+And we want to display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2382-0
+00:56:22.426 --> 00:56:25.106
+Is diff display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2387-0
+00:56:30.706 --> 00:56:34.146
+This is a method display we have rate
+print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2388-0
+00:56:43.386 --> 00:56:44.226
+ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2389-0
+00:56:58.626 --> 00:56:58.946
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2391-0
+00:57:02.946 --> 00:57:04.626
+Self dot ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2393-0
+00:57:17.026 --> 00:57:17.586
+Mail.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2395-0
+00:57:25.346 --> 00:57:25.506
+Name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2396-0
+00:57:33.146 --> 00:57:33.306
+See you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2400-0
+00:57:39.546 --> 00:57:41.786
+We have a team as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2409-0
+00:57:53.826 --> 00:57:57.746
+If you want to call the register P1 dot
+register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2422-0
+00:58:01.546 --> 00:58:05.826
+From here we have passed the ID,
+let's say one name we have passed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2424-0
+00:58:07.306 --> 00:58:08.746
+Let's see, uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2429-0
+00:58:10.986 --> 00:58:15.266
+MSPPM is we have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2431-0
+00:58:16.866 --> 00:58:18.066
+India.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2446-0
+00:58:22.946 --> 00:58:28.250
+Tiny player.
+We have created one more player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2446-1
+00:58:28.250 --> 00:58:34.706
+E2 is equal to player.
+One more player we have created.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2453-0
+00:58:38.346 --> 00:58:42.306
+E2 dot register query ID #2.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2457-0
+00:58:44.266 --> 00:58:48.066
+Let's see this one is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2460-0
+00:58:51.906 --> 00:58:56.066
+And this is from.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2481-0
+00:58:59.706 --> 00:59:10.490
+Then we have created one more P3 is equal
+to player we have created.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2481-1
+00:59:10.490 --> 00:59:14.866
+This one is power to player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2488-0
+00:59:17.426 --> 00:59:21.211
+And we have registered it.
+We do dot register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2488-1
+00:59:21.211 --> 00:59:23.546
+We have right here new event.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2490-0
+00:59:30.546 --> 00:59:31.746
+Here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2513-0
+00:59:38.826 --> 00:59:47.972
+We want to print. We call P1 dot display.
+It will display the first player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2513-1
+00:59:47.972 --> 00:59:53.026
+P2 display will display the second player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2533-0
+00:59:55.386 --> 00:59:58.598
+P3 dot display will display the third
+player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2533-1
+00:59:58.598 --> 01:00:01.809
+This time I have taken the hard coded
+values.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2533-2
+01:00:01.809 --> 01:00:06.626
+Next example I'm going to show to take
+the values from the user. OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2558-0
+01:02:11.826 --> 01:02:12.586
+Yeah, yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2560-0
+01:02:21.706 --> 01:02:21.986
+Yep.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2561-0
+01:02:25.626 --> 01:02:26.386
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2580-0
+01:04:22.146 --> 01:04:22.306
+Done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2597-0
+01:04:24.266 --> 01:04:37.751
+The second file will come out.
+This is the thing. Let me check. Yeah, OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2597-1
+01:04:37.751 --> 01:04:39.026
+I need.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2604-0
+01:04:57.066 --> 01:04:59.466
+One two is publishing, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2607-0
+01:05:01.426 --> 01:05:02.666
+You do register in.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2610-0
+01:05:17.546 --> 01:05:17.666
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2611-0
+01:05:19.146 --> 01:05:20.706
+Thanks for.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2612-0
+01:05:22.266 --> 01:05:24.226
+We can play.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2615-0
+01:05:47.426 --> 01:05:47.906
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2616-0
+01:05:52.866 --> 01:05:53.186
+You.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2617-0
+01:05:55.986 --> 01:05:57.746
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2618-0
+01:05:59.906 --> 01:06:07.106
+So let's see your line number.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2621-0
+01:06:13.466 --> 01:06:13.946
+But.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2630-0
+01:06:18.626 --> 01:06:30.906
+Oh, I see you have a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2641-0
+01:06:32.426 --> 01:06:42.066
+The values for this place for.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2650-0
+01:06:44.426 --> 01:06:50.706
+You have displayed already the P2,
+that's why the display that goal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2652-0
+01:06:53.306 --> 01:06:54.426
+See here. Uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2668-0
+01:07:18.506 --> 01:07:27.506
+3P1 This is P3 dot register. It's P3.
+It is this P3.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2670-0
+01:07:32.866 --> 01:07:33.106
+No.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2672-0
+01:07:36.546 --> 01:07:38.106
+View terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2719-0
+01:07:43.226 --> 01:07:47.459
+So here is welcome to player,
+welcome to the player three times because
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2719-1
+01:07:47.459 --> 01:07:51.281
+it's called automatically whenever you
+create the object, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2719-2
+01:07:51.281 --> 01:07:54.926
+So it's calling three times.
+Then the ID name you have stored
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2719-3
+01:07:54.926 --> 01:07:58.277
+displaying here.
+So you can use it using the constructor
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2719-4
+01:07:58.277 --> 01:08:00.746
+as well that is parameterized constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2723-0
+01:08:01.666 --> 01:08:04.226
+Done this one.
+All of you online one as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2726-0
+01:08:08.146 --> 01:08:09.546
+Yes or no?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2728-0
+01:08:12.146 --> 01:08:13.186
+Hello.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2754-0
+01:08:13.946 --> 01:08:19.127
+I have copy this control C if I will use
+it without the this one without
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2754-1
+01:08:19.127 --> 01:08:22.818
+constructor,
+without this register method using the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2754-2
+01:08:22.818 --> 01:08:25.586
+constructor. How we'll do it? See here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2756-0
+01:08:28.306 --> 01:08:29.946
+I have commented this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2771-0
+01:08:32.826 --> 01:08:36.358
+If you want to use the parameterize
+constructor,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2771-1
+01:08:36.358 --> 01:08:40.106
+this is next example I'm going to use
+parameterize.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2775-0
+01:08:42.946 --> 01:08:45.226
+What happened to this machine?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2779-0
+01:08:47.426 --> 01:08:48.906
+Where am I traced?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2781-0
+01:08:50.946 --> 01:08:51.586
+Constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2784-0
+01:08:58.866 --> 01:09:00.226
+So here it is. Uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2789-0
+01:09:01.426 --> 01:09:04.226
+We want to take it from here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2794-0
+01:09:08.986 --> 01:09:12.266
+I have right here self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2795-0
+01:09:15.266 --> 01:09:15.626
+ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2803-0
+01:09:19.306 --> 01:09:22.306
+We just delete all these things,
+so here's the self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2835-0
+01:09:24.946 --> 01:09:28.966
+ID name.
+These things we want to take through the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2835-1
+01:09:28.966 --> 01:09:35.318
+parameter through the constructor only ID
+name and one more thing we have team
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2835-2
+01:09:35.318 --> 01:09:40.786
+right? Three things we have ID name, team.
+So we have it here self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2847-0
+01:09:41.226 --> 01:09:52.346
+dot ID is equal to ID self dot name is
+equal to name then self dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2854-0
+01:09:53.226 --> 01:09:59.546
+What else? P is equal to P fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2900-0
+01:10:03.106 --> 01:10:08.721
+So now how you'll create the object?
+This time if you'll create the object
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2900-1
+01:10:08.721 --> 01:10:15.084
+player, you have created the first object,
+let's say P1P1 is equal to P1 is equal to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2900-2
+01:10:15.084 --> 01:10:18.678
+player.
+So you want to create the object of the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2900-3
+01:10:18.678 --> 01:10:22.346
+player.
+So from here you have to pass this time.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2906-0
+01:10:22.466 --> 01:10:27.266
+The ID name and team from here.
+So ID one name is let's say.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2910-0
+01:10:29.706 --> 01:10:31.506
+I'm writing the same.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2918-0
+01:10:43.426 --> 01:10:45.506
+So would we have passed through the?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2928-0
+01:10:46.426 --> 01:10:49.713
+Register method.
+This time we are passing through the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2928-1
+01:10:49.713 --> 01:10:50.626
+constructor OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2939-0
+01:10:53.386 --> 01:10:59.316
+ID name.
+Similarly we have created P2 is equal to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2939-1
+01:10:59.316 --> 01:11:00.146
+player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2948-0
+01:11:02.306 --> 01:11:05.506
+We have right here too.
+We have right here. Let's see.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2951-0
+01:11:08.026 --> 01:11:10.186
+And here we have right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2970-0
+01:11:12.506 --> 01:11:20.394
+We have rate one more E3 is equal to
+player. We have rate three.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2970-1
+01:11:20.394 --> 01:11:26.826
+We have rate this one and we have rate
+here England.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2981-0
+01:11:29.266 --> 01:11:34.706
+We have created 3-4 as many as you want.
+You can create, you can display here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2982-0
+01:11:36.306 --> 01:11:36.386
+Oh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2984-0
+01:11:40.306 --> 01:11:40.946
+Display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/2994-0
+01:11:52.626 --> 01:12:00.786
+P1 dot display if you like this one what
+it will show any of you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3000-0
+01:12:32.866 --> 01:12:33.826
+Displaying.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3001-0
+01:12:35.146 --> 01:12:35.666
+First.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3004-0
+01:12:37.146 --> 01:12:38.586
+Layer details.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3012-0
+01:13:07.546 --> 01:13:09.466
+Hello, yes, you want to have something?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3014-0
+01:13:17.586 --> 01:13:19.306
+Nuril Safiq.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3019-0
+01:13:20.986 --> 01:13:23.786
+Yeah, uh, that's me. Um.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3017-0
+01:13:23.226 --> 01:13:23.506
+Hmm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3042-0
+01:13:25.466 --> 01:13:34.731
+I have issue when when I yeah at the
+terminate it shows error.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3025-0
+01:13:27.946 --> 01:13:29.186
+You have.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3042-1
+01:13:34.731 --> 01:13:40.466
+Can you can I show the screen? OK wait.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3038-0
+01:13:36.226 --> 01:13:37.226
+Yeah, sure.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3056-0
+01:14:01.866 --> 01:14:08.226
+We have read the P1 register. OK,
+go to the line #10.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3061-0
+01:14:12.506 --> 01:14:16.786
+Line #10.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3065-0
+01:14:17.146 --> 01:14:19.426
+Did you have a P display?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3078-0
+01:14:22.426 --> 01:14:27.386
+Um, I think here is. It's not blue.
+I don't know why.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3079-0
+01:14:27.986 --> 01:14:30.546
+The go to the line #5 first.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3095-0
+01:14:33.226 --> 01:14:39.986
+Line #5 uh before D just click before D
+def before def click.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3083-0
+01:14:33.826 --> 01:14:33.946
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3108-0
+01:14:39.906 --> 01:14:45.786
+OK. Oh, no, I get it. No, I get it. OK.
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3111-0
+01:14:42.546 --> 01:14:47.626
+That's it. Similarly, line #10, line #10,
+go to the line #10.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3112-0
+01:14:46.666 --> 01:14:47.906
+Line #10.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3124-0
+01:14:49.346 --> 01:14:52.746
+Hmm. And yeah,
+before the field did the same.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3131-0
+01:14:50.826 --> 01:14:56.226
+OK. Yeah, yeah. It's just a tab.
+All right. OK, got it. Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3128-0
+01:14:54.666 --> 01:14:54.866
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3147-0
+01:14:56.346 --> 01:15:00.759
+You're most welcome because you have
+right this inside the constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3147-1
+01:15:00.759 --> 01:15:03.026
+It should be outside the constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3159-0
+01:15:00.946 --> 01:15:08.786
+Yeah, it should be. Yeah. OK, I get it.
+I'll wait. How do I stop sharing?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3161-0
+01:15:08.506 --> 01:15:10.786
+No problem, no problem. I'm sure stopping.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3162-0
+01:15:11.506 --> 01:15:11.906
+Alright, OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3163-0
+01:15:12.186 --> 01:15:12.266
+Um.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3169-0
+01:15:14.946 --> 01:15:17.666
+Uh, so this this is the next one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3176-0
+01:15:42.786 --> 01:15:43.346
+Just a second.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3208-0
+01:16:45.466 --> 01:16:48.895
+Then this parameterized constructor all
+of you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3208-1
+01:16:48.895 --> 01:16:51.466
+So which one is displayed this time?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3212-0
+01:17:02.866 --> 01:17:04.626
+EX1.5.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3224-0
+01:17:08.186 --> 01:17:11.907
+This will display the first one.
+If you want to display others,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3224-1
+01:17:11.907 --> 01:17:13.826
+you can write the others as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3268-0
+01:19:46.226 --> 01:19:49.706
+OK, I'm checking.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3278-0
+01:20:26.426 --> 01:20:26.546
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3282-0
+01:20:38.066 --> 01:20:38.546
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3286-0
+01:20:52.826 --> 01:20:55.746
+Can you find them?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3287-0
+01:21:02.266 --> 01:21:02.426
+2.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3321-0
+01:21:05.746 --> 01:21:11.082
+Yes, it should be.
+So I need to do the next. Yes. OK, well,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3321-1
+01:21:11.082 --> 01:21:14.728
+no,
+just remember the spelling should be
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3321-2
+01:21:14.728 --> 01:21:20.153
+correct, then two. And if you're right,
+it's not the things.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3321-3
+01:21:20.153 --> 01:21:23.266
+It should be the same name exactly.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3351-0
+01:21:23.546 --> 01:21:26.964
+Init for constructor.
+The rest you can write any the methods
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3351-1
+01:21:26.964 --> 01:21:31.390
+you are writing that could be anything
+but the constructor name should be init
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3351-2
+01:21:31.390 --> 01:21:35.648
+only. This is the same thing right?
+If you write something else it will not
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3351-3
+01:21:35.648 --> 01:21:39.066
+work. But this one,
+this method name you can write anything.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3380-0
+01:21:39.306 --> 01:21:42.960
+Got it.
+We have right with double N so it was not
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3380-1
+01:21:42.960 --> 01:21:46.175
+working.
+So that that that's a constructor.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3380-2
+01:21:46.175 --> 01:21:51.143
+This is the default method because it's
+called automatically right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3380-3
+01:21:51.143 --> 01:21:54.066
+So it's name it should be the same only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3392-0
+01:21:54.346 --> 01:22:00.334
+In it only these you can change the
+register and all that you can change
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3392-1
+01:22:00.334 --> 01:22:00.826
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3394-0
+01:22:01.786 --> 01:22:02.746
+Which one can I use?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3398-0
+01:22:04.386 --> 01:22:06.066
+You have used word double N.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3400-0
+01:22:07.546 --> 01:22:08.906
+You are right, Sir.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3408-0
+01:22:11.586 --> 01:22:15.386
+See, it will not work.
+It will like something else.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3420-0
+01:22:18.666 --> 01:22:23.426
+No other method you can give any name,
+but this one should be neat only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3430-0
+01:22:39.066 --> 01:22:45.688
+In one under score is double.
+So for you to use double under score. Yes,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3430-1
+01:22:45.688 --> 01:22:49.226
+the double under score is there single.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3434-0
+01:22:51.226 --> 01:22:55.346
+It done all of you this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3441-0
+01:22:57.666 --> 01:23:01.866
+Once you start writing,
+it will help you out. It's come out.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3450-0
+01:23:02.866 --> 01:23:06.546
+See, see, see you late there.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3493-0
+01:23:08.666 --> 01:23:13.316
+See these are all double. Oh yeah,
+you will like like this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3493-1
+01:23:13.316 --> 01:23:18.764
+You like they're all built in like this
+one. So you just choose init fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3493-2
+01:23:18.764 --> 01:23:22.687
+So for example you have not write this
+one right now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3493-3
+01:23:22.687 --> 01:23:28.426
+You have not write right and you want to
+write here. Yeah. So how we'll do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3504-0
+01:23:28.626 --> 01:23:34.383
+So we'll go here, enter.
+We will let and you will let here and you
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3504-1
+01:23:34.383 --> 01:23:35.586
+will find out.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3508-0
+01:23:36.826 --> 01:23:39.386
+This one is here. We'll choose this enter.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3533-0
+01:23:42.346 --> 01:23:48.326
+So you need not write up anything. OK,
+got it. So it will be fast.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3533-1
+01:23:48.326 --> 01:23:53.056
+So for decision all have to give number.
+Absolutely.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3533-2
+01:23:53.056 --> 01:23:56.626
+All building like deaf you're late here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3549-0
+01:23:56.666 --> 01:24:00.766
+Right here you you need not to type all
+the things and you press enter.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3549-1
+01:24:00.766 --> 01:24:04.924
+It's automatically right for you.
+The rest thing you want to do you just
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3549-2
+01:24:04.924 --> 01:24:06.746
+write ID just from the list huh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3556-0
+01:24:08.826 --> 01:24:11.626
+So it will make the things faster, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3569-0
+01:24:33.146 --> 01:24:39.626
+The help will come you press enter, enter.
+It will whatever.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3575-0
+01:24:44.946 --> 01:24:48.426
+Done. OK,
+now let's move to the next example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3582-0
+01:25:28.866 --> 01:25:29.506
+That's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3584-0
+01:25:35.226 --> 01:25:35.626
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3608-0
+01:26:12.226 --> 01:26:31.306
+Initialize that you can have complete.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3609-0
+01:26:31.386 --> 01:26:50.266
+Yeah, it's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3623-0
+01:26:51.146 --> 01:26:58.185
+Mr. Claud,
+see if you want to check the second
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3623-1
+01:26:58.185 --> 01:27:03.426
+player, what you would like. Hello.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3625-0
+01:27:05.266 --> 01:27:05.706
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3639-0
+01:27:07.626 --> 01:27:13.198
+And third one P3 dot display.
+So if you want both you can write P2 dot
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3639-1
+01:27:13.198 --> 01:27:13.826
+display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3643-0
+01:27:16.106 --> 01:27:19.426
+And P3 dot display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3680-0
+01:27:20.946 --> 01:27:24.234
+OK,
+so you can write it and you can check
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3680-1
+01:27:24.234 --> 01:27:29.401
+from here. So here is all three players.
+Now one more thing here,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3680-2
+01:27:29.401 --> 01:27:33.159
+if you want to print the player directly,
+fine,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3680-3
+01:27:33.159 --> 01:27:37.386
+so we can write here you'll do up to this
+level done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3725-0
+01:27:39.866 --> 01:27:43.957
+If you want to print directly,
+I want to show you one more method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3725-1
+01:27:43.957 --> 01:27:48.902
+So if you want to print print P1 so we'll
+see here it will give you some sort of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3725-2
+01:27:48.902 --> 01:27:51.649
+error.
+But how we will handle this situation
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3725-3
+01:27:51.649 --> 01:27:54.397
+then there is a method that I will show
+you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3725-4
+01:27:54.397 --> 01:27:58.426
+So here the main player object add this
+this is showing this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3747-0
+01:27:58.906 --> 01:28:03.363
+It is on the memory location fine.
+So we don't want this,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3747-1
+01:28:03.363 --> 01:28:09.586
+we want the actual value of the player.
+So for that we have here one method. OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3755-0
+01:28:11.466 --> 01:28:16.106
+To handle the situation,
+we have one method. The method name is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3757-0
+01:28:25.426 --> 01:28:25.626
+Stir.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3774-0
+01:28:40.026 --> 01:28:44.792
+I will show you the problem.
+So we will use if you want to use this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3774-1
+01:28:44.792 --> 01:28:47.666
+one. So we have a method. Method name is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3775-0
+01:28:51.506 --> 01:28:52.386
+Death.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3777-0
+01:28:55.106 --> 01:28:56.226
+STR.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3788-0
+01:28:57.626 --> 01:29:02.706
+Right. We'll use that define strings.
+So from here we write.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3792-0
+01:29:06.586 --> 01:29:08.946
+12 dot ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3794-0
+01:29:11.666 --> 01:29:11.786
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3799-0
+01:29:14.186 --> 01:29:16.226
+Let's see.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3806-0
+01:29:48.466 --> 01:29:50.306
+What else we have team, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3807-0
+01:29:57.626 --> 01:29:58.586
+This.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3808-0
+01:30:03.386 --> 01:30:03.706
+T.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3815-0
+01:30:39.466 --> 01:30:41.106
+This one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3818-0
+01:30:57.306 --> 01:30:57.426
+But.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3819-0
+01:30:59.666 --> 01:31:00.906
+It will be good.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3822-0
+01:31:05.466 --> 01:31:09.466
+So he will do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3824-0
+01:31:10.666 --> 01:31:11.826
+You can do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3827-0
+01:31:14.826 --> 01:31:15.746
+View terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3838-0
+01:31:19.306 --> 01:31:23.386
+So here it is. We have written ID, name,
+entity.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3888-0
+01:31:37.506 --> 01:31:42.265
+So this one is returning you this.
+So now we have just printed this P1.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3888-1
+01:31:42.265 --> 01:31:45.769
+So if we have this,
+this is a string it's returning.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3888-2
+01:31:45.769 --> 01:31:48.743
+So all the things we have right in this
+one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3888-3
+01:31:48.743 --> 01:31:53.106
+So if you want to print a P2 you need not
+to use the display now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3893-0
+01:31:53.466 --> 01:31:57.306
+You can directly use this way also print
+P1.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3895-0
+01:31:58.826 --> 01:31:59.346
+E2.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3900-0
+01:32:00.826 --> 01:32:02.146
+E3 right? We'll go here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3906-0
+01:32:05.306 --> 01:32:07.106
+So you have the P1P2P3.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3908-0
+01:32:09.946 --> 01:32:12.066
+You got it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3920-0
+01:32:15.786 --> 01:32:20.472
+Even the display, if you don't want,
+you can comment to this and you can
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3920-1
+01:32:20.472 --> 01:32:21.306
+directly use.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3921-0
+01:32:23.626 --> 01:32:25.826
+It is English, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3960-0
+01:32:36.186 --> 01:32:38.942
+What?
+What's the difference between having that
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3960-1
+01:32:38.942 --> 01:32:42.214
+and or having that?
+This this one is that this this is a
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3960-2
+01:32:42.214 --> 01:32:46.175
+method and this is the string.
+It will show you the same thing means
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3960-3
+01:32:46.175 --> 01:32:48.759
+every time you want to do the
+concatenation,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3960-4
+01:32:48.759 --> 01:32:52.146
+you need not to call the method,
+you just call the object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3971-0
+01:32:52.426 --> 01:32:55.585
+You are calling the object is will print
+anywhere.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3971-1
+01:32:55.585 --> 01:32:58.186
+This is the combination of all the things.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3974-0
+01:33:02.466 --> 01:33:03.746
+Play.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3986-0
+01:33:04.746 --> 01:33:07.537
+The one day is coming in the green one.
+Mm-hmm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/3986-1
+01:33:07.537 --> 01:33:09.746
+The one I don't need for this like it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4020-0
+01:33:11.826 --> 01:33:15.343
+Which one?
+I don't need that one for that that one
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4020-1
+01:33:15.343 --> 01:33:19.687
+is not required. Now you can just do.
+If you want to use both,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4020-2
+01:33:19.687 --> 01:33:25.134
+you can use both also. But see here,
+see here we need not to call the display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4020-3
+01:33:25.134 --> 01:33:26.306
+We just write P1.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4024-0
+01:33:26.866 --> 01:33:30.466
+P2 and it will print from inside this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4033-0
+01:33:31.626 --> 01:33:37.487
+See here CLS in your screen.
+So what object have everything is coming
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4033-1
+01:33:37.487 --> 01:33:37.906
+here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4075-0
+01:34:42.266 --> 01:34:47.281
+Then you guys can take the break.
+Now your breakfast has arrived.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4075-1
+01:34:47.281 --> 01:34:53.663
+You can do the breakfast after 20 minutes.
+We will continue all of your online one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4075-2
+01:34:53.663 --> 01:34:58.146
+Also you can take a break and join again
+after 20 minutes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4076-0
+01:34:58.626 --> 01:34:59.026
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4346-0
+02:12:22.386 --> 02:12:29.906
+Hello, all of you, please come online.
+Are you there, guys?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4351-0
+02:12:31.066 --> 02:12:33.346
+Yes, Sir. Ready.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4360-0
+02:12:32.666 --> 02:12:39.946
+OK, let's let's begin.
+So we have seen the example of this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4352-0
+02:12:32.706 --> 02:12:33.106
+Yes, uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4390-0
+02:12:41.466 --> 02:12:46.902
+This string representation of an object
+with the string method that we have seen
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4390-1
+02:12:46.902 --> 02:12:52.538
+here, right? So here is the class player.
+We have seen the string representation of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4390-2
+02:12:52.538 --> 02:12:53.746
+the object, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4421-0
+02:12:56.186 --> 02:13:02.780
+So this one is for number class person.
+We have the shared name age and here we
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4421-1
+02:13:02.780 --> 02:13:08.467
+have put the string representation so
+that we have seen right right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4421-2
+02:13:08.467 --> 02:13:12.506
+This is the string.
+This is the built in method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4461-0
+02:13:12.746 --> 02:13:16.074
+So this is the string representation of
+that object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4461-1
+02:13:16.074 --> 02:13:20.093
+We have created the object and we have
+represented as a string.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4461-2
+02:13:20.093 --> 02:13:24.426
+So we have directly call it.
+If you will not use this method so then
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4461-3
+02:13:24.426 --> 02:13:29.386
+you can't do this print you can't do.
+See for example here you have commented.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4464-0
+02:13:29.986 --> 02:13:32.466
+And you will go here view terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4492-0
+02:13:35.106 --> 02:13:38.403
+Not what's are not working at the moment.
+OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4492-1
+02:13:38.403 --> 02:13:44.137
+here is see it's giving you the the this
+error because it's going to the memory
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4492-2
+02:13:44.137 --> 02:13:49.584
+location, not to the string right?
+If you want exact a string then you have
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4492-3
+02:13:49.584 --> 02:13:50.946
+to use this method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4496-0
+02:14:02.346 --> 02:14:05.266
+You have uncommented this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4501-0
+02:14:09.906 --> 02:14:12.306
+And you have printed again.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4506-0
+02:14:14.346 --> 02:14:17.266
+You have seen it here, see.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4508-0
+02:14:18.826 --> 02:14:19.786
+You got it?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4554-0
+02:14:22.266 --> 02:14:27.755
+Yes, it it's called the location only,
+not the string representation like this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4554-1
+02:14:27.755 --> 02:14:31.090
+one.
+This object it's add this memory location,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4554-2
+02:14:31.090 --> 02:14:34.703
+add this memory location,
+add this memory location.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4554-3
+02:14:34.703 --> 02:14:39.706
+But we don't want to show the memory
+location, but we want to show the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4558-0
+02:14:39.746 --> 02:14:43.066
+The string.
+So in that case we will use it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4567-0
+02:14:45.266 --> 02:14:52.506
+So we we have to open the the the screen
+right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4574-0
+02:14:54.466 --> 02:15:00.106
+So anyone have any doubt question up to
+now you can ask.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4580-0
+02:15:02.546 --> 02:15:04.746
+OK, now next yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4577-0
+02:15:02.706 --> 02:15:02.986
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4592-0
+02:15:05.906 --> 02:15:10.666
+I still don't get it what self refers to,
+what self actually refers to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4593-0
+02:15:11.746 --> 02:15:12.746
+You have.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4603-0
+02:15:13.226 --> 02:15:17.866
+I still don't get it what self refer to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4604-0
+02:15:16.666 --> 02:15:20.146
+OK, what what self do right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4607-0
+02:15:20.346 --> 02:15:20.906
+Uh, yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4666-0
+02:15:21.346 --> 02:15:27.385
+The self keyword OK see self is actually
+represent that that we are going to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4666-1
+02:15:27.385 --> 02:15:30.992
+discuss a particular instance for example
+P1.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4666-2
+02:15:30.992 --> 02:15:36.953
+So we have created the P1 so self will go
+to the that instance of this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4666-3
+02:15:36.953 --> 02:15:41.266
+For example you have a P1 player one MSD
+and you have.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4710-0
+02:15:41.346 --> 02:15:47.082
+Print by P1 so it will go to that moment
+location this that particular object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4710-1
+02:15:47.082 --> 02:15:50.422
+So self denote to the instance of the
+object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4710-2
+02:15:50.422 --> 02:15:56.230
+It will not use the self that is for the
+complete class that is a static thing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4710-3
+02:15:56.230 --> 02:16:00.586
+For self it is instance for example P2 so
+it will tell the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4752-0
+02:16:01.346 --> 02:16:06.605
+Self means we will go to the P2 and it
+will display for P2P3.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4752-1
+02:16:06.605 --> 02:16:11.101
+It will display to the P3.
+The self is actually the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4752-2
+02:16:11.101 --> 02:16:17.633
+It's representation of the instance of
+the object right for the for the same
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4752-3
+02:16:17.633 --> 02:16:21.026
+object we are talking about for example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4776-0
+02:16:21.026 --> 02:16:25.753
+You are talking about here P1 so it will
+go to give you the value for P1.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4776-1
+02:16:25.753 --> 02:16:30.672
+How we get to know how we get to know
+that this is the you are talking about
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4776-2
+02:16:30.672 --> 02:16:33.866
+the P1 display.
+For example here let me show you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4788-0
+02:16:37.426 --> 02:16:42.357
+You have created this three objects you
+have created right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4788-1
+02:16:42.357 --> 02:16:44.986
+How many three you have created?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4797-0
+02:16:47.746 --> 02:16:51.586
+Three you have created and you have
+display only the two.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4843-0
+02:16:53.626 --> 02:16:57.496
+But we have created P1 player, P2 player,
+P3 player.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4843-1
+02:16:57.496 --> 02:17:02.314
+So how we get to know that which one we
+are we are going to call,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4843-2
+02:17:02.314 --> 02:17:07.498
+we are going to call the P2.
+From here we are going to call the P2 but
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4843-3
+02:17:07.498 --> 02:17:11.586
+here ID name and team how we will get to
+know which ID?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4884-0
+02:17:11.866 --> 02:17:16.291
+Because P1 also have the ID,
+P2 also have the ID,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4884-1
+02:17:16.291 --> 02:17:22.398
+P3 also have the ID right?
+So from here the self itself tell that we
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4884-2
+02:17:22.398 --> 02:17:28.948
+are going to discuss of the same same
+player that object you have passed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4884-3
+02:17:28.948 --> 02:17:31.426
+So if you use P2 so it will.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4901-0
+02:17:31.506 --> 02:17:35.570
+Give you the value for P2.
+If you'll enter the P3,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4901-1
+02:17:35.570 --> 02:17:41.626
+it will give you the value for P3 self
+represent the same instance. Got it?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4902-0
+02:17:42.626 --> 02:17:43.106
+Yes, yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4904-0
+02:17:46.106 --> 02:17:46.346
+No.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4906-0
+02:17:48.546 --> 02:17:49.986
+Clear this part.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4911-0
+02:18:06.866 --> 02:18:08.546
+Oh, next is uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4915-0
+02:18:22.866 --> 02:18:24.306
+Inheritance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4920-0
+02:18:27.466 --> 02:18:29.906
+Inheritance is allows you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4956-0
+02:18:34.226 --> 02:18:40.684
+Inheritance allows you the properties and
+methods from another class. For example,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4956-1
+02:18:40.684 --> 02:18:46.053
+we have created a class animal and the
+animal have the method speak.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4956-2
+02:18:46.053 --> 02:18:51.266
+So if we have write the speak then we we
+will write another class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4977-0
+02:18:51.426 --> 02:18:56.135
+That is inherited class and we want to
+use the earlier class method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4977-1
+02:18:56.135 --> 02:18:59.753
+So how we will do,
+we will do using the inheritance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4977-2
+02:18:59.753 --> 02:19:01.186
+Let me show you here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4979-0
+02:19:01.946 --> 02:19:03.306
+For example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4989-0
+02:19:14.506 --> 02:19:20.224
+This one is done.
+Let me create here one more new file.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4989-1
+02:19:20.224 --> 02:19:22.266
+This is inheritance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4991-0
+02:19:25.626 --> 02:19:26.666
+Example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4993-0
+02:19:28.266 --> 02:19:28.826
+Dirt 5.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/4994-0
+02:19:32.026 --> 02:19:32.226
+Right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5009-0
+02:19:33.266 --> 02:19:39.192
+We have created here a class.
+Let's say class name is EMT employee we
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5009-1
+02:19:39.192 --> 02:19:40.546
+have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5011-0
+02:19:50.146 --> 02:19:51.266
+Register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5012-0
+02:19:55.066 --> 02:19:55.706
+That's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5014-0
+02:20:00.586 --> 02:20:01.826
+Register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5020-0
+02:20:10.226 --> 02:20:14.226
+ID and just two things for example we
+have.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5024-0
+02:20:17.946 --> 02:20:19.066
+Self dot ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5025-0
+02:20:20.626 --> 02:20:21.346
+ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5028-0
+02:20:22.746 --> 02:20:24.426
+Alpha dot Lee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5030-0
+02:20:25.546 --> 02:20:28.426
+We have here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5038-0
+02:20:48.986 --> 02:20:51.786
+IT English.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5039-0
+02:20:56.746 --> 02:20:57.026
+Bend.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5045-0
+02:21:22.386 --> 02:21:22.746
+I do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5046-0
+02:21:29.026 --> 02:21:29.466
+Name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5048-0
+02:21:34.426 --> 02:21:35.826
+Yeah, it is me.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5053-0
+02:21:38.706 --> 02:21:42.026
+That's fine. You have created one class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5062-0
+02:21:44.146 --> 02:21:51.946
+Last name is developer and developer is
+drive from the EMP.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5067-0
+02:21:55.666 --> 02:21:56.786
+Here we have defined.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5069-0
+02:22:02.306 --> 02:22:02.546
+Welcome.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5070-0
+02:22:08.266 --> 02:22:08.546
+Print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5072-0
+02:22:12.826 --> 02:22:13.546
+Welcome to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5074-0
+02:22:15.386 --> 02:22:16.466
+W back.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5076-0
+02:22:21.986 --> 02:22:22.106
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5102-0
+02:22:25.346 --> 02:22:30.547
+We have just write this route.
+Now see this is an inherited class,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5102-1
+02:22:30.547 --> 02:22:36.756
+so whatever you have inside the employee,
+you can access it using the developer
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5102-2
+02:22:36.756 --> 02:22:38.386
+also. So D developer.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5108-0
+02:22:41.186 --> 02:22:45.746
+We have created the developer.
+We are ready dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5120-0
+02:22:47.626 --> 02:22:55.746
+Register and we have passed from here the
+ID one name is Sam.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5147-0
+02:22:57.986 --> 02:23:05.206
+And we have display D dot display so
+because this is a child class of this one
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5147-1
+02:23:05.206 --> 02:23:12.975
+so you can access all the members of this
+employee and plus this on methods as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5147-2
+02:23:12.975 --> 02:23:13.706
+Welcome.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5150-0
+02:23:17.546 --> 02:23:19.026
+View Terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5151-0
+02:23:24.426 --> 02:23:24.586
+Here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5157-0
+02:23:37.786 --> 02:23:40.666
+Well, not IDs.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5158-0
+02:23:43.546 --> 02:23:43.866
+Well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5186-0
+02:24:24.586 --> 02:24:27.533
+OK, example.
+Sorry one don't have anything.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5186-1
+02:24:27.533 --> 02:24:32.221
+I'm running the one by mistake.
+I have to run what this and edit ends
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5186-2
+02:24:32.221 --> 02:24:33.226
+example, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5191-0
+02:24:35.706 --> 02:24:40.666
+The terminal CLS Python.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5193-0
+02:24:45.066 --> 02:24:46.786
+Inheritance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5194-0
+02:24:46.826 --> 02:24:47.106
+It's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5197-0
+02:24:50.546 --> 02:24:51.466
+EX dot pi.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5207-0
+02:24:58.906 --> 02:25:03.666
+It is welcome. This is welcome.
+You have to write self as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5215-0
+02:25:23.586 --> 02:25:27.626
+We don't want to pass,
+we want to use only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5221-0
+02:25:36.946 --> 02:25:38.786
+Ready one in this.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5232-0
+02:26:01.946 --> 02:26:06.306
+We want to just pause the ID server dot
+ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5236-0
+02:26:09.226 --> 02:26:10.386
+Say the name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5245-0
+02:26:20.586 --> 02:26:26.506
+Without this form that you want to use,
+which I saw clear that will be good.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5265-0
+02:26:28.026 --> 02:26:32.142
+Let me just do this.
+So I don't want to write in curly braces,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5265-1
+02:26:32.142 --> 02:26:35.866
+I want to write directly.
+So here is control V terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5293-0
+02:26:37.306 --> 02:26:42.117
+Series Python example.
+Welcome to developer ID one names.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5293-1
+02:26:42.117 --> 02:26:48.254
+So let me explain it. How is it working?
+See you have the class employee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5293-2
+02:26:48.254 --> 02:26:54.226
+Employee is your base class,
+base or superclass. Fine. So this is your.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5297-0
+02:26:56.546 --> 02:26:59.826
+Superclass. This one is known as.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5314-0
+02:27:02.506 --> 02:27:10.194
+Superclass or base class or parent class?
+What do we call it?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5314-1
+02:27:10.194 --> 02:27:13.666
+Superclass or base class or?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5316-0
+02:27:15.826 --> 02:27:17.586
+For parent class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5326-0
+02:27:18.746 --> 02:27:25.666
+Fine and this the developer is it's drive
+class inherited class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5328-0
+02:27:34.226 --> 02:27:35.386
+Inherited.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5331-0
+02:27:47.906 --> 02:27:51.186
+Inherited class or.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5334-0
+02:27:52.986 --> 02:27:55.266
+Where are you to class?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5337-0
+02:27:59.506 --> 02:28:01.666
+Or child class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5371-0
+02:28:04.506 --> 02:28:09.577
+This class can access all the members of
+parent class, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5371-1
+02:28:09.577 --> 02:28:15.794
+So if you'll create the object of this D,
+you can access all the members of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5371-2
+02:28:15.794 --> 02:28:19.393
+employee,
+but you will create the object of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5371-3
+02:28:19.393 --> 02:28:22.746
+employee, you can't access the member of.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5388-0
+02:28:22.826 --> 02:28:27.540
+Drive class got it.
+So for example you have created the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5388-1
+02:28:27.540 --> 02:28:32.506
+object of employee class. This is EMP.
+You have created E.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5438-0
+02:28:35.626 --> 02:28:40.602
+E is equal to EMP.
+This is the object of employee class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5438-1
+02:28:40.602 --> 02:28:47.410
+You can call the register if you want.
+So here you have register one employee
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5438-2
+02:28:47.410 --> 02:28:54.306
+103 for example 102 and the name is Raj
+and you want to display E dot display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5456-0
+02:28:54.826 --> 02:28:59.031
+You can display it,
+but if you want to call welcome,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5456-1
+02:28:59.031 --> 02:29:03.473
+you can't call.
+Welcome will give you the error, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5456-2
+02:29:03.473 --> 02:29:04.346
+So here is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5474-0
+02:29:09.226 --> 02:29:14.736
+This is the basic one I have showed you.
+After this we will see that the method
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5474-1
+02:29:14.736 --> 02:29:17.146
+overriding as well. So here is 1-2.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5520-0
+02:29:20.306 --> 02:29:24.673
+So what the benefit is?
+The benefit is if you have one built in
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5520-1
+02:29:24.673 --> 02:29:30.268
+one class already and you want to use it,
+so you need not write the methods again
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5520-2
+02:29:30.268 --> 02:29:33.885
+for the next class,
+you can call it directly, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5520-3
+02:29:33.885 --> 02:29:38.866
+So this is the developer is inherited
+class and this is your base class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5522-0
+02:29:43.186 --> 02:29:43.666
+Do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5575-0
+02:29:49.546 --> 02:29:53.009
+For example,
+developer want to write this thing
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5575-1
+02:29:53.009 --> 02:29:58.348
+differently. So how we will do it?
+We'll do that one in the next example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5575-2
+02:29:58.348 --> 02:30:03.904
+Here we have a class employee right?
+So employee class have the register and
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5575-3
+02:30:03.904 --> 02:30:09.026
+display method and the developer is a
+drive class of employee dev EMP.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5584-0
+02:30:09.546 --> 02:30:13.819
+So using the developer,
+we can access all the members that we
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5584-1
+02:30:13.819 --> 02:30:16.506
+have inside the employee class. Got it?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5586-0
+02:30:31.786 --> 02:30:31.906
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5588-0
+02:30:47.506 --> 02:30:53.506
+Do you?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5593-0
+02:31:03.866 --> 02:31:06.346
+You have to call him.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5610-0
+02:31:08.786 --> 02:31:24.586
+Oh, yes, for the welcome one. Yes, yes,
+I have had this welcome for for you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5622-0
+02:31:24.586 --> 02:31:34.706
+See this is the default behavior.
+First you will do it then if you want to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5627-0
+02:32:04.946 --> 02:32:05.266
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5634-0
+02:32:21.666 --> 02:32:23.666
+I need the volume set up.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5645-0
+02:33:27.906 --> 02:33:28.386
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5650-0
+02:33:42.826 --> 02:33:47.026
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5657-0
+02:33:47.986 --> 02:33:56.346
+I see, I see that. So I have the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5658-0
+02:33:57.026 --> 02:34:01.306
+Oh, welcome to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5659-0
+02:34:04.226 --> 02:34:05.346
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5660-0
+02:34:08.506 --> 02:34:09.066
+Something.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5661-0
+02:34:27.146 --> 02:34:28.506
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5669-0
+02:34:42.426 --> 02:35:00.266
+If you will go ahead in somewhere,
+then I can.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5671-0
+02:35:00.306 --> 02:35:01.266
+Why cancel?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5687-0
+02:35:16.026 --> 02:35:33.026
+See the next thing is polymorphism.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5738-0
+02:35:33.266 --> 02:35:36.941
+Polymorphism.
+You know what the meaning of polymorphism
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5738-1
+02:35:36.941 --> 02:35:42.060
+means one thing you have that have the
+multiple form of that that is known as
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5738-2
+02:35:42.060 --> 02:35:46.391
+polymorphism. For example,
+here we have the employee register and
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5738-3
+02:35:46.391 --> 02:35:50.919
+display right in the developer.
+We want the registration and display
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5738-4
+02:35:50.919 --> 02:35:51.706
+differently.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5770-0
+02:35:52.786 --> 02:35:58.501
+Right, so that is polymorphous.
+Polymorphous means to have the multiple
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5770-1
+02:35:58.501 --> 02:36:03.819
+format of the same thing.
+So here is polymorphous allows method to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5770-2
+02:36:03.819 --> 02:36:07.946
+have different implementation based on
+the objects.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5793-0
+02:36:29.106 --> 02:36:35.677
+Then we will change this one as well.
+So first I'm showing you here this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5793-1
+02:36:35.677 --> 02:36:41.826
+Also I will make the polymorphism example.
+So first we will go here new.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5795-0
+02:36:42.786 --> 02:36:44.026
+Five only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5799-0
+02:36:48.906 --> 02:36:49.506
+Ex.py.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5802-0
+02:36:52.426 --> 02:36:53.946
+Volumor Facebook exam.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5809-0
+02:36:56.386 --> 02:36:59.266
+See here this is the basic one.
+We have a class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5815-0
+02:37:04.466 --> 02:37:07.706
+Could I write for you? OK,
+let me write that will be good.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5818-0
+02:37:09.826 --> 02:37:13.386
+We have a class, let's say board.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5835-0
+02:37:15.426 --> 02:37:24.064
+And inside this class we have a method
+defined like there is self and we have
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5835-1
+02:37:24.064 --> 02:37:25.946
+right here print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5846-0
+02:37:29.186 --> 02:37:36.666
+Bird can fly, right?
+We have read one more here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5855-0
+02:37:38.226 --> 02:37:45.826
+One more class. The class is, let's say,
+uh, something.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5857-0
+02:37:55.466 --> 02:37:55.826
+Airplane.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5890-0
+02:37:57.586 --> 02:38:02.166
+Here play if you're right and you want to
+do the inheritance,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5890-1
+02:38:02.166 --> 02:38:07.705
+you have to write the class name here
+bird and you have right here define.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5890-2
+02:38:07.705 --> 02:38:12.506
+This is a fly as well.
+Here you write self and you have printed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5894-0
+02:38:15.466 --> 02:38:16.626
+Print this one is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5918-0
+02:38:19.506 --> 02:38:23.690
+The plane fly.
+So both have the same thing right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5918-1
+02:38:23.690 --> 02:38:30.635
+Both both have the fly method, fly method.
+But in this first class if you'll write
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5918-2
+02:38:30.635 --> 02:38:34.066
+here you have created the object of bird.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5941-0
+02:38:34.826 --> 02:38:43.922
+Bird object let's see B is equal to bird
+and you have call B dot fly so it will
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5941-1
+02:38:43.922 --> 02:38:49.266
+give you the different thing and if you
+write.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5944-0
+02:38:58.786 --> 02:39:00.586
+Word implementation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5948-0
+02:39:05.026 --> 02:39:07.146
+And this is current.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5952-0
+02:39:11.906 --> 02:39:14.466
+Airplane implementation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5958-0
+02:39:18.186 --> 02:39:21.146
+You have right here A is equal to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5960-0
+02:39:24.266 --> 02:39:25.466
+We are playing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/5962-0
+02:39:27.946 --> 02:39:28.466
+A dot like.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6001-0
+02:39:29.786 --> 02:39:34.859
+So here then this time it will call the
+bird and it will say bird can fly.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6001-1
+02:39:34.859 --> 02:39:39.798
+In this time it will call the airplane
+and it will say airplane can fly.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6001-2
+02:39:39.798 --> 02:39:45.209
+This is just to understand the syntax.
+The real example I will write after this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6001-3
+02:39:45.209 --> 02:39:47.306
+right? First we'll do this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6004-0
+02:39:48.386 --> 02:39:49.986
+Here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6007-0
+02:39:50.986 --> 02:39:52.426
+What's the name?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6009-0
+02:39:57.066 --> 02:39:59.146
+EX dot file.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6053-0
+02:40:00.146 --> 02:40:05.249
+Here is bird implement is bird can fly
+and in aeroplane means it will call the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6053-1
+02:40:05.249 --> 02:40:10.481
+aeroplane dot fly means if you are using
+the object of the bird it will call the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6053-2
+02:40:10.481 --> 02:40:13.775
+bird one.
+If you are going to create the object of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6053-3
+02:40:13.775 --> 02:40:16.746
+the aeroplane it will call the aeroplane
+one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6092-0
+02:40:17.386 --> 02:40:22.720
+You can do this way also.
+You can write all the objects inside this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6092-1
+02:40:22.720 --> 02:40:26.407
+one and based on that you can call the
+method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6092-2
+02:40:26.407 --> 02:40:32.604
+For example here for OBJ in bird and
+aeroplane there is the collection of bird
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6092-3
+02:40:32.604 --> 02:40:35.506
+and aeroplane you have write OBJ fly.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6095-0
+02:40:35.986 --> 02:40:38.186
+So here is view terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6097-0
+02:40:42.826 --> 02:40:43.826
+Oh, here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6112-0
+02:40:44.986 --> 02:40:49.215
+Bird can fly and airplane can fly.
+If you want to use the phone,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6112-1
+02:40:49.215 --> 02:40:50.386
+let me just print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6114-0
+02:40:52.906 --> 02:40:53.106
+Uzim.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6115-0
+02:40:56.186 --> 02:40:56.866
+Or loop.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6118-0
+02:41:03.626 --> 02:41:04.986
+Exceleration.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6127-0
+02:41:13.266 --> 02:41:17.685
+I think it's excellent.
+I think my keyboard is have changed or
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6127-1
+02:41:17.685 --> 02:41:18.386
+something.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6139-0
+02:42:28.506 --> 02:42:28.826
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6147-0
+02:42:52.786 --> 02:43:03.306
+And then.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6148-0
+02:43:08.826 --> 02:43:08.906
+Hi.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6199-0
+02:43:20.666 --> 02:43:23.857
+Then we will see one real time use case
+after this.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6199-1
+02:43:23.857 --> 02:43:28.704
+This is just to understand the syntax
+because we have the same methods because
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6199-2
+02:43:28.704 --> 02:43:33.367
+you can call it using the aeroplane.
+Also you can call it using the bird as
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6199-3
+02:43:33.367 --> 02:43:36.681
+well, right?
+So it it's called the same method but in
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6199-4
+02:43:36.681 --> 02:43:39.626
+aeroplane this is the different
+implementation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6228-0
+02:43:39.986 --> 02:43:43.464
+And in world this is the different
+implementation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6228-1
+02:43:43.464 --> 02:43:48.646
+So similarly for employee we want to
+create for the developer the different
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6228-2
+02:43:48.646 --> 02:43:53.487
+implementation and for this one for
+employee different implementation.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6228-3
+02:43:53.487 --> 02:43:56.146
+I will show you after this we'll do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6230-0
+02:43:56.346 --> 02:43:58.226
+Fast then I will show you that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6236-0
+02:44:00.506 --> 02:44:04.026
+What should I ask you to do like exercise?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6239-0
+02:44:08.346 --> 02:44:09.666
+Huh. That will be good, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6250-0
+02:44:11.586 --> 02:44:16.186
+OK, first I will do one more example,
+then after that I will ask.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6279-0
+02:44:42.506 --> 02:44:47.323
+Just hang on. Yes,
+this is a calling number meeting is a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6279-1
+02:44:47.323 --> 02:44:52.637
+It's the B flyer here. Yes, A flyer,
+right, right, B flyer. No,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6279-2
+02:44:52.637 --> 02:44:57.786
+because we have created this object A
+here. A is for a plane.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6295-0
+02:44:58.146 --> 02:45:00.850
+And B is for bird, right?
+We have rated B dot flight,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6295-1
+02:45:00.850 --> 02:45:04.154
+so it will give you the bird one and we
+have called a dot flight.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6295-2
+02:45:04.154 --> 02:45:05.906
+It will give you the aeroplane one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6296-0
+02:45:05.946 --> 02:45:06.066
+Tim.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6342-0
+02:45:14.106 --> 02:45:18.235
+You can write any name,
+but this one is denote to aeroplane.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6342-1
+02:45:18.235 --> 02:45:22.972
+This one is denote to bird.
+Right here we have read the same thing in
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6342-2
+02:45:22.972 --> 02:45:26.424
+one go bird and aeroplane.
+So OBJ is denoting the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6342-3
+02:45:26.424 --> 02:45:31.026
+In first case it will be bird,
+in second case it will be aeroplane.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6345-0
+02:45:32.746 --> 02:45:35.106
+Here we are right in board and.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6359-0
+02:46:32.226 --> 02:46:34.026
+Online one as well. Have you done?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6363-0
+02:46:36.186 --> 02:46:36.706
+Completed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6364-0
+02:46:37.186 --> 02:46:37.466
+Thanks, uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6373-0
+02:46:38.706 --> 02:46:42.457
+OK,
+So what we will do is we will select then
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6373-1
+02:46:42.457 --> 02:46:42.946
+Misha.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6404-0
+02:46:44.786 --> 02:46:49.122
+What we'll do it,
+we will select it and we will comment it
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6404-1
+02:46:49.122 --> 02:46:51.842
+out.
+So we want to use the same that
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6404-2
+02:46:51.842 --> 02:46:57.501
+inheritance I have showed you this
+employee class and the display one and we
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6404-3
+02:46:57.501 --> 02:46:59.706
+want to define it differently.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6408-0
+02:46:59.946 --> 02:47:03.306
+In both the display, so you'll go here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6415-0
+02:47:10.986 --> 02:47:14.066
+We have right here a class employee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6418-0
+02:47:14.986 --> 02:47:16.306
+Should I write next one?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6430-0
+02:47:18.706 --> 02:47:26.226
+Here is a class class name is employee
+and the employee one we have define the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6432-0
+02:47:27.466 --> 02:47:28.066
+You need.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6435-0
+02:47:30.626 --> 02:47:32.946
+Init and we have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6438-0
+02:47:34.426 --> 02:47:36.346
+ID name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6455-0
+02:47:38.186 --> 02:47:42.529
+Well,
+let me just show you first the simple one
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6455-1
+02:47:42.529 --> 02:47:47.506
+without the definition.
+So here is let's say register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6458-0
+02:47:48.986 --> 02:47:51.186
+You have defined the register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6460-0
+02:47:52.626 --> 02:47:53.986
+Here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6463-0
+02:47:57.826 --> 02:47:59.226
+Print ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6470-0
+02:48:00.826 --> 02:48:06.386
+Oh, sorry, ID name self.
+You have to write first self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6473-0
+02:48:09.266 --> 02:48:11.466
+ID name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6475-0
+02:48:13.226 --> 02:48:13.386
+Read.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6477-0
+02:48:18.626 --> 02:48:19.746
+Can you help?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6479-0
+02:48:25.586 --> 02:48:25.826
+Print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6482-0
+02:48:28.066 --> 02:48:29.106
+Self dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6488-0
+02:48:30.986 --> 02:48:32.306
+ID is equal to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6490-0
+02:48:35.826 --> 02:48:36.626
+Input.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6493-0
+02:48:40.706 --> 02:48:42.546
+Input ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6512-0
+02:48:46.986 --> 02:48:51.362
+Enter ID whatever the ID user have
+entered,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6512-1
+02:48:51.362 --> 02:48:58.026
+we have assigned to this ID right self
+dot name we have ask input.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6514-0
+02:49:00.226 --> 02:49:00.386
+Name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6529-0
+02:49:03.626 --> 02:49:07.336
+Enter name.
+Whatever the name user have entered,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6529-1
+02:49:07.336 --> 02:49:12.106
+we have assigned to this name, right?
+Then we have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6553-0
+02:49:20.506 --> 02:49:24.298
+Let me just write it without taking the
+value.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6553-1
+02:49:24.298 --> 02:49:30.753
+We are taking the value directly from the
+this one from inside the this method,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6553-2
+02:49:30.753 --> 02:49:34.626
+right?
+We have right here deaf here is display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6557-0
+02:49:37.186 --> 02:49:40.786
+Or this I have write only this self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6559-0
+02:49:42.906 --> 02:49:43.746
+Here it is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6561-0
+02:49:46.306 --> 02:49:46.586
+Print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6563-0
+02:49:50.866 --> 02:49:51.186
+Name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6566-0
+02:49:56.986 --> 02:49:58.026
+Self dot name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6567-0
+02:50:04.506 --> 02:50:04.866
+Current.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6568-0
+02:50:05.946 --> 02:50:06.306
+I do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6571-0
+02:50:13.786 --> 02:50:14.826
+Here is self dot ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6579-0
+02:50:19.586 --> 02:50:23.506
+OK,
+this one we have right for the employee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6586-0
+02:50:25.986 --> 02:50:30.066
+Then we have write one more class class
+name is develop.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6590-0
+02:50:31.466 --> 02:50:32.626
+We have right define.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6592-0
+02:50:35.986 --> 02:50:36.346
+Register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6594-0
+02:50:37.346 --> 02:50:38.546
+Be the self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6596-0
+02:50:42.386 --> 02:50:44.226
+We are great here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6597-0
+02:50:46.746 --> 02:50:46.866
+But.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6598-0
+02:50:50.226 --> 02:50:50.346
+dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6602-0
+02:50:57.186 --> 02:50:59.186
+We have call it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6612-0
+02:51:21.666 --> 02:51:28.426
+It does.
+We want to make it the CMP drive it from.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6618-0
+02:51:37.786 --> 02:51:40.066
+Self domain.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6623-0
+02:51:55.746 --> 02:51:56.786
+It is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6631-0
+02:51:59.546 --> 02:52:04.466
+Enter domain and we have read the display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6632-0
+02:52:07.386 --> 02:52:07.826
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6634-0
+02:52:09.186 --> 02:52:10.306
+Despaler.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6641-0
+02:52:27.106 --> 02:52:28.746
+And here we have it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6642-0
+02:52:31.026 --> 02:52:31.426
+Couldn't.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6644-0
+02:52:44.986 --> 02:52:45.506
+Put in.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6646-0
+02:52:49.226 --> 02:52:50.746
+What the name? Uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6653-0
+02:52:53.186 --> 02:52:59.626
+Domain right?
+Domain and here is salfa dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6658-0
+02:53:10.426 --> 02:53:12.866
+This one is we have right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6663-0
+02:53:15.786 --> 02:53:19.786
+See here what we what it will do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6712-0
+02:53:21.386 --> 02:53:27.472
+See if we create the object of employee,
+it will call the ID and name only and it
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6712-1
+02:53:27.472 --> 02:53:32.222
+will display here ID and name.
+But it will create the object of
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6712-2
+02:53:32.222 --> 02:53:36.156
+developer.
+It will first call the super dot register
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6712-3
+02:53:36.156 --> 02:53:40.906
+means it will call the superclass
+register method. It will ask.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6723-0
+02:53:41.026 --> 02:53:47.294
+Enter the ID and enter the name and then
+it will ask enter the domain so it will
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6723-1
+02:53:47.294 --> 02:53:49.306
+store all the things here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6780-0
+02:53:50.826 --> 02:53:55.189
+It will store the ID,
+name and domain in developer case and in
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6780-1
+02:53:55.189 --> 02:54:00.105
+this one it will call the display super
+and it will take the name, ID,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6780-2
+02:54:00.105 --> 02:54:03.845
+both the things plus the domain in case
+of developer.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6780-3
+02:54:03.845 --> 02:54:09.246
+So the benefit of this one we are not
+right in this developer class all these
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6780-4
+02:54:09.246 --> 02:54:10.146
+things again.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6821-0
+02:54:10.746 --> 02:54:14.860
+We have to just add the.
+We have just add the domain in this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6821-1
+02:54:14.860 --> 02:54:18.102
+The rest thing it will take from the
+earlier class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6821-2
+02:54:18.102 --> 02:54:22.715
+Similarly to display this one,
+we need not to write the all things again,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6821-3
+02:54:22.715 --> 02:54:27.826
+the all things it will display from the
+employee class and the rest is from here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6856-0
+02:54:28.266 --> 02:54:32.889
+So that is known as polymorphism.
+The same methods because the developer
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6856-1
+02:54:32.889 --> 02:54:36.308
+can also call these methods display and
+the register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6856-2
+02:54:36.308 --> 02:54:41.627
+So we have called inside the method this
+one super dot register, super dot display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6856-3
+02:54:41.627 --> 02:54:45.426
+What that means we are going to call the
+superclass method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6880-0
+02:54:48.506 --> 02:54:56.216
+So just one question to to all of you.
+If I will write here,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6880-1
+02:54:56.216 --> 02:55:03.546
+I have right here the let's write DD one
+is equal to tab.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6886-0
+02:55:04.026 --> 02:55:07.826
+I have right this one right and I have
+right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6889-0
+02:55:12.386 --> 02:55:14.906
+E1 dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6890-0
+02:55:14.986 --> 02:55:15.146
+What?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6907-0
+02:55:16.466 --> 02:55:24.655
+Register and one more D1 dot display.
+So what will be the output in this case?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6907-1
+02:55:24.655 --> 02:55:28.386
+Any of you? What will be the output?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6913-0
+02:55:30.626 --> 02:55:34.306
+Online,
+offline any of you how it will execute?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6968-0
+02:55:35.746 --> 02:55:39.398
+You have right D1 dot register.
+So this is D1 dot register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6968-1
+02:55:39.398 --> 02:55:42.563
+It will go here.
+This is the register method right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6968-2
+02:55:42.563 --> 02:55:46.520
+D1 register developer register.
+It will call super dot register.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6968-3
+02:55:46.520 --> 02:55:50.416
+Super dot register means it will go here.
+It will ask enter ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6968-4
+02:55:50.416 --> 02:55:54.311
+Whatever the ID you have entered,
+it will store inside this ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/6968-5
+02:55:54.311 --> 02:55:55.346
+Then it will ask.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7011-0
+02:55:55.506 --> 02:56:00.509
+Enter name whatever the name you have
+entered, it will store inside the name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7011-1
+02:56:00.509 --> 02:56:04.998
+Then after this this line will come out
+self dot domain enter domain.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7011-2
+02:56:04.998 --> 02:56:09.680
+So you have insert the domain domain also
+it's stored inside the domain.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7011-3
+02:56:09.680 --> 02:56:14.746
+Then the next line will come out D1 dot
+display. In this case it will go here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7034-0
+02:56:15.186 --> 02:56:23.741
+From here it will call the main to name
+self dot name ID self dot ID plus domain
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7034-1
+02:56:23.741 --> 02:56:27.226
+self dot domain. Let me show you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7043-0
+02:56:28.226 --> 02:56:32.576
+View terminal.
+Then I will ask you one question after
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7043-1
+02:56:32.576 --> 02:56:34.026
+this. CLS here is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7049-0
+02:56:35.706 --> 02:56:41.546
+Under ID 12, name Sam,
+domain is developer.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7061-0
+02:56:44.426 --> 02:56:51.186
+Developer and here the name ID domain.
+Everything is displayed. Got it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7080-0
+02:58:44.586 --> 02:58:45.306
+Hmm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7106-0
+03:00:19.746 --> 03:00:24.986
+Any doubt question up to now?
+Any of you online guys? Is it done?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7111-0
+03:00:26.506 --> 03:00:29.306
+If done, please say done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7112-0
+03:00:30.506 --> 03:00:30.746
+Nephew.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7119-0
+03:00:40.266 --> 03:00:45.746
+Done. Yes, you have. I might.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7120-0
+03:00:57.546 --> 03:00:57.906
+Down.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7123-0
+03:01:07.066 --> 03:01:21.826
+Thank you. We just check.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7125-0
+03:01:30.946 --> 03:01:31.066
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7126-0
+03:01:32.386 --> 03:01:32.546
+Mm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7131-0
+03:01:35.226 --> 03:01:43.786
+Mm-hmm. So it's an. Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7137-0
+03:02:04.946 --> 03:02:07.306
+Use that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7139-0
+03:02:09.666 --> 03:02:12.626
+You know, I just.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7140-0
+03:02:20.706 --> 03:02:23.386
+It is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7142-0
+03:02:34.386 --> 03:02:36.786
+That you have.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7147-0
+03:02:40.386 --> 03:02:41.786
+Uh, what you see?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7148-0
+03:02:47.426 --> 03:02:47.986
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7152-0
+03:02:58.066 --> 03:03:00.466
+So put it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7153-0
+03:03:08.266 --> 03:03:09.466
+I don't.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7154-0
+03:03:13.826 --> 03:03:14.186
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7158-0
+03:03:29.666 --> 03:03:31.666
+See what you do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7168-0
+03:03:33.386 --> 03:03:41.626
+Yeah, it didn't say it was blank.
+What do you need? I need new hats.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7169-0
+03:03:45.306 --> 03:03:45.586
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7172-0
+03:03:50.466 --> 03:03:52.066
+Uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7173-0
+03:03:58.506 --> 03:03:58.826
+Right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7177-0
+03:04:00.066 --> 03:04:01.866
+The matrix. You see what I mean?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7180-0
+03:04:19.026 --> 03:04:23.146
+We're not saying. Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7181-0
+03:04:30.066 --> 03:04:31.226
+I'm sure what happened.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7182-0
+03:04:34.066 --> 03:04:46.146
+Uh, she doesn't have any mind.
+I think we should be better. Sit. Sit.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7188-0
+03:04:47.306 --> 03:04:57.746
+That's when we get that. I need, I need,
+I need.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7189-0
+03:04:59.386 --> 03:04:59.666
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7190-0
+03:05:03.986 --> 03:05:04.146
+8.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7194-0
+03:05:07.346 --> 03:05:09.586
+One extended months clear.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7199-0
+03:05:20.626 --> 03:05:26.026
+I'm dead. I'm dead self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7200-0
+03:05:27.786 --> 03:05:28.186
+This.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7201-0
+03:05:30.386 --> 03:05:31.466
+Stephanie.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7214-0
+03:05:38.066 --> 03:05:54.506
+I think, I think that's why the object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7221-0
+03:05:54.786 --> 03:06:00.186
+So would be a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7226-0
+03:06:08.066 --> 03:06:17.546
+I don't think.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7227-0
+03:06:24.306 --> 03:06:24.666
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7228-0
+03:06:28.026 --> 03:06:28.106
+Oh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7231-0
+03:06:29.826 --> 03:06:32.666
+And to your.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7232-0
+03:06:34.746 --> 03:06:35.026
+Mm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7236-0
+03:06:35.986 --> 03:06:41.826
+We we don't need me. I don't. I'm more.
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7239-0
+03:06:42.786 --> 03:06:53.146
+Yeah, excuse me.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7257-0
+03:06:58.706 --> 03:07:12.535
+OK, done all of you this.
+I'm I'm writing here the hawk code for
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7257-1
+03:07:12.535 --> 03:07:13.386
+you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7273-0
+03:07:14.306 --> 03:07:19.520
+And then you have to just show me how to
+call it, right? Just calling.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7273-1
+03:07:19.520 --> 03:07:24.366
+I'm doing asking to you.
+I'm writing here for the this is example
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7273-2
+03:07:24.366 --> 03:07:24.586
+#3.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7284-0
+03:07:49.146 --> 03:07:54.986
+Here is done. Should I go to next?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7287-0
+03:08:03.626 --> 03:08:05.026
+New this is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7290-0
+03:08:07.706 --> 03:08:09.146
+Constructor inheritance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7300-0
+03:08:12.106 --> 03:08:16.357
+EX.
+5 This is constructor inheritance I'm
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7300-1
+03:08:16.357 --> 03:08:18.786
+showing to you right so.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7305-0
+03:08:21.826 --> 03:08:24.586
+I'm writing the similar thing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7320-0
+03:08:28.226 --> 03:08:33.541
+But this time you will do the the half
+thing I'm going to ask you, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7320-1
+03:08:33.541 --> 03:08:34.906
+So here is a class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7333-0
+03:08:36.066 --> 03:08:45.346
+Class name is employee and here we are
+going to write def. Let me just do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7334-0
+03:08:46.266 --> 03:08:47.066
+Deft.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7339-0
+03:08:50.346 --> 03:08:54.586
+In it right and I'm writing here the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7341-0
+03:08:57.066 --> 03:08:57.506
+ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7349-0
+03:09:00.586 --> 03:09:04.586
+Name qualification. There's three things.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7366-0
+03:09:06.386 --> 03:09:12.070
+Qualification.
+Three things I'm taking from here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7366-1
+03:09:12.070 --> 03:09:17.186
+So self dot ID is equal to ID self dot
+name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7369-0
+03:09:22.306 --> 03:09:24.306
+Is equal to name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7374-0
+03:09:26.666 --> 03:09:29.426
+And self dot qualification.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7385-0
+03:09:32.946 --> 03:09:38.746
+Is equal to qualification OK and I have
+rated this display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7392-0
+03:09:53.626 --> 03:09:56.466
+Display self here is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7398-0
+03:10:01.706 --> 03:10:04.170
+Well,
+let me use the string one string function
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7398-1
+03:10:04.170 --> 03:10:04.426
+here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7404-0
+03:10:16.546 --> 03:10:18.026
+We have right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7406-0
+03:10:21.186 --> 03:10:22.346
+Those are done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7408-0
+03:10:42.186 --> 03:10:42.666
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7409-0
+03:10:52.506 --> 03:10:52.786
+Huh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7410-0
+03:10:57.586 --> 03:10:59.266
+I'm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7417-0
+03:11:08.946 --> 03:11:18.586
+Which examples of concepts song?
+I mean we just display something.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7420-0
+03:11:20.986 --> 03:11:22.506
+Should I write this string as well?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7424-0
+03:11:26.746 --> 03:11:29.066
+Duff display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7430-0
+03:11:31.786 --> 03:11:36.786
+OK, Sir, we are a display, Sir.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7433-0
+03:11:39.066 --> 03:11:42.106
+And we are right here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7434-0
+03:11:51.426 --> 03:11:52.066
+ID.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7436-0
+03:11:55.586 --> 03:11:56.026
+I do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7441-0
+03:12:07.546 --> 03:12:11.266
+Name qualification.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7454-0
+03:12:28.186 --> 03:12:38.106
+Destination value set right then
+qualification. OK, we have created here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7457-0
+03:12:45.146 --> 03:12:46.066
+One more class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7461-0
+03:12:47.626 --> 03:12:49.546
+The class name is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7463-0
+03:12:50.706 --> 03:12:51.866
+Developer.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7467-0
+03:12:56.706 --> 03:12:58.266
+The time from MB.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7471-0
+03:12:59.626 --> 03:13:00.826
+We have right here that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7473-0
+03:13:06.066 --> 03:13:06.426
+You need.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7485-0
+03:13:08.146 --> 03:13:16.106
+Fine. And I have right here. See once.
+Let me show you again. See here one thing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7520-0
+03:13:17.266 --> 03:13:21.908
+See how easy it is. You are right here,
+you are a deaf and then you are right
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7520-1
+03:13:21.908 --> 03:13:25.896
+here. See all of you under score,
+under score and you press enter.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7520-2
+03:13:25.896 --> 03:13:30.419
+So it's automatically write all the
+things for me. Define IT self, ID name,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7520-3
+03:13:30.419 --> 03:13:32.026
+qualification, super elite.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7521-0
+03:13:32.426 --> 03:13:32.666
+4.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7528-0
+03:13:34.906 --> 03:13:38.866
+Right,
+so it's calling the Super class thing
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7528-1
+03:13:38.866 --> 03:13:39.306
+here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7538-0
+03:13:41.506 --> 03:13:50.026
+You got it and plus we want to add 1
+extra thing here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7555-0
+03:13:52.826 --> 03:13:59.126
+Here I have added one more comma.
+Let's see domain and project domain
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7555-1
+03:13:59.126 --> 03:14:03.626
+project.
+Two more things I have added here right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7567-0
+03:14:11.786 --> 03:14:19.346
+Is equal to domain and then self dot
+roject.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7599-0
+03:14:25.626 --> 03:14:31.391
+Is equal to project.
+Two more things I have added here in this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7599-1
+03:14:31.391 --> 03:14:38.894
+one, right? And then I have right here.
+See again I'm writing def and I'm writing
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7599-2
+03:14:38.894 --> 03:14:39.626
+display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7624-0
+03:14:40.626 --> 03:14:45.383
+Once I write this,
+it's automatically write that things for
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7624-1
+03:14:45.383 --> 03:14:49.030
+me.
+So I don't want to return with the return
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7624-2
+03:14:49.030 --> 03:14:53.946
+keyword I have removed from here and then
+I have write print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7628-0
+03:14:56.426 --> 03:14:58.426
+Uh, what else we want? Domain.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7631-0
+03:15:09.706 --> 03:15:09.946
+Self.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7634-0
+03:15:12.186 --> 03:15:15.066
+dot domain and here is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7635-0
+03:15:19.986 --> 03:15:20.346
+Didn't.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7639-0
+03:15:32.026 --> 03:15:32.826
+Project.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7641-0
+03:15:41.026 --> 03:15:44.106
+Alpha dot project.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7655-0
+03:15:51.546 --> 03:15:57.141
+Done. We will write this.
+So I have write this code.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7655-1
+03:15:57.141 --> 03:15:59.146
+Now you have to do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7656-0
+03:16:01.146 --> 03:16:01.266
+Call.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7661-0
+03:16:08.266 --> 03:16:11.026
+Create one employee.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7672-0
+03:16:12.226 --> 03:16:23.266
+Object with ID one name something Sam.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7675-0
+03:16:24.946 --> 03:16:26.146
+Qualification MCA.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7683-0
+03:16:30.546 --> 03:16:35.346
+Qualification is equal to MCA and display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7695-0
+03:16:55.786 --> 03:16:59.186
+These two things you have to do right?
+Create one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7697-0
+03:17:04.506 --> 03:17:05.946
+We have a object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7700-0
+03:17:19.906 --> 03:17:20.586
+3D.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7701-0
+03:17:21.986 --> 03:17:22.186
+3.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7703-0
+03:17:24.266 --> 03:17:26.186
+No.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7706-0
+03:17:28.826 --> 03:17:29.546
+Qualification.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7707-0
+03:17:33.066 --> 03:17:33.586
+Don't take.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7709-0
+03:17:36.266 --> 03:17:36.906
+Project.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7711-0
+03:17:40.106 --> 03:17:41.386
+Please open.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7713-0
+03:17:44.066 --> 03:17:45.226
+And domain.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7715-0
+03:17:50.266 --> 03:17:51.346
+dot meet.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7720-0
+03:18:17.506 --> 03:18:17.986
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7721-0
+03:18:24.106 --> 03:18:24.666
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7724-0
+03:18:45.106 --> 03:18:46.186
+It is fully.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7727-0
+03:18:49.266 --> 03:18:51.626
+Develop dub details.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7758-0
+03:19:01.826 --> 03:19:06.199
+Display EMP details.
+This much you have to do right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7758-1
+03:19:06.199 --> 03:19:12.964
+The code I already have written for you.
+You have to just call here is create the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7758-2
+03:19:12.964 --> 03:19:17.501
+employee object.
+Here you create the developer object.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7758-3
+03:19:17.501 --> 03:19:21.626
+Here you have to display the employee and
+got it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7788-0
+03:19:35.146 --> 03:19:40.519
+Qualification. This is qualification.
+We added qualification.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7788-1
+03:19:40.519 --> 03:19:45.806
+Otherwise it's too big for you.
+Qualification QPUALIFICATIL.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7788-2
+03:19:45.806 --> 03:19:49.706
+You can write the complete also,
+just short.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7814-0
+03:19:51.906 --> 03:19:56.873
+Clear the qualifications we have right
+the domain projects we have it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7814-1
+03:19:56.873 --> 03:20:02.399
+So all these things we want to take for
+employee and for developer and want to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7814-2
+03:20:02.399 --> 03:20:05.826
+display one one I have asked not more
+than that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7817-0
+03:20:06.466 --> 03:20:07.466
+We'll leave a note.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7826-0
+03:20:08.546 --> 03:20:12.146
+So if you are able to call,
+that means you understand, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7841-0
+03:20:13.266 --> 03:20:17.740
+Create and call how to create,
+how to call the values everything I have
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7841-1
+03:20:17.740 --> 03:20:20.226
+right for you that what value will take.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7849-0
+03:20:26.746 --> 03:20:32.106
+2467, The rest is online.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7860-0
+03:20:48.306 --> 03:20:52.746
+Slower than this is too boring, right?
+If you want to slow down more.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7864-0
+03:20:54.066 --> 03:20:55.826
+Is it fine this bit?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7894-0
+03:21:12.226 --> 03:21:18.206
+I know few of you are new and you have to
+do a bit hard work, but do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7894-1
+03:21:18.206 --> 03:21:23.203
+It will be after these 30 days you will
+got something right.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7894-2
+03:21:23.203 --> 03:21:27.626
+It's kind of confidence kind of things
+you can do so.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7899-0
+03:21:27.826 --> 03:21:31.826
+Just these 30 days you give to yourself.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7940-0
+03:25:15.426 --> 03:25:15.546
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7941-0
+03:25:26.706 --> 03:25:26.866
+And.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7942-0
+03:25:27.826 --> 03:25:30.866
+To people.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7944-0
+03:25:44.626 --> 03:25:46.466
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7945-0
+03:25:47.866 --> 03:25:53.106
+Did you need to?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7946-0
+03:25:56.746 --> 03:26:01.426
+Please be, please be with.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7948-0
+03:26:12.066 --> 03:26:13.266
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7949-0
+03:26:14.826 --> 03:26:15.106
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7954-0
+03:26:21.386 --> 03:26:25.266
+It's gonna be more. It needs to be.
+We don't need.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7959-0
+03:26:26.666 --> 03:26:32.866
+It's not good. I think it is. It is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7961-0
+03:26:34.186 --> 03:26:37.906
+So go ahead, go ahead.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7962-0
+03:26:42.946 --> 03:26:44.706
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7971-0
+03:27:01.946 --> 03:27:09.426
+I don't mind.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7976-0
+03:27:32.706 --> 03:27:42.666
+When is the when is the?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7979-0
+03:27:59.426 --> 03:27:59.786
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7980-0
+03:28:04.986 --> 03:28:08.946
+I think there's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7981-0
+03:28:10.466 --> 03:28:10.546
+Um.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7982-0
+03:28:12.506 --> 03:28:15.146
+We appreciate the time.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7983-0
+03:28:16.306 --> 03:28:16.466
+2.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7985-0
+03:28:26.746 --> 03:28:26.866
+But.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7992-0
+03:28:33.866 --> 03:28:37.809
+He went. Mm-hmm. Hey,
+and even the from there,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7992-1
+03:28:37.809 --> 03:28:39.906
+he might be the personal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7994-0
+03:28:41.826 --> 03:28:42.426
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7995-0
+03:28:45.426 --> 03:28:51.706
+What can you do?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7997-0
+03:29:00.586 --> 03:29:15.666
+I'm good. I'm good. Thank you.
+It was the first. It was to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7998-0
+03:29:16.666 --> 03:29:28.346
+What's the PDM? PDM that's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/7999-0
+03:29:31.106 --> 03:29:31.506
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8000-0
+03:29:38.426 --> 03:29:39.866
+That.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8001-0
+03:29:48.786 --> 03:29:50.426
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8004-0
+03:29:51.466 --> 03:29:56.546
+I think it's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8005-0
+03:29:59.226 --> 03:29:59.426
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8006-0
+03:30:09.346 --> 03:30:09.706
+Open.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8007-0
+03:30:16.706 --> 03:30:17.186
+It's.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8008-0
+03:30:19.386 --> 03:30:19.626
+G.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8025-0
+03:31:13.546 --> 03:31:14.386
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8028-0
+03:31:31.986 --> 03:31:32.626
+Done.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8033-0
+03:31:35.306 --> 03:31:39.746
+Well, line one,
+you want to share responses.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8041-0
+03:31:40.266 --> 03:31:45.026
+I want chess. Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8042-0
+03:31:43.386 --> 03:31:46.946
+You want to share? Good. Share.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8043-0
+03:31:46.746 --> 03:31:47.106
+Kiwi.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8049-0
+03:31:57.026 --> 03:31:58.746
+Like this Sir, is it correct?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8050-0
+03:32:00.146 --> 03:32:01.186
+Scroll down.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8075-0
+03:32:02.866 --> 03:32:09.642
+Scroll down, show me the code. OK,
+E employee E1 dot display print this data
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8075-1
+03:32:09.642 --> 03:32:14.306
+level data display print. Perfectly fine.
+Thank you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8074-0
+03:32:13.946 --> 03:32:15.106
+Thank you, Sir.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8077-0
+03:32:16.306 --> 03:32:17.266
+Most welcome.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8085-0
+03:32:20.746 --> 03:32:26.026
+See, see have improved a lot, right?
+So you have done it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8091-0
+03:32:28.666 --> 03:32:32.786
+And then day one is asking how to install
+you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8103-0
+03:32:35.506 --> 03:32:42.266
+And then that seller have said not no to
+install anything, huh?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8140-0
+03:32:45.386 --> 03:32:50.936
+Done. So if you want to create the object,
+how will create? See already I showed you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8140-1
+03:32:50.936 --> 03:32:56.034
+See you want to create the object of
+imply E is equal to EMP and you will pass
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8140-2
+03:32:56.034 --> 03:32:59.906
+the values. You want to pass the ID.
+ID is what I said one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8148-0
+03:33:00.626 --> 03:33:06.426
+And the name what I say name is time and
+then what else?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8152-0
+03:33:07.986 --> 03:33:11.906
+Qualification is MCA.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8157-0
+03:33:13.466 --> 03:33:15.906
+And what else? This one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8170-0
+03:33:20.666 --> 03:33:23.475
+So this one you have to do.
+We will declare this.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8170-1
+03:33:23.475 --> 03:33:25.666
+Similarly you will write the other one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8173-0
+03:33:39.346 --> 03:33:39.586
+Hmm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8175-0
+03:33:44.506 --> 03:33:45.986
+What happened?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8177-0
+03:33:48.906 --> 03:33:50.946
+But it's not.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8178-0
+03:33:58.146 --> 03:33:59.066
+But I.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8184-0
+03:34:14.506 --> 03:34:16.626
+Qualification is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8196-0
+03:34:21.866 --> 03:34:28.186
+Similarly create an object of developer.
+So developer is D.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8228-0
+03:34:30.266 --> 03:34:36.170
+Or you can write DF is equal to developer
+line because the capital and the small is
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8228-1
+03:34:36.170 --> 03:34:40.246
+two different variable.
+You can write a small also right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8228-2
+03:34:40.246 --> 03:34:44.955
+You can write this way also.
+So dove what do you have to pass this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8228-3
+03:34:44.955 --> 03:34:45.306
+time?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8242-0
+03:34:45.306 --> 03:34:50.637
+ID is 3, name is.
+I'm writing the same thing that I have
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8242-1
+03:34:50.637 --> 03:34:51.666
+asked Ravi.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8248-0
+03:34:52.946 --> 03:34:56.026
+And here is qualification is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8250-0
+03:34:57.226 --> 03:34:58.626
+MTA.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8256-0
+03:35:00.626 --> 03:35:05.346
+And what else? We have project.
+Project is equal to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8258-0
+03:35:07.506 --> 03:35:08.226
+We shopping.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8269-0
+03:35:12.826 --> 03:35:16.626
+Eshopping and the domain is equal to net.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8273-0
+03:35:18.746 --> 03:35:21.266
+Fine, we are displaying the developer.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8274-0
+03:35:22.906 --> 03:35:23.146
+Print.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8280-0
+03:35:33.186 --> 03:35:38.786
+Developer details as follows.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8281-0
+03:35:38.866 --> 03:35:39.186
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8283-0
+03:35:40.306 --> 03:35:41.786
+And do you have?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8285-0
+03:35:43.106 --> 03:35:44.426
+Printed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8290-0
+03:35:45.346 --> 03:35:48.986
+You are a dev dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8292-0
+03:35:50.106 --> 03:35:51.746
+Similarly.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8297-0
+03:35:56.466 --> 03:35:59.226
+Employee details as follows.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8299-0
+03:36:04.586 --> 03:36:05.826
+You have display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8305-0
+03:36:10.066 --> 03:36:12.866
+You have display EMP dot display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8311-0
+03:36:44.426 --> 03:36:45.826
+Terminal.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8319-0
+03:36:53.866 --> 03:36:56.066
+Which one is this constant example?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8321-0
+03:36:59.946 --> 03:37:00.826
+But it can come.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8350-0
+03:37:12.466 --> 03:37:16.835
+OK,
+so developer details as follows ID 3 name
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8350-1
+03:37:16.835 --> 03:37:24.432
+this qualification E shopping project.net.
+In case of employee this one is only
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8350-2
+03:37:24.432 --> 03:37:26.426
+three things. Got it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8351-0
+03:37:28.506 --> 03:37:29.106
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8352-0
+03:37:30.626 --> 03:37:31.186
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8359-0
+03:37:35.706 --> 03:37:39.546
+The question is there,
+then the answer is or not.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8360-0
+03:37:41.146 --> 03:37:42.626
+Dial Terry.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8383-0
+03:39:50.506 --> 03:39:53.746
+I didn't listen to anything.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8384-0
+03:39:56.706 --> 03:39:57.146
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8387-0
+03:40:07.626 --> 03:40:09.386
+This.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8388-0
+03:40:15.626 --> 03:40:17.626
+I don't.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8389-0
+03:40:28.186 --> 03:40:29.266
+It's interesting.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8390-0
+03:40:34.826 --> 03:40:34.946
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8392-0
+03:40:44.626 --> 03:40:45.306
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8393-0
+03:40:49.826 --> 03:40:50.306
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8396-0
+03:41:03.586 --> 03:41:05.426
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8416-0
+03:42:26.986 --> 03:42:41.746
+So that's the intention.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8421-0
+03:42:42.226 --> 03:42:51.106
+OK, you know what? You don't need a.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8431-0
+03:43:39.426 --> 03:43:40.386
+Done all of you.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8432-0
+03:43:43.546 --> 03:43:44.066
+Good.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8435-0
+03:43:47.546 --> 03:43:49.626
+Screen OK and hold the screen.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8444-0
+03:44:13.706 --> 03:44:17.106
+This one we are working,
+not this one I think.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8445-0
+03:44:21.506 --> 03:44:21.666
+Hulu.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8448-0
+03:44:25.066 --> 03:44:27.386
+This one we were.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8449-0
+03:44:28.746 --> 03:44:29.226
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8450-0
+03:44:31.826 --> 03:44:32.226
+Do it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8455-0
+03:45:00.786 --> 03:45:01.266
+Mhm.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8468-0
+03:45:48.506 --> 03:45:53.266
+I cannot write it, so hold on a second.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8476-0
+03:45:56.546 --> 03:46:00.386
+OK, this here. Oh, OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8494-0
+03:46:02.626 --> 03:46:07.149
+See what I mean here as well.
+I always have this kind of things, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8494-1
+03:46:07.149 --> 03:46:11.546
+No, just you'll see the the the alignment,
+right? The alignment, yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8505-0
+03:46:13.146 --> 03:46:18.332
+I think, uh, everything is fine.
+The display have a issue being P
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8505-1
+03:46:18.332 --> 03:46:19.746
+displayed in line.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8514-0
+03:46:21.746 --> 03:46:26.866
+Didn't it? I just open. This is a class,
+right? Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8517-0
+03:46:30.906 --> 03:46:31.786
+The.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8534-0
+03:47:01.226 --> 03:47:05.866
+Then you can then try.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8535-0
+03:47:07.546 --> 03:47:07.746
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8536-0
+03:47:09.626 --> 03:47:09.986
+Yes.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8538-0
+03:47:11.346 --> 03:47:15.026
+OK, then you will be able to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8540-0
+03:47:17.506 --> 03:47:19.066
+Number 39.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8550-0
+03:47:28.906 --> 03:47:33.146
+Where we have been to EMP, we are not.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8551-0
+03:47:34.506 --> 03:47:36.066
+You know.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8579-0
+03:47:39.026 --> 03:47:46.886
+Oh, no, you went. Yeah, I do.
+If you're right, you want to. I see. OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8579-1
+03:47:46.886 --> 03:47:49.986
+don't check. I'll make sure.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8580-0
+03:47:56.026 --> 03:47:56.146
+OK.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8582-0
+03:47:57.386 --> 03:48:12.546
+I miss. I didn't say that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8585-0
+03:48:31.466 --> 03:48:46.626
+I think we can. We'll wait. This week one.
+That's it, right? Yeah. I think that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8591-0
+03:48:49.706 --> 03:49:02.026
+So how to enable the highlight?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8614-0
+03:49:03.946 --> 03:49:11.197
+Hello. Yeah you have this highlighting.
+What do you want to do?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8614-1
+03:49:11.197 --> 03:49:18.107
+I want to enable this highlight.
+You have not read the code.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8614-2
+03:49:18.107 --> 03:49:21.506
+You want to read the code now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8617-0
+03:49:21.866 --> 03:49:23.346
+No, I want to.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8632-0
+03:49:25.426 --> 03:49:30.702
+This highlight. Why is it?
+Because you have used the details.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8632-1
+03:49:30.702 --> 03:49:34.786
+Wherever the details it will go to the
+details.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8665-0
+03:49:37.026 --> 03:49:40.846
+For example,
+this one you have select to wherever the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8665-1
+03:49:40.846 --> 03:49:45.161
+same it will select that one.
+Is it normal? Can I? No. Yeah,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8665-2
+03:49:45.161 --> 03:49:48.415
+it's just me.
+Even if you don't want to that,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8665-3
+03:49:48.415 --> 03:49:52.306
+I don't want to. It's insert.
+Where is insert? Insert.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8675-0
+03:49:52.506 --> 03:49:58.977
+Yes, we're listening to that.
+I'll talk to this. It's clear.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8675-1
+03:49:58.977 --> 03:50:02.266
+I never listened. It was to be.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8687-0
+03:50:03.386 --> 03:50:18.776
+This is enormous.
+We will change with the screenboard is
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8687-1
+03:50:18.776 --> 03:50:20.666
+screen.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8692-0
+03:50:22.866 --> 03:50:36.066
+It's it's wrong. It's right.
+It's not changing the other one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8715-0
+03:50:38.146 --> 03:50:43.131
+Mm-hmm. Yeah, right.
+It's changing only the six highlights
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8715-1
+03:50:43.131 --> 03:50:47.017
+here.
+That's the same thing is there as well.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8715-2
+03:50:47.017 --> 03:50:53.354
+Otherwise we'll not change both.
+We'll change only one three. That's fine.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8715-3
+03:50:53.354 --> 03:50:55.466
+That's what it should be.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8721-0
+03:50:55.546 --> 03:51:05.306
+Sir, Sir, yes, we can't answer. Sorry,
+the the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8751-0
+03:51:07.226 --> 03:51:11.255
+Display and print is doing what?
+No a difference. OK,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8751-1
+03:51:11.255 --> 03:51:15.880
+display and print are different.
+See the display is a method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8751-2
+03:51:15.880 --> 03:51:19.386
+You can give any name to the this this
+method.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8760-0
+03:51:20.426 --> 03:51:26.066
+Clear key binding input escape.
+This is a function.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8761-0
+03:51:30.306 --> 03:51:31.226
+Think that.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8796-0
+03:51:57.746 --> 03:52:09.263
+See they are asking the print and display.
+This is a method right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8796-1
+03:52:09.263 --> 03:52:16.826
+So method you can give any names let's
+say.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8798-0
+03:52:17.146 --> 03:52:19.586
+I call it the uh.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8807-0
+03:52:21.226 --> 03:52:28.066
+Info. So I am writing this so info, right?
+Let's say so.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8831-0
+03:52:29.826 --> 03:52:35.111
+Show info. This is a method.
+You can write any name to this one.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8831-1
+03:52:35.111 --> 03:52:40.884
+This is not built in right.
+Let show info so it will become show info.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8831-2
+03:52:40.884 --> 03:52:44.706
+When you are going to call you will call
+here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8832-0
+03:52:46.266 --> 03:52:46.706
+Yeah.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8876-0
+03:52:47.706 --> 03:52:52.703
+Show info here also we will call show
+info. So this is our method name.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8876-1
+03:52:52.703 --> 03:52:58.534
+You can give any name because I have used
+2-3 times display so you might think that
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8876-2
+03:52:58.534 --> 03:53:01.726
+it is only the display.
+You can use anything.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8876-3
+03:53:01.726 --> 03:53:07.418
+This is just for displaying we have used
+so we have read show info now if you run
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8876-4
+03:53:07.418 --> 03:53:07.626
+it.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8891-0
+03:53:10.066 --> 03:53:17.506
+We'll go your view terminal. Huh.
+Print is a built in function.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8891-1
+03:53:17.506 --> 03:53:21.226
+This is a comment. Sorry Python.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8895-0
+03:53:23.506 --> 03:53:26.706
+DX dot PY.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8920-0
+03:53:28.706 --> 03:53:33.998
+So here is dev show info show info.
+It's giving you the error.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8920-1
+03:53:33.998 --> 03:53:39.794
+Why it's giving you the error?
+Because we have rate super is display
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8920-2
+03:53:39.794 --> 03:53:42.986
+display is store info now what is now?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8921-0
+03:53:43.666 --> 03:53:44.066
+Showing.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8922-0
+03:53:45.986 --> 03:53:46.466
+So.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8927-0
+03:53:51.026 --> 03:53:52.746
+The score in full.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8942-0
+03:53:53.786 --> 03:53:57.037
+Right.
+So similarly other you have changed.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8942-1
+03:53:57.037 --> 03:54:00.066
+So this is the this one we have done now.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8943-0
+03:54:02.946 --> 03:54:06.146
+Oh, it says a return command return.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8963-0
+03:54:07.306 --> 03:54:13.054
+Return is returning you the data.
+This is the function. No, no,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/8963-1
+03:54:13.054 --> 03:54:16.466
+you can't change. This is the keyword.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9020-0
+03:54:17.626 --> 03:54:22.143
+That is known as keyword.
+If something is there, that is keyword.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9020-1
+03:54:22.143 --> 03:54:25.906
+So the return is a keyword.
+Super is a keyword, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9020-2
+03:54:25.906 --> 03:54:30.081
+Class is a keyword. Def is a keyword.
+You can't change them.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9020-3
+03:54:30.081 --> 03:54:35.282
+Keywords mean a special kind of word that
+have some sort of meaning for the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9020-4
+03:54:35.282 --> 03:54:37.266
+interpreter for the compiler.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9055-0
+03:54:37.546 --> 03:54:42.379
+So the def it will get to know that you
+have defined it. So that is the def.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9055-1
+03:54:42.379 --> 03:54:45.831
+You have to write only def, def, def.
+This is a class.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9055-2
+03:54:45.831 --> 03:54:50.664
+You have to write only the class to
+define it till that this we are going to
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9055-3
+03:54:50.664 --> 03:54:52.986
+create the class. Class is a keyword.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9066-0
+03:54:52.986 --> 03:54:57.999
+And this def is keyword and then the
+super is a keyword. Fine,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9066-1
+03:54:57.999 --> 03:55:00.466
+you have to use the super only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9081-0
+03:55:01.786 --> 03:55:04.554
+The rest is your own.
+You can write anything.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9081-1
+03:55:04.554 --> 03:55:07.202
+You can write this.
+Self is also a keyword.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9081-2
+03:55:07.202 --> 03:55:08.466
+The rest you can use.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9113-0
+03:55:10.226 --> 03:55:12.868
+OK,
+so keyword means that is special word
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9113-1
+03:55:12.868 --> 03:55:17.461
+that compiler have some meaning.
+So you have to use only those like this
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9113-2
+03:55:17.461 --> 03:55:20.292
+one.
+This init is a built in function so you
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9113-3
+03:55:20.292 --> 03:55:23.626
+have to write that one only init for
+initialization.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9164-0
+03:55:41.546 --> 03:55:45.588
+No, they they they have asked. No,
+you need not to do.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9164-1
+03:55:45.588 --> 03:55:50.731
+They have asked that can we write
+something else in place of display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9164-2
+03:55:50.731 --> 03:55:54.038
+So I have write this so in place of
+display.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9164-3
+03:55:54.038 --> 03:55:59.770
+Yeah earlier one is correct but they have
+asked can we use something else for
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9164-4
+03:55:59.770 --> 03:56:01.386
+display so we can use.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9177-0
+03:56:01.466 --> 03:56:07.430
+So then you say this is a user defined
+method. This is your own functions, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9177-1
+03:56:07.430 --> 03:56:10.266
+Your own. Well, you can write anything.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9183-0
+03:56:11.186 --> 03:56:15.346
+Just two because right to be you have not.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9236-0
+03:56:16.306 --> 03:56:20.616
+Listen what he's asking.
+So here guys online one also he one
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9236-1
+03:56:20.616 --> 03:56:24.714
+question is arise.
+They are asking can we use this is the
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9236-2
+03:56:24.714 --> 03:56:29.519
+display is a user defined name.
+You can use any function name here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9236-3
+03:56:29.519 --> 03:56:33.476
+So that's why we have changed display to
+the show info.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9236-4
+03:56:33.476 --> 03:56:35.666
+You can write the display also.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9240-0
+03:56:35.866 --> 03:56:40.906
+So right the DSDISP I have right in one
+example.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9251-0
+03:56:44.626 --> 03:56:48.946
+Now here is 1 real time usage.
+Should I show you?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9274-0
+03:56:50.266 --> 03:56:55.504
+See here is a class account.
+In this account class we have the account
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9274-1
+03:56:55.504 --> 03:57:00.226
+holder name and we want to take the
+balance of the this holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9323-0
+03:57:02.986 --> 03:57:08.460
+And once you will withdraw,
+we want to just withdraw it and we want
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9323-1
+03:57:08.460 --> 03:57:12.002
+to display it fine.
+So we have the balance,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9323-2
+03:57:12.002 --> 03:57:18.683
+we have the this one deposit and withdraw
+method and once user have add some money
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9323-3
+03:57:18.683 --> 03:57:22.386
+in the account,
+it will add the money in the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9348-0
+03:57:22.626 --> 03:57:28.654
+If he want to withdraw something,
+it will minus the amount from the account.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9348-1
+03:57:28.654 --> 03:57:32.411
+Fine.
+So let's see here how we will write using
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9348-2
+03:57:32.411 --> 03:57:35.386
+the classes, right? So let's see here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9370-0
+03:57:36.346 --> 03:57:44.119
+I'm writing here new not folder, new file,
+new file and file name is.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9370-1
+03:57:44.119 --> 03:57:50.226
+Let me call it banking example banking ex
+dot Y right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9378-0
+03:57:52.506 --> 03:57:57.226
+Here we have create a class.
+Class name is account.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9384-0
+03:58:00.506 --> 03:58:03.306
+We have define here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9386-0
+03:58:08.106 --> 03:58:09.106
+Init.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9387-0
+03:58:12.666 --> 03:58:13.186
+Then.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9391-0
+03:58:13.946 --> 03:58:15.906
+Here is account holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9394-0
+03:58:17.826 --> 03:58:19.186
+AC holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9397-0
+03:58:20.986 --> 03:58:22.186
+Conveyance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9403-0
+03:58:23.706 --> 03:58:26.066
+Valance. Two things we have, right?
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9407-0
+03:58:27.666 --> 03:58:30.226
+So here is self dot.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9413-0
+03:58:35.626 --> 03:58:40.706
+You see holder, let me write the.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9415-0
+03:58:43.186 --> 03:58:43.906
+Folder only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9422-0
+03:58:53.026 --> 03:58:57.026
+And here is self-taught balance.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9466-0
+03:59:03.826 --> 03:59:07.281
+This is account holder name, right?
+AC holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9466-1
+03:59:07.281 --> 03:59:12.942
+Let me write AC under score holder.
+So this one you are right AC under score
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9466-2
+03:59:12.942 --> 03:59:17.868
+holder, AC under score holder.
+Whatever the name you want to give,
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9466-3
+03:59:17.868 --> 03:59:22.426
+you want to write only the holder.
+You can write holder only.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9479-0
+03:59:22.506 --> 03:59:25.233
+You want AC holder?
+You can write AC holder.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9479-1
+03:59:25.233 --> 03:59:30.203
+I have write AC holder account holder and
+so have this account then we have right
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9479-2
+03:59:30.203 --> 03:59:30.506
+here.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9486-0
+03:59:34.466 --> 03:59:38.506
+Duff. We are right here. Let's see.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9489-0
+03:59:40.106 --> 03:59:41.266
+Deposit.
+
+1dad3755-baa0-4cec-8faa-6e1d5810f16b/9494-0
+03:59:50.626 --> 03:59:54.306
+Here we have right self.

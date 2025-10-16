@@ -1,0 +1,1467 @@
+WEBVTT
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-0
+00:00:03.116 --> 00:00:07.076
+34,
+000 so it's the same thing whether you
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-1
+00:00:07.076 --> 00:00:12.693
+will write this way.
+So here is we can take the value and we
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-2
+00:00:12.693 --> 00:00:18.862
+can pass using the getter,
+get the balance will return the balance
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/55-3
+00:00:18.862 --> 00:00:20.796
+to self self balance.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/72-0
+00:00:21.156 --> 00:00:27.627
+Similarly set will set the values so we
+can write the setter also if we want to
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/72-1
+00:00:27.627 --> 00:00:32.156
+set but set we have done through the this
+one we count.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/83-0
+00:00:34.556 --> 00:00:39.676
+Now here is one question for you.
+This one you can do. This one is here.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/85-0
+00:00:41.036 --> 00:00:41.436
+OK.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/103-0
+00:00:42.916 --> 00:00:50.019
+Control CI have copied and pasted it here.
+After that we will start the next topic.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/103-1
+00:00:50.019 --> 00:00:52.556
+Just one one question for you.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/112-0
+00:00:55.556 --> 00:01:00.716
+Here is this example we already have
+created, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/121-0
+00:01:02.276 --> 00:01:06.356
+I have copy paste the earlier example.
+Here is the example right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/122-0
+00:01:07.276 --> 00:01:07.316
+Uh.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/125-0
+00:01:09.636 --> 00:01:10.716
+View Terminal.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/128-0
+00:01:26.396 --> 00:01:26.476
+Um.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/131-0
+00:01:31.956 --> 00:01:33.196
+Come into this one.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/144-0
+00:01:37.156 --> 00:01:41.214
+This is the example that you have done
+earlier, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/144-1
+00:01:41.214 --> 00:01:43.796
+Account holder need amount is 1200.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/153-0
+00:01:47.956 --> 00:01:52.796
+This is your account class right here
+what we want to do.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/159-0
+00:01:54.956 --> 00:01:59.716
+We have created here one object of
+account.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/163-0
+00:02:02.916 --> 00:02:04.676
+Please delete all this stuff.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/181-0
+00:02:06.516 --> 00:02:11.542
+This is your account class, right?
+You will copy paste the account class
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/181-1
+00:02:11.542 --> 00:02:14.916
+down the earlier class we have created
+here one.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/187-0
+00:02:16.756 --> 00:02:21.916
+Thing we want to know.
+Let's see the balance.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/191-0
+00:02:31.516 --> 00:02:32.636
+Account holder.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/193-0
+00:02:34.476 --> 00:02:36.196
+The account.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/197-0
+00:02:39.676 --> 00:02:40.636
+AC.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/206-0
+00:02:46.996 --> 00:02:52.396
+PC is equal to account and I'm writing
+here the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/224-0
+00:02:53.556 --> 00:03:04.807
+Account holder name is let's say and here
+is the balance is 50,000, let's say 15,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/224-1
+00:03:04.807 --> 00:03:05.356
+000.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/232-0
+00:03:10.596 --> 00:03:14.076
+We have created this one here we have to
+write.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/233-0
+00:03:18.796 --> 00:03:18.996
+Print.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/237-0
+00:03:23.076 --> 00:03:25.996
+One for deposit.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/240-0
+00:03:27.836 --> 00:03:28.876
+24.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/287-0
+00:03:32.596 --> 00:03:36.650
+This one you have to do.
+If user have entered one then it will
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/287-1
+00:03:36.650 --> 00:03:40.640
+deposit the amount.
+If entered 2 it will withdraw the amount.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/287-2
+00:03:40.640 --> 00:03:46.046
+It will ask how much you want to deposit,
+how much you want to withdraw and it will
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/287-3
+00:03:46.046 --> 00:03:48.556
+withdraw and deposit from this account.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/289-0
+00:03:49.036 --> 00:03:51.036
+Are you able to do this?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/291-0
+00:03:53.316 --> 00:03:55.036
+You got my question.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/328-0
+00:03:56.636 --> 00:04:01.124
+No, I repeat,
+see this is your account class, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/328-1
+00:04:01.124 --> 00:04:06.883
+You have this account AC.
+I have right here, let's say AC dot show.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/328-2
+00:04:06.883 --> 00:04:11.879
+So I have right.
+So this account have the name Sam and the
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/328-3
+00:04:11.879 --> 00:04:13.996
+balance is 15,000, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/339-0
+00:04:15.436 --> 00:04:20.130
+This one you have.
+Let me just go here and show you what
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/339-1
+00:04:20.130 --> 00:04:23.836
+it's doing right now.
+View terminal here is.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/362-0
+00:04:25.156 --> 00:04:29.784
+Here the account holder name is Sam.
+Account balance is 15,000.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/362-1
+00:04:29.784 --> 00:04:34.556
+Here is 1 for deposit, 2 for withdraw.
+So if user have entered 1.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/367-0
+00:04:36.236 --> 00:04:39.036
+It will ask how much you want to enter
+please.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/368-0
+00:04:41.756 --> 00:04:41.996
+Tools.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/406-0
+00:04:46.196 --> 00:04:50.717
+One for deposit 2 for enter if you have.
+If you have entered one so it will
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/406-1
+00:04:50.717 --> 00:04:54.405
+deposit that amount.
+It will ask how much you want to deposit
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/406-2
+00:04:54.405 --> 00:04:58.986
+and it will deposit in your account.
+If you entered two it will ask how much
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/406-3
+00:04:58.986 --> 00:05:02.436
+you want to withdraw.
+It will withdraw from your account.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/408-0
+00:05:03.316 --> 00:05:04.356
+Can you do it?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/414-0
+00:05:13.396 --> 00:05:16.076
+You can like this way while true.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/429-0
+00:05:21.676 --> 00:05:26.811
+OK, if it's true,
+then do it one for withdraw.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/429-1
+00:05:26.811 --> 00:05:31.836
+If oh why I'm writing,
+you have to write out.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/438-0
+00:05:36.356 --> 00:05:41.676
+This is all. It's a hint by I'm writing,
+so you will do it.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/440-0
+00:05:42.836 --> 00:05:44.276
+You got it.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/450-0
+00:05:46.716 --> 00:05:51.076
+And after this we will start the next
+thing with module and packages.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/463-0
+00:07:05.356 --> 00:07:10.636
+Yeah, see, when the the the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/464-0
+00:07:12.036 --> 00:07:16.116
+I'm not thinking.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/473-0
+00:08:13.636 --> 00:08:13.836
+Thank.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/507-0
+00:11:07.916 --> 00:11:13.636
+No, that's.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/521-0
+00:12:33.316 --> 00:12:33.796
+Mhm.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/522-0
+00:12:35.036 --> 00:12:35.196
+Mm.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/523-0
+00:12:40.236 --> 00:12:42.156
+Yeah, yeah.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/524-0
+00:12:44.156 --> 00:12:45.676
+Nothing like.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/527-0
+00:12:58.076 --> 00:12:59.596
+Done call of you.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/528-0
+00:13:00.796 --> 00:13:01.556
+No.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/545-0
+00:13:02.996 --> 00:13:09.684
+Why you can open the this while example I
+have showed you loop example and you will
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/545-1
+00:13:09.684 --> 00:13:11.436
+find out the solution.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/550-0
+00:13:12.996 --> 00:13:16.356
+You already have done this type of things,
+right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/554-0
+00:13:21.836 --> 00:13:24.156
+Here you can write the choice.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/576-0
+00:14:54.076 --> 00:14:58.036
+Done any of you online?
+Any of you have completed?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/578-0
+00:15:12.356 --> 00:15:13.756
+Yes, that's it.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/582-0
+00:15:15.036 --> 00:15:16.316
+If the choice.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/587-0
+00:15:17.716 --> 00:15:20.796
+Is equal to equal to 1.
+So what we will do?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/591-0
+00:15:22.996 --> 00:15:25.476
+We will print here the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/593-0
+00:15:33.036 --> 00:15:34.996
+We will be late.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/603-0
+00:15:48.236 --> 00:15:51.636
+Withdrawal amount.
+First one is what deposit, huh?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/607-0
+00:15:53.156 --> 00:15:54.876
+Will I deposit amount?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/613-0
+00:15:56.636 --> 00:15:59.876
+The amount is equal to.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/616-0
+00:16:01.476 --> 00:16:03.716
+Load dot bars.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/619-0
+00:16:05.796 --> 00:16:08.756
+Note dot input.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/621-0
+00:16:12.596 --> 00:16:14.396
+Enter amount to.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/623-0
+00:16:19.276 --> 00:16:19.996
+Deposit.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/627-0
+00:16:27.036 --> 00:16:29.356
+Easy dot deposit.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/630-0
+00:16:34.796 --> 00:16:35.916
+Do you want?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/632-0
+00:16:41.916 --> 00:16:42.076
+Else.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/640-0
+00:17:30.276 --> 00:17:30.996
+No.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/641-0
+00:17:37.756 --> 00:17:37.916
+Done.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/646-0
+00:17:39.076 --> 00:17:40.956
+So here is one forbetross.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/648-0
+00:17:43.916 --> 00:17:45.556
+View Terminal.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/653-0
+00:18:05.676 --> 00:18:07.036
+We have terminals.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/656-0
+00:18:11.876 --> 00:18:13.116
+One for deposit.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/664-0
+00:18:27.876 --> 00:18:31.916
+One for deposit amount 233.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/675-0
+00:18:33.636 --> 00:18:37.956
+And if you want to withdraw to for
+withdraw.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/686-0
+00:18:52.276 --> 00:18:57.196
+Here is 2 for withdraw.
+You have entered the amount 2000.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/689-0
+00:19:01.316 --> 00:19:03.636
+Pelons after withdrawing this much.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/691-0
+00:19:05.116 --> 00:19:05.836
+What even do?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/706-0
+00:19:15.956 --> 00:19:24.676
+It will be drawn this one deposit if we
+have the balance also. So how we will do?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/711-0
+00:19:26.396 --> 00:19:30.356
+Three things you have to do.
+Then you reuse Elsif.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/730-0
+00:20:38.476 --> 00:20:47.196
+Yes, can we use and I can we use?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/733-0
+00:20:51.676 --> 00:20:53.476
+Anything you can write?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/740-0
+00:20:55.236 --> 00:20:59.036
+You can write. This is the variable.
+You can write a num.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/768-0
+00:21:02.596 --> 00:21:08.877
+Why we will give that name just to
+because this is just the meaningful for
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/768-1
+00:21:08.877 --> 00:21:15.157
+what purpose we are going to use.
+This is a variable you can use anything.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/768-2
+00:21:15.157 --> 00:21:16.916
+We are at the number.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/783-0
+00:21:36.396 --> 00:21:40.627
+If someone else will see your code,
+he will understand why you have declared
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/783-1
+00:21:40.627 --> 00:21:41.396
+that variable.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/787-0
+00:21:44.836 --> 00:21:46.636
+Could be anything.
+This is the variable name.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/788-0
+00:21:52.796 --> 00:21:53.036
+Right.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/792-0
+00:21:59.556 --> 00:22:00.996
+Or you can need option.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/800-0
+00:22:02.436 --> 00:22:04.996
+Option.
+There is an option there's equal to.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/810-0
+00:22:07.396 --> 00:22:10.960
+Anything not necessarily only,
+but what do you like here?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/810-1
+00:22:10.960 --> 00:22:13.356
+You are right here as well, same thing.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/818-0
+00:22:15.636 --> 00:22:20.236
+That's why I have started from the
+variable constant all these things.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/826-0
+00:22:38.876 --> 00:22:40.436
+Keywords. These are the keywords.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/847-0
+00:22:45.356 --> 00:22:48.924
+No. See, you can't run all the keywords,
+right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/847-1
+00:22:48.924 --> 00:22:54.869
+So it means you can't remember all the
+keywords, right? So once they will come,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/847-2
+00:22:54.869 --> 00:22:56.356
+you will check them.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/849-0
+00:23:00.956 --> 00:23:02.316
+Uh, see here.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/852-0
+00:23:03.476 --> 00:23:04.836
+All Python keywords.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/861-0
+00:23:10.116 --> 00:23:15.156
+There's a list of keywords.
+These are the keywords, for example.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/906-0
+00:23:16.756 --> 00:23:20.287
+The the but this way you can't.
+We can't work.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/906-1
+00:23:20.287 --> 00:23:26.148
+Actually the keyword says the special
+words that have the special meaning for
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/906-2
+00:23:26.148 --> 00:23:31.107
+the for the programming.
+Like for example you have studied the if
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/906-3
+00:23:31.107 --> 00:23:35.916
+else right? You have done the if else.
+So this if is a keyword.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/944-0
+00:23:36.356 --> 00:23:40.581
+And else is a keyword so you can't use it
+later on, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/944-1
+00:23:40.581 --> 00:23:45.880
+So you can't do like you have learned all
+the keywords and remember them.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/944-2
+00:23:45.880 --> 00:23:50.677
+That way you can't work right.
+The way working is once you we have
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/944-3
+00:23:50.677 --> 00:23:52.396
+discussed the let's say.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/985-0
+00:23:53.156 --> 00:23:57.217
+We have discussed if else, right?
+So that time you have seen if is a
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/985-1
+00:23:57.217 --> 00:24:01.337
+keyword, else is a keyword.
+So then it should be in your mind this is
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/985-2
+00:24:01.337 --> 00:24:04.104
+the keyword.
+Now you have done the four while,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/985-3
+00:24:04.104 --> 00:24:08.636
+so now it should be in your mind this
+four is a keyword, while is a keyword.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1015-0
+00:24:08.996 --> 00:24:13.224
+Then you have done the classes,
+so class is a keyword.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1015-1
+00:24:13.224 --> 00:24:18.836
+Then inside this we have done function in
+the function def is a keyword.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1015-2
+00:24:18.836 --> 00:24:24.756
+This is define is a keyword here today.
+I also have told you that here is a.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1064-0
+00:24:24.756 --> 00:24:29.247
+The self is a keyword,
+this is a parameter self and the def is a
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1064-1
+00:24:29.247 --> 00:24:34.498
+keyword. This is a built-in function,
+so this is a keyword here inside this
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1064-2
+00:24:34.498 --> 00:24:39.818
+class and then the print is a keyword.
+You know now print is going to do the
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1064-3
+00:24:39.818 --> 00:24:44.516
+command that the command instruction you
+are going to give to some.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1114-0
+00:24:44.516 --> 00:24:48.542
+That is a keyword so you can't use it.
+Print for example input.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1114-1
+00:24:48.542 --> 00:24:53.450
+Now you will not make the mistake for
+input to use somewhere because you know
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1114-2
+00:24:53.450 --> 00:24:58.105
+the input is for taking the values.
+So similarly once you know the things
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1114-3
+00:24:58.105 --> 00:25:02.069
+then you will automatically understand
+these are the keywords.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1114-4
+00:25:02.069 --> 00:25:03.956
+So keywords are special words.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1129-0
+00:25:04.196 --> 00:25:10.460
+That have some meaning for the compiler,
+for the programming compilation, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1129-1
+00:25:10.460 --> 00:25:15.796
+So one have read the hand for those. Yes,
+you want to say something.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1131-0
+00:25:16.036 --> 00:25:18.156
+Yes, Sir. I have a question, Sir.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1132-0
+00:25:18.116 --> 00:25:18.756
+Yeah, please.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1142-0
+00:25:19.476 --> 00:25:25.156
+In the loop you put choice equal to what?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1138-0
+00:25:22.076 --> 00:25:22.556
+Mhm.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1178-0
+00:25:26.516 --> 00:25:30.869
+We have not put the loop,
+we have just taken the value and we have
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1146-0
+00:25:26.676 --> 00:25:26.716
+Uh.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1178-1
+00:25:30.869 --> 00:25:36.132
+do it. I have done it without the loop.
+If you want to do it in the loop then we
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1163-0
+00:25:33.356 --> 00:25:34.116
+Uh, yes.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1178-2
+00:25:36.132 --> 00:25:38.796
+will write it inside the loop also right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1194-0
+00:25:39.916 --> 00:25:45.114
+OK, choose equal to one.
+It will go to AC deposit, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1186-0
+00:25:44.636 --> 00:25:44.756
+Right.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1194-1
+00:25:45.114 --> 00:25:49.236
+What if we put #3?
+It still go to a withdraw?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1232-0
+00:25:49.796 --> 00:25:55.590
+If it will go to the withdraw,
+so you want to handle that situation,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1232-1
+00:25:55.590 --> 00:25:59.536
+right?
+So we can write if is equal to equal to
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1232-2
+00:25:59.536 --> 00:26:04.826
+two, then the withdraw, right?
+So that I was about to ask you.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1232-3
+00:26:04.826 --> 00:26:09.276
+That's why I'm not right.
+Let me show you otherwise.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1234-0
+00:26:10.756 --> 00:26:10.996
+Girls.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1236-0
+00:26:12.836 --> 00:26:14.556
+We have rate here.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1237-0
+00:26:17.196 --> 00:26:17.316
+Read.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1239-0
+00:26:20.796 --> 00:26:21.076
+Wrong choice.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1261-0
+00:26:23.956 --> 00:26:31.066
+Fine. So now it will. Is it OK now?
+And if you write the third one, third one,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1250-0
+00:26:29.916 --> 00:26:30.276
+Yes.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1261-1
+00:26:31.066 --> 00:26:35.836
+for example #3,
+you want to get the balance 3 years.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1262-0
+00:26:39.156 --> 00:26:39.516
+Balance.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1263-0
+00:26:41.996 --> 00:26:42.556
+Info.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1273-0
+00:26:44.036 --> 00:26:49.356
+It is balanced for so you want to go to
+the three as well, so if.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1278-0
+00:26:51.596 --> 00:26:54.716
+of is equal to equal to
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1285-0
+00:26:57.476 --> 00:27:00.796
+Three. Then what we will do?
+We want to call this one.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1288-0
+00:27:03.036 --> 00:27:06.676
+AC dot show.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1300-0
+00:27:08.756 --> 00:27:14.423
+We'll show you the holder name and the
+account balance. Otherwise wrong choice,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1300-1
+00:27:14.423 --> 00:27:14.636
+OK.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1367-0
+00:29:55.876 --> 00:30:01.163
+So someone have put in the this one group
+with the list of keywords,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1367-1
+00:30:01.163 --> 00:30:06.373
+but these are not all keywords.
+So few of these if you want to just
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1367-2
+00:30:06.373 --> 00:30:07.676
+remember then to.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1368-0
+00:30:12.396 --> 00:30:12.756
+Sir.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1369-0
+00:30:13.316 --> 00:30:13.556
+There.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1370-0
+00:30:13.756 --> 00:30:14.116
+Yeah.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1377-0
+00:30:14.996 --> 00:30:17.876
+What's the difference between?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1401-0
+00:30:15.676 --> 00:30:21.514
+This these are not all, but yes,
+just to get the idea, it's good.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1401-1
+00:30:21.514 --> 00:30:27.618
+You can memorize. Otherwise,
+by the time you will understand all the
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1401-2
+00:30:27.618 --> 00:30:29.476
+keywords, absolutely.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1411-0
+00:30:30.956 --> 00:30:36.462
+That's good, but for review it's good.
+They can this page will help them out.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1411-1
+00:30:36.462 --> 00:30:38.156
+You can go through that.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1463-0
+00:30:43.036 --> 00:30:48.219
+See here. That's why I showed you here.
+Also this is the list of keywords.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1463-1
+00:30:48.219 --> 00:30:53.402
+There is the folds of it and all.
+But during the time you will get to know
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1463-2
+00:30:53.402 --> 00:30:57.548
+the Python exception handling.
+We are going to do the next.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1463-3
+00:30:57.548 --> 00:31:00.796
+Next we are going to do the this one
+packages.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1470-0
+00:31:01.676 --> 00:31:05.125
+And uh,
+the modules and after that we will start
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1470-1
+00:31:05.125 --> 00:31:07.236
+the exception handling, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1476-0
+00:31:12.276 --> 00:31:14.156
+Today we will go for packages and modules.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1487-0
+00:31:16.516 --> 00:31:22.400
+Exception handling will do tomorrow.
+Few things if we will cover today it will
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1487-1
+00:31:22.400 --> 00:31:22.996
+be good.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1507-0
+00:32:37.076 --> 00:32:37.396
+Done.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1516-0
+00:33:00.676 --> 00:33:03.977
+For example,
+one you have entered central amount
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1516-1
+00:33:03.977 --> 00:33:04.516
+deposit.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1519-0
+00:33:14.396 --> 00:33:16.036
+Where it's going to?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1524-0
+00:33:21.996 --> 00:33:25.476
+And it's giving the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1528-0
+00:33:43.116 --> 00:33:44.476
+Will you use a leaf?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1531-0
+00:33:47.316 --> 00:33:48.076
+Hmm else if.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1543-0
+00:33:49.276 --> 00:33:53.691
+That's it.
+So if any of these the conditions we'll
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1543-1
+00:33:53.691 --> 00:33:55.596
+go here view terminal.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1548-0
+00:33:57.556 --> 00:33:59.396
+Here is CLS.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1557-0
+00:34:00.596 --> 00:34:06.916
+We'll go here one for deposit and amount
+something something.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1604-0
+00:34:08.316 --> 00:34:11.882
+Balance after deposited this week.
+So we have rate LG.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1604-1
+00:34:11.882 --> 00:34:17.264
+If this condition is true then this part
+will execute. If this condition is false,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1604-2
+00:34:17.264 --> 00:34:21.414
+it will go and check the next condition.
+If that is also false,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1604-3
+00:34:21.414 --> 00:34:24.526
+it will go to the next.
+If none of these match,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1604-4
+00:34:24.526 --> 00:34:26.796
+it will go to the else part, right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1620-0
+00:34:27.956 --> 00:34:32.283
+So in that case we can use the LC.
+If you'll use LC if it,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1620-1
+00:34:32.283 --> 00:34:37.563
+but then this LC part will go,
+it's important and that's why we have to
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1620-2
+00:34:37.563 --> 00:34:38.076
+use LC.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1629-0
+00:35:02.436 --> 00:35:20.076
+What did you?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1631-0
+00:35:21.836 --> 00:35:33.476
+That is 5 options.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1645-0
+00:36:12.116 --> 00:36:28.116
+And then what happens?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1646-0
+00:36:36.996 --> 00:36:40.476
+Yeah, yeah, yeah.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1648-0
+00:36:45.036 --> 00:36:46.676
+Then we don't.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1650-0
+00:36:48.276 --> 00:36:50.596
+Thank you.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1654-0
+00:37:09.996 --> 00:37:11.676
+I love you too.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1655-0
+00:37:14.036 --> 00:37:23.316
+It's like any kind of a project to check
+in this, you know?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1660-0
+00:37:28.916 --> 00:37:45.516
+I'm sorry.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1662-0
+00:37:45.996 --> 00:37:53.236
+When I take the day, see, that's right,
+just when I take the day.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1667-0
+00:38:11.156 --> 00:38:16.196
+That's it.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1673-0
+00:38:42.636 --> 00:38:56.316
+We'll do that.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1684-0
+00:38:58.036 --> 00:39:17.556
+It's actually a.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1688-0
+00:39:20.996 --> 00:39:25.076
+Oh, society.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1692-0
+00:40:01.476 --> 00:40:10.436
+Versions of the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1711-0
+00:40:43.076 --> 00:40:55.460
+You'll be like I'll see, I'll see.
+I'll see if you want to do the withdrawal,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1711-1
+00:40:55.460 --> 00:40:58.636
+you have to run the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1724-0
+00:40:58.996 --> 00:41:09.196
+You want to use the while loop in this
+one. How to do it?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1734-0
+00:41:10.716 --> 00:41:15.707
+Everything I will do.
+What you will do then that you will do.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1734-1
+00:41:15.707 --> 00:41:17.156
+This is your task.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1746-0
+00:42:01.676 --> 00:42:21.076
+I don't. I think you don't.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1778-0
+00:42:24.716 --> 00:42:30.669
+So let's just start the next thing now.
+Python. OK,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1778-1
+00:42:30.669 --> 00:42:34.676
+this one I have not uploaded today.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1780-0
+00:42:43.836 --> 00:42:44.676
+Let me upload it fast.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1781-0
+00:42:50.876 --> 00:42:52.636
+Yeah.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1785-0
+00:43:13.316 --> 00:43:14.636
+Is that.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1786-0
+00:43:17.556 --> 00:43:20.716
+Can you?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1787-0
+00:43:22.076 --> 00:43:26.036
+OK, I'll check that.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1802-0
+00:43:32.876 --> 00:43:43.918
+Let me just upload it for today's content,
+then we'll start the next thing.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1802-1
+00:43:43.918 --> 00:43:45.516
+So here is.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1817-0
+00:44:10.436 --> 00:44:21.796
+Should I start new Tawik now?
+You are all set already. Let's start.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1835-0
+00:44:25.516 --> 00:44:31.412
+Today I will give you some exercises so I
+can share today on WhatsApp so you can
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1835-1
+00:44:31.412 --> 00:44:34.396
+submit your responses before the morning.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1837-0
+00:44:36.436 --> 00:44:37.236
+OK, is it fine?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1840-0
+00:44:41.236 --> 00:44:43.836
+When not today? Tomorrow.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1841-0
+00:44:46.996 --> 00:44:47.476
+Mhm.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1844-0
+00:45:10.716 --> 00:45:25.516
+I think that should do it.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1852-0
+00:45:25.676 --> 00:45:40.436
+It's the same text.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1866-0
+00:45:56.756 --> 00:46:03.956
+We should put a.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1868-0
+00:46:19.396 --> 00:46:19.436
+Oh.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1883-0
+00:46:24.996 --> 00:46:38.436
+I have here.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1889-0
+00:46:39.076 --> 00:46:49.156
+Should it be?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1892-0
+00:46:52.076 --> 00:46:53.396
+I do think that it.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1893-0
+00:46:59.196 --> 00:46:59.796
+Yeah.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1894-0
+00:47:03.956 --> 00:47:04.116
+Oops.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1905-0
+00:47:05.196 --> 00:47:22.236
+That's OK.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1913-0
+00:47:22.436 --> 00:47:27.476
+I'm not.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1923-0
+00:47:34.516 --> 00:47:51.276
+Well, it's guess you want.
+I'm speaking and you know, you know.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1943-0
+00:47:51.476 --> 00:47:59.908
+See,
+I have uploaded this one and this is the
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1943-1
+00:47:59.908 --> 00:48:08.156
+PDF also.
+That's the PDF for the next topic.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1944-0
+00:48:16.236 --> 00:48:16.436
+Ready.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1945-0
+00:48:22.356 --> 00:48:22.596
+Yes.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1961-0
+00:48:27.516 --> 00:48:33.814
+Changed, right? What? Sorry,
+that's really the bad ones.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1961-1
+00:48:33.814 --> 00:48:40.996
+That's great balance and what we can
+change through the methods.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1964-0
+00:48:44.716 --> 00:48:46.836
+To the matters we can change.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/1966-0
+00:48:52.276 --> 00:48:54.396
+This court.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2003-0
+00:49:01.676 --> 00:49:05.958
+Yeah, this one. Yeah,
+that that that language.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2003-1
+00:49:05.958 --> 00:49:11.607
+This is the keyword. This is the keyword.
+This is a function.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2003-2
+00:49:11.607 --> 00:49:18.258
+Actually this is initializer in the
+morning. We are done. Actually I am,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2003-3
+00:49:18.258 --> 00:49:21.356
+but we have not returned the time.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2044-0
+00:49:21.676 --> 00:49:26.217
+This is the initializer.
+This is a function that's automatically
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2044-1
+00:49:26.217 --> 00:49:30.548
+call whenever you will create the object
+of this class right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2044-2
+00:49:30.548 --> 00:49:35.019
+So for example you have created the
+object here AC account Sam.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2044-3
+00:49:35.019 --> 00:49:40.608
+So this init will call so holder name
+will be it set the Sam and the balance it
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2044-4
+00:49:40.608 --> 00:49:41.516
+will set the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2056-0
+00:49:41.596 --> 00:49:46.312
+You values you have passed.
+For example you have created one more.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2056-1
+00:49:46.312 --> 00:49:48.916
+Let's say AC one is equal to account.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2069-0
+00:49:50.676 --> 00:49:57.427
+And you have rate from here this is 1 Raj
+for example and here you have rate some
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2069-1
+00:49:57.427 --> 00:49:59.156
+sort of amount right?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2071-0
+00:50:05.276 --> 00:50:05.556
+Sorry.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2081-0
+00:50:08.956 --> 00:50:13.432
+The deaf deposit.
+This is this deaf is a keyword.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2081-1
+00:50:13.432 --> 00:50:18.356
+Definition is a keyword.
+This is a function here, huh?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2082-0
+00:50:19.956 --> 00:50:21.436
+DF.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2125-0
+00:50:23.676 --> 00:50:27.519
+It was. It's not the keyword.
+You can write.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2125-1
+00:50:27.519 --> 00:50:33.327
+You can write any method here.
+The withdraw is not a keyword. Fine.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2125-2
+00:50:33.327 --> 00:50:38.280
+This one is a keyword.
+Def is a keyword and the init is a
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2125-3
+00:50:38.280 --> 00:50:42.636
+function built in and this self is a
+keyword here.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2133-0
+00:50:42.676 --> 00:50:48.014
+Self the the rest. The print is a keyword.
+The deposit is not a keyword.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2133-1
+00:50:48.014 --> 00:50:49.476
+If else is keywords.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2148-0
+00:50:54.356 --> 00:50:59.916
+The deposit you can write something else
+also. For example you can write the.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2189-0
+00:51:01.636 --> 00:51:05.615
+Which one? No, no, it's a.
+It's a value you are passing.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2189-1
+00:51:05.615 --> 00:51:09.245
+It's a parameter you are passing to
+account holder.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2189-2
+00:51:09.245 --> 00:51:14.900
+This is a AC is a object of the class.
+Account is a class name and these are the
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2189-3
+00:51:14.900 --> 00:51:16.436
+value you are passing.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2224-0
+00:51:16.916 --> 00:51:22.135
+For example AC one you are passing the
+value Raj and this one and you want to
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2224-1
+00:51:22.135 --> 00:51:26.016
+display using AC one dot show.
+So what what it will show?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2224-2
+00:51:26.016 --> 00:51:30.700
+It will show you this value.
+This value have passed. This one is Raj,
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2224-3
+00:51:30.700 --> 00:51:35.116
+the account holder name is Raj and the
+the amount will be 50,000.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2226-0
+00:51:35.796 --> 00:51:35.916
+OK.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2231-0
+00:51:53.516 --> 00:51:56.156
+Read it. Thanks.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2232-0
+00:52:00.796 --> 00:52:00.996
+No.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2245-0
+00:52:03.076 --> 00:52:07.523
+Next topic.
+Are you ready for next topic or want to
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2245-1
+00:52:07.523 --> 00:52:10.516
+take 5 minutes wait and then start?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2247-0
+00:52:11.476 --> 00:52:12.756
+Want to take back?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2249-0
+00:52:15.356 --> 00:52:16.116
+No, yes or no?
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2269-0
+00:52:17.556 --> 00:52:22.769
+Yes, for what? Yes, for take. Yes,
+for take break. Yes. OK, fine.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2269-1
+00:52:22.769 --> 00:52:29.087
+Take 10 minutes break and come back. Fine.
+Just 10 minutes, not more than that.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2269-2
+00:52:29.087 --> 00:52:29.956
+So it's uh.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2296-0
+00:52:31.276 --> 00:52:36.221
+13 it's considered 15.
+So by 35 everyone should be here.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2296-1
+00:52:36.221 --> 00:52:42.380
+12 minute breaks for all of you.
+The online one also you guys can join
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2296-2
+00:52:42.380 --> 00:52:44.636
+again at 1535. It's three.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2303-0
+00:52:45.956 --> 00:52:49.604
+35 OK,
+this is 10 minute breaks for all of you.
+
+3ed754cb-8e9d-4530-83e9-6cf536dcb477/2303-1
+00:52:49.604 --> 00:52:51.276
+Just go and come back.
+
+42efa652-8d38-4879-bf90-5ceab03a5778/28-0
+01:01:10.533 --> 01:01:10.573
+Oh.

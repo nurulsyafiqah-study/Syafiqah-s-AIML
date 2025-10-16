@@ -1,0 +1,6025 @@
+WEBVTT
+
+57efaad6-37ee-490e-a21a-3901552b1b14/83-0
+00:13:21.524 --> 00:13:21.644
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/111-0
+00:16:04.164 --> 00:16:04.404
+And.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/112-0
+00:16:09.324 --> 00:16:09.564
+Skip.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/148-0
+00:19:20.964 --> 00:19:21.084
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/151-0
+00:19:39.164 --> 00:19:39.444
+The.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/195-0
+00:25:29.844 --> 00:25:31.284
+I think today.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/196-0
+00:25:31.964 --> 00:25:34.204
+They will join online only.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/197-0
+00:25:35.324 --> 00:25:36.564
+Try dinner.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/200-0
+00:25:47.844 --> 00:25:51.124
+But I think the all the goose coming.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/424-0
+00:49:44.044 --> 00:49:45.884
+Hello. Hey, good morning.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/425-0
+00:49:49.524 --> 00:49:50.964
+But what is?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/426-0
+00:49:51.724 --> 00:49:54.124
+Good morning. I'm audible, all of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/427-0
+00:49:58.604 --> 00:50:01.884
+So today everyone is online, huh?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/438-0
+00:51:23.684 --> 00:51:26.804
+It's fine.
+We are going to start decision now.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/441-0
+00:51:31.284 --> 00:51:38.864
+So we were discussing about the what we
+are discussing functions yesterday, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/441-1
+00:51:38.864 --> 00:51:40.964
+Let me share my screen.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/444-0
+00:52:00.164 --> 00:52:05.886
+We have seen the functions.
+The next two things we are going to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/444-1
+00:52:05.886 --> 00:52:10.713
+discuss now.
+One is Lambda functions and then map and
+
+57efaad6-37ee-490e-a21a-3901552b1b14/444-2
+00:52:10.713 --> 00:52:15.004
+filter function.
+After that we will go forward.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/445-0
+00:52:16.404 --> 00:52:21.219
+Assessment and quiz and then we will
+start object oriented programming today.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/445-1
+00:52:21.219 --> 00:52:25.911
+I think the up to Lambda functions and
+map filter we will do in first half.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/445-2
+00:52:25.911 --> 00:52:30.232
+In second-half we will discuss about the
+object oriented programming.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/445-3
+00:52:30.232 --> 00:52:32.084
+So let's just start from here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/446-0
+00:52:34.924 --> 00:52:38.484
+So just a quick recap what is function?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/447-0
+00:52:40.364 --> 00:52:43.364
+A function is a block of reusable code.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/448-0
+00:52:44.724 --> 00:52:48.319
+Means we have,
+we can write the block of code whenever
+
+57efaad6-37ee-490e-a21a-3901552b1b14/448-1
+00:52:48.319 --> 00:52:51.587
+required.
+We just call that block of code that is
+
+57efaad6-37ee-490e-a21a-3901552b1b14/448-2
+00:52:51.587 --> 00:52:55.573
+known as function.
+Means we will write our thing with a name
+
+57efaad6-37ee-490e-a21a-3901552b1b14/448-3
+00:52:55.573 --> 00:52:59.364
+we will define.
+For example we have right define welcome.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/449-0
+00:52:59.924 --> 00:53:04.552
+And then we can call it whenever is
+required. We can call it many times.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/449-1
+00:53:04.552 --> 00:53:09.878
+We can pass the argument to the functions,
+we can pass the argument to the function
+
+57efaad6-37ee-490e-a21a-3901552b1b14/449-2
+00:53:09.878 --> 00:53:13.809
+through the parameters,
+and that parameter could be any type.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/449-3
+00:53:13.809 --> 00:53:15.964
+We can use N number of parameters.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/450-0
+00:53:18.124 --> 00:53:19.564
+In functions, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/451-0
+00:53:21.164 --> 00:53:27.114
+So why we use the functions?
+The benefit of using functions are that
+
+57efaad6-37ee-490e-a21a-3901552b1b14/451-1
+00:53:27.114 --> 00:53:27.804
+are for.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/452-0
+00:53:28.884 --> 00:53:32.084
+Reusability. Let me just do the slideshow.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/453-0
+00:53:33.844 --> 00:53:37.108
+Reusability.
+We write once and use many times.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/453-1
+00:53:37.108 --> 00:53:42.802
+Now because you already have done those
+functions, it will be easy to understand.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/453-2
+00:53:42.802 --> 00:53:47.316
+Modularity divide large program into
+smaller parts. For example,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/453-3
+00:53:47.316 --> 00:53:52.524
+we want to create a number of functions
+we can call which one is required.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/454-0
+00:53:53.684 --> 00:53:58.643
+We can call only that function,
+so we can divide our program into smaller
+
+57efaad6-37ee-490e-a21a-3901552b1b14/454-1
+00:53:58.643 --> 00:54:01.927
+parts.
+Readability code is cleaner and easier to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/454-2
+00:54:01.927 --> 00:54:04.876
+understand which functions you are
+calling.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/454-3
+00:54:04.876 --> 00:54:08.964
+This will write that function name.
+It's easy to understand.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/455-0
+00:54:09.404 --> 00:54:13.065
+Debugging.
+If there is any sort of error will come,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/455-1
+00:54:13.065 --> 00:54:16.866
+we will go to that function only and we
+can check it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/455-2
+00:54:16.866 --> 00:54:21.864
+So the debugging is also easier.
+So the benefit of using functions are
+
+57efaad6-37ee-490e-a21a-3901552b1b14/455-3
+00:54:21.864 --> 00:54:25.524
+reusability, modularity,
+readability and debugging.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/456-0
+00:54:26.124 --> 00:54:26.444
+Right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/458-0
+00:54:28.084 --> 00:54:31.182
+Easier devalue how we will define the
+function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/458-1
+00:54:31.182 --> 00:54:36.217
+We will write depth and then we will
+write our function name and then we will
+
+57efaad6-37ee-490e-a21a-3901552b1b14/458-2
+00:54:36.217 --> 00:54:39.703
+pass the parameter.
+We can write the function without
+
+57efaad6-37ee-490e-a21a-3901552b1b14/458-3
+00:54:39.703 --> 00:54:43.511
+parameter or we can write the function
+with the parameter.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/458-4
+00:54:43.511 --> 00:54:45.964
+For example we have right here define.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/459-0
+00:54:46.404 --> 00:54:51.595
+Function function name parameters.
+So define greet and print hello world.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/459-1
+00:54:51.595 --> 00:54:55.804
+We can define the function with the
+parameters we can pass.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/462-0
+00:54:57.364 --> 00:55:00.767
+Parameters.
+We can take the parameters from users and
+
+57efaad6-37ee-490e-a21a-3901552b1b14/462-1
+00:55:00.767 --> 00:55:03.981
+their functions can return you the values
+as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/462-2
+00:55:03.981 --> 00:55:08.707
+So if you want to return the value,
+you will use the return keyword right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/462-3
+00:55:08.707 --> 00:55:13.244
+If it is not returning the value,
+you will not use this return keyword.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/463-0
+00:55:14.804 --> 00:55:19.159
+We can also use the default parameter.
+If you are not passed the value,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/463-1
+00:55:19.159 --> 00:55:22.243
+then the default parameter will take
+those values.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/463-2
+00:55:22.243 --> 00:55:24.904
+Let me show you an example of these
+things.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/463-3
+00:55:24.904 --> 00:55:29.924
+Then we will start discussing about the
+lambdas, right? Just one example, just to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/464-0
+00:55:29.924 --> 00:55:35.084
+For recap, right? So here we go.
+This is your folder.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/465-0
+00:55:36.644 --> 00:55:42.987
+That we every do using IML.
+I'm going to create here one more folder,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/465-1
+00:55:42.987 --> 00:55:48.604
+new folder, folder name is day five,
+right? So this is day 5.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/466-0
+00:55:50.084 --> 00:55:56.684
+In this day five folder we are going to
+work today. I have right click here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/467-0
+00:55:59.924 --> 00:56:01.804
+Open with VS code.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/469-0
+00:56:04.444 --> 00:56:07.324
+So we are in the day #5.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/470-0
+00:56:08.924 --> 00:56:16.906
+Here is new file.
+Let me give the name to this one is the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/470-1
+00:56:16.906 --> 00:56:24.201
+recap dot PY.
+Let me call recap D4D4 dot PY recap D4
+
+57efaad6-37ee-490e-a21a-3901552b1b14/470-2
+00:56:24.201 --> 00:56:25.164
+dot PY.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/471-0
+00:56:25.524 --> 00:56:27.444
+So we want to just.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/472-0
+00:56:29.884 --> 00:56:31.644
+Recap the day #4.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/475-0
+00:56:47.524 --> 00:56:50.804
+We keep day day 4 dot PY right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/478-0
+00:57:02.364 --> 00:57:05.804
+Then let me just.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/479-0
+00:57:09.644 --> 00:57:16.604
+Upload it as well for you so you can use
+this one. We'll go here with.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/480-0
+00:57:18.604 --> 00:57:20.284
+dot com.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/481-0
+00:57:21.564 --> 00:57:27.464
+Let me write here new.
+I will give you the new repository.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/481-1
+00:57:27.464 --> 00:57:29.764
+From there you can use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/483-0
+00:57:32.244 --> 00:57:36.124
+You can download this today's content at
+the end of the day.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/489-0
+00:58:06.804 --> 00:58:08.524
+Your number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/494-0
+00:58:34.124 --> 00:58:40.072
+So this one is I'm writing this to upload
+the things that you need not right get in
+
+57efaad6-37ee-490e-a21a-3901552b1b14/494-1
+00:58:40.072 --> 00:58:40.284
+it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/499-0
+00:59:09.284 --> 00:59:11.084
+Start of the day.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/500-0
+00:59:13.204 --> 00:59:15.044
+This is one permit.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/501-0
+00:59:16.204 --> 00:59:17.564
+Good to push.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/510-0
+01:00:17.324 --> 01:00:18.964
+Done. See here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/511-0
+01:00:21.164 --> 01:00:26.533
+It's a recap day for us.
+I'm going to write the recap code here
+
+57efaad6-37ee-490e-a21a-3901552b1b14/511-1
+01:00:26.533 --> 01:00:27.204
+for the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/512-0
+01:00:29.284 --> 01:00:34.299
+So functions, how will I do the function?
+How will define the function?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/512-1
+01:00:34.299 --> 01:00:38.269
+We will write here def.
+We will write the function name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/512-2
+01:00:38.269 --> 01:00:41.403
+For example,
+you want to write display fine.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/512-3
+01:00:41.403 --> 01:00:45.164
+So display this is a function you want to
+write here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/514-0
+01:00:45.244 --> 01:00:47.524
+This you are right print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/515-0
+01:00:52.404 --> 01:00:57.564
+Welcome to the recap of functions.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/517-0
+01:00:59.604 --> 01:01:02.729
+OK,
+this is the functions you have right now
+
+57efaad6-37ee-490e-a21a-3901552b1b14/517-1
+01:01:02.729 --> 01:01:07.797
+you want to use this function.
+To use this function what you will do you
+
+57efaad6-37ee-490e-a21a-3901552b1b14/517-2
+01:01:07.797 --> 01:01:10.644
+will just call it to call you write this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/518-0
+01:01:14.244 --> 01:01:14.364
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/519-0
+01:01:16.684 --> 01:01:19.284
+And from here you're late.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/520-0
+01:01:21.244 --> 01:01:21.644
+Python.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/521-0
+01:01:23.724 --> 01:01:24.684
+Recap.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/522-0
+01:01:25.884 --> 01:01:30.724
+under score TA4 dot PY.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/523-0
+01:01:31.604 --> 01:01:34.244
+Welcome to a recap of functions.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/524-0
+01:01:35.204 --> 01:01:38.844
+This is one function you have right?
+And you have called it right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/525-0
+01:01:43.324 --> 01:01:44.524
+Hello. OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/526-0
+01:01:46.244 --> 01:01:48.204
+All of you online one done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/527-0
+01:01:49.004 --> 01:01:49.324
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/528-0
+01:01:49.164 --> 01:01:50.524
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/529-0
+01:01:50.684 --> 01:01:51.524
+Good. Great.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/530-0
+01:01:53.844 --> 01:01:54.364
+Then.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/531-0
+01:02:03.364 --> 01:02:07.972
+Then for example here I have write one
+more function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/531-1
+01:02:07.972 --> 01:02:12.324
+Here is I'm defining one more dev.
+Let me call it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/532-0
+01:02:13.844 --> 01:02:20.635
+Welcome here.
+I have read the string name and I have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/532-1
+01:02:20.635 --> 01:02:22.044
+print here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/533-0
+01:02:23.964 --> 01:02:28.444
+Print not a strings. I'll just name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/534-0
+01:02:30.844 --> 01:02:31.044
+Print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/535-0
+01:02:35.324 --> 01:02:36.924
+Welcome to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/536-0
+01:02:39.244 --> 01:02:39.644
+Functions.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/537-0
+01:02:45.124 --> 01:02:51.284
+The start or miss and here we have write
+the name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/538-0
+01:02:52.924 --> 01:02:56.164
+You want to call this one as well.
+So how we'll call,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/538-1
+01:02:56.164 --> 01:02:57.844
+we'll call it like this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/539-0
+01:03:01.004 --> 01:03:01.444
+Welcome.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/540-0
+01:03:03.924 --> 01:03:08.004
+From here you have passed the name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/541-0
+01:03:12.164 --> 01:03:13.084
+This is sad.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/542-0
+01:03:15.004 --> 01:03:20.664
+And you have run it from here.
+So welcome to function Mr. or Miss Sam.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/542-1
+01:03:20.664 --> 01:03:26.164
+This one is calling the welcome and
+display is calling this display.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/595-0
+01:05:45.204 --> 01:05:52.524
+Done. See here one more functions.
+For example I have defined one more depth.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/596-0
+01:05:53.964 --> 01:05:57.564
+It's a cube and we want to take a number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/597-0
+01:05:59.404 --> 01:05:59.884
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/598-0
+01:06:01.204 --> 01:06:01.884
+Here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/599-0
+01:06:10.084 --> 01:06:11.324
+Return.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/600-0
+01:06:13.764 --> 01:06:15.004
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/601-0
+01:06:16.604 --> 01:06:17.404
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/602-0
+01:06:18.964 --> 01:06:21.244
+I don't know.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/603-0
+01:06:22.444 --> 01:06:23.884
+Oh, let me write it this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/604-0
+01:06:26.684 --> 01:06:26.724
+Uh.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/605-0
+01:06:30.164 --> 01:06:33.731
+Return. I will show you after this.
+I have read this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/605-1
+01:06:33.731 --> 01:06:35.084
+It's a cube of number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/606-0
+01:06:39.164 --> 01:06:42.484
+Cube num is equal to num.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/607-0
+01:06:44.204 --> 01:06:50.724
+And we have right here print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/608-0
+01:06:56.964 --> 01:06:58.164
+Good call.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/609-0
+01:07:02.724 --> 01:07:03.644
+Even.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/610-0
+01:07:05.124 --> 01:07:05.484
+Number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/611-0
+01:07:14.084 --> 01:07:20.764
+Num is equal to xlst.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/612-0
+01:07:23.244 --> 01:07:23.324
+You.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/613-0
+01:07:26.084 --> 01:07:27.564
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/614-0
+01:07:32.484 --> 01:07:37.724
+This is one more functions we have
+created right as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/615-0
+01:07:41.204 --> 01:07:46.364
+These function no one is returning the
+values they are just.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/616-0
+01:07:47.524 --> 01:07:52.444
+This one is taking the parameter.
+This one is taking the parameter now here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/617-0
+01:07:53.564 --> 01:07:54.444
+I am great.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/618-0
+01:07:57.044 --> 01:07:57.844
+I know.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/619-0
+01:08:01.084 --> 01:08:05.604
+Is equal to input and input.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/620-0
+01:08:08.564 --> 01:08:10.644
+Enter number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/622-0
+01:08:12.604 --> 01:08:14.124
+To find out.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/623-0
+01:08:15.604 --> 01:08:15.764
+Q.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/624-0
+01:08:17.524 --> 01:08:22.089
+Whatever the number user have entered,
+we have assigned to this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/624-1
+01:08:22.089 --> 01:08:26.124
+Now if you want to call that method,
+so you have write cube.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/625-0
+01:08:28.204 --> 01:08:29.404
+Find up.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/626-0
+01:08:31.604 --> 01:08:36.066
+So how it will execute this one.
+First of all we have called the welcome
+
+57efaad6-37ee-490e-a21a-3901552b1b14/626-1
+01:08:36.066 --> 01:08:39.610
+function right?
+Then we have called the display function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/626-2
+01:08:39.610 --> 01:08:43.522
+Here what we have asked,
+we have asked enter the number to find
+
+57efaad6-37ee-490e-a21a-3901552b1b14/626-3
+01:08:43.522 --> 01:08:46.944
+out the queue.
+Whatever the number user have entered it
+
+57efaad6-37ee-490e-a21a-3901552b1b14/626-4
+01:08:46.944 --> 01:08:48.044
+will be my number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/627-0
+01:08:48.404 --> 01:08:52.431
+Then it will call my num.
+From here this my num become num and it
+
+57efaad6-37ee-490e-a21a-3901552b1b14/627-1
+01:08:52.431 --> 01:08:56.946
+will give num into num into num.
+Three times it will multiply and it will
+
+57efaad6-37ee-490e-a21a-3901552b1b14/627-2
+01:08:56.946 --> 01:09:00.423
+return here cube of given number.
+My num is cube of num.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/627-3
+01:09:00.423 --> 01:09:04.084
+For example you have entered from here 2
+so two become num.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/628-0
+01:09:04.724 --> 01:09:11.715
+So cube of number will be two into two
+into 222 to the 424 to the 8.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/628-1
+01:09:11.715 --> 01:09:17.996
+So cube of number is 8.
+Cube of given #2 is equal to 8. Fine.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/628-2
+01:09:17.996 --> 01:09:20.124
+See here. Let me run.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/629-0
+01:09:21.684 --> 01:09:26.548
+See here. Welcome to functions.
+Here the cube. I want the cube of two,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/629-1
+01:09:26.548 --> 01:09:28.124
+so cube of two is wait.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/633-0
+01:09:44.444 --> 01:09:44.604
+Fine.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/634-0
+01:09:48.244 --> 01:09:51.369
+See,
+this kind of revision will help you out
+
+57efaad6-37ee-490e-a21a-3901552b1b14/634-1
+01:09:51.369 --> 01:09:56.508
+to understand it better, right?
+So just 1015 minutes in the back morning,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/634-2
+01:09:56.508 --> 01:10:01.230
+it will do the same thing.
+You will go to all the concepts that you
+
+57efaad6-37ee-490e-a21a-3901552b1b14/634-3
+01:10:01.230 --> 01:10:01.924
+have done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/636-0
+01:10:02.804 --> 01:10:07.730
+Is it clear up to this level?
+So all three functions,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/635-0
+01:10:06.684 --> 01:10:07.524
+Play Sir.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/636-1
+01:10:07.730 --> 01:10:14.298
+no one is returning any value yet.
+These are just without returning the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/636-2
+01:10:14.298 --> 01:10:18.221
+value.
+Let's see if a function is going to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/636-3
+01:10:18.221 --> 01:10:20.684
+return you a value as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/637-0
+01:10:30.924 --> 01:10:35.164
+And one more thing,
+I'm writing here one more function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/638-0
+01:10:37.804 --> 01:10:39.804
+Turn up to this level, yes or no?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/639-0
+01:10:42.244 --> 01:10:45.364
+Any error, any issue you have started?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/640-0
+01:10:44.044 --> 01:10:47.404
+No, not yet. Not, not yet, not yet.
+It's still trying.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/641-0
+01:10:47.004 --> 01:10:50.844
+OK. Thanks. Do it, do it fast. No problem.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/642-0
+01:10:52.324 --> 01:10:54.084
+Take your time completely.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/649-0
+01:11:38.244 --> 01:11:38.724
+It.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/650-0
+01:11:40.044 --> 01:11:41.164
+Thank you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/651-0
+01:11:43.444 --> 01:11:48.444
+I think it's special. OK, so I guess.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/652-0
+01:11:51.644 --> 01:11:52.684
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/653-0
+01:11:55.044 --> 01:11:55.564
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/654-0
+01:12:11.484 --> 01:12:19.084
+OK, now see one more functions here.
+I have right here def.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/656-0
+01:12:20.564 --> 01:12:24.254
+Let's see, for example,
+we want to find out the square of a
+
+57efaad6-37ee-490e-a21a-3901552b1b14/656-1
+01:12:24.254 --> 01:12:24.684
+number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/657-0
+01:12:26.364 --> 01:12:28.124
+Spare No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/658-0
+01:12:30.324 --> 01:12:32.444
+I have right here return.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/659-0
+01:12:36.364 --> 01:12:39.804
+Dum into dum.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/660-0
+01:12:40.724 --> 01:12:46.583
+That is returning the square OK and I
+have comment these all calling so the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/660-1
+01:12:46.583 --> 01:12:52.674
+function is return but the calling we
+have not done any so it will not execute
+
+57efaad6-37ee-490e-a21a-3901552b1b14/660-2
+01:12:52.674 --> 01:12:58.764
+any of the functions here because you
+have not done any calling. See here CLS.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/661-0
+01:13:00.364 --> 01:13:05.069
+So once you will call the function then
+it will start working right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/661-1
+01:13:05.069 --> 01:13:10.046
+It's returned here. It's working fine,
+but we have not called any of the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/661-2
+01:13:10.046 --> 01:13:13.319
+function.
+Now I'm going to do what I'm going to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/661-3
+01:13:13.319 --> 01:13:15.364
+take the username is equal to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/662-0
+01:13:15.484 --> 01:13:16.124
+Input.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/663-0
+01:13:17.684 --> 01:13:18.084
+Enter.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/664-0
+01:13:21.164 --> 01:13:25.004
+User name.
+Whatever the name user have entered,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/664-1
+01:13:25.004 --> 01:13:29.004
+we have assigned to username.
+Then we have right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/665-0
+01:13:30.604 --> 01:13:32.444
+Uh, my name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/666-0
+01:13:35.324 --> 01:13:39.924
+'Cause we want a integer int dot uh input.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/667-0
+01:13:43.124 --> 01:13:44.444
+And input.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/668-0
+01:13:50.564 --> 01:13:50.884
+Enter.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/669-0
+01:13:53.724 --> 01:13:53.964
+Number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/670-0
+01:14:01.484 --> 01:14:02.324
+To find out.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/671-0
+01:14:04.204 --> 01:14:05.764
+Tube and.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/672-0
+01:14:07.044 --> 01:14:07.524
+It's square.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/673-0
+01:14:12.724 --> 01:14:17.810
+Whatever the number user have entered,
+we want to show the cube and the square
+
+57efaad6-37ee-490e-a21a-3901552b1b14/673-1
+01:14:17.810 --> 01:14:21.350
+of that number.
+So that next line you have to write to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/673-2
+01:14:21.350 --> 01:14:25.277
+call both the functions, right?
+This is the question to you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/673-3
+01:14:25.277 --> 01:14:26.564
+You got my question.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/694-0
+01:14:47.222 --> 01:14:51.002
+Now what I want to show,
+I want to say show welcome to the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/694-1
+01:14:51.002 --> 01:14:56.062
+username whatever the name you have
+entered and after that I want to show the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/719-0
+01:14:57.942 --> 01:15:02.228
+Square of the number that user have
+entered and the cube of number that user
+
+57efaad6-37ee-490e-a21a-3901552b1b14/719-1
+01:15:02.228 --> 01:15:06.902
+have entered the function I already have
+right for you. You have to just call them.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/723-0
+01:15:08.822 --> 01:15:10.622
+You got my questions, all of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/725-0
+01:15:12.542 --> 01:15:13.622
+But the online one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/728-0
+01:15:15.262 --> 01:15:15.782
+Got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/729-0
+01:15:16.382 --> 01:15:16.942
+Yeah. Yeah, got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/731-0
+01:15:17.502 --> 01:15:17.942
+Got got.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/775-0
+01:15:17.902 --> 01:15:24.446
+So so that that that two line of code you
+have to write to call those function one
+
+57efaad6-37ee-490e-a21a-3901552b1b14/736-0
+01:15:20.022 --> 01:15:21.022
+This has been in.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/775-1
+01:15:24.446 --> 01:15:30.753
+is I want to call the welcome to function
+Mr or miss whatever username you have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/775-2
+01:15:30.753 --> 01:15:36.902
+entered the second one I want to show the
+cube of number is this one and the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/814-0
+01:15:36.942 --> 01:15:42.065
+The square of number is this one right?
+So that I have to do the code I already
+
+57efaad6-37ee-490e-a21a-3901552b1b14/814-1
+01:15:42.065 --> 01:15:45.138
+have written functions,
+everything I'm calling.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/814-2
+01:15:45.138 --> 01:15:48.468
+Also I already showed you how to call the
+function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/814-3
+01:15:48.468 --> 01:15:53.654
+Now you have to call the function which
+one welcome cube and square 3 functions.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/814-4
+01:15:53.654 --> 01:15:54.742
+You have to call.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/818-0
+01:15:55.542 --> 01:15:57.782
+OK, that is sent for you. Do it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/824-0
+01:16:00.542 --> 01:16:03.342
+Just two minutes task I'm giving you 5
+minutes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/828-0
+01:16:14.102 --> 01:16:15.742
+You got my question all of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/832-0
+01:16:17.622 --> 01:16:19.662
+You you understand the question right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/873-0
+01:16:22.422 --> 01:16:27.803
+The question is we have a method display
+here right? We have method welcome.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/873-1
+01:16:27.803 --> 01:16:31.855
+Here we have method cube.
+Here we have a function square.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/873-2
+01:16:31.855 --> 01:16:35.139
+Here we have all these functions written
+here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/873-3
+01:16:35.139 --> 01:16:38.982
+Right now I have just take the username
+from the user.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/911-0
+01:16:39.622 --> 01:16:43.549
+And this line is taking the number from
+the user.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/911-1
+01:16:43.549 --> 01:16:49.439
+Now what I want I want that it will show
+me welcome to function Mr or miss
+
+57efaad6-37ee-490e-a21a-3901552b1b14/911-2
+01:16:49.439 --> 01:16:55.800
+whatever the username I have enter right
+and then for example I I will enter one
+
+57efaad6-37ee-490e-a21a-3901552b1b14/911-3
+01:16:55.800 --> 01:16:58.862
+number it will show me the cube of the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/922-0
+01:16:58.902 --> 01:17:03.802
+That number and the square of that number,
+so function is already returned.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/922-1
+01:17:03.802 --> 01:17:05.542
+You have to just call them.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/925-0
+01:17:06.902 --> 01:17:07.462
+You got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/961-0
+01:17:13.622 --> 01:17:16.401
+For welcome,
+you will call to this welcome function
+
+57efaad6-37ee-490e-a21a-3901552b1b14/961-1
+01:17:16.401 --> 01:17:20.408
+with 10:00 AM. Right. Four cube.
+You will call to this cube number one and
+
+57efaad6-37ee-490e-a21a-3901552b1b14/961-2
+01:17:20.408 --> 01:17:23.934
+four square. You will call to this one.
+If you are able to do it,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/961-3
+01:17:23.934 --> 01:17:26.873
+that means you have understand the
+functions properly.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/961-4
+01:17:26.873 --> 01:17:28.262
+If you are not able to do.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/963-0
+01:17:28.742 --> 01:17:29.942
+That means you need to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/965-0
+01:17:32.302 --> 01:17:33.262
+Review again.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1001-0
+01:19:20.502 --> 01:19:21.782
+Done any of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1044-0
+01:19:33.502 --> 01:19:38.633
+See here. Right now if you run it,
+it will doing enter username I have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1044-1
+01:19:38.633 --> 01:19:44.198
+entered Sam I enter number to find out
+for example under four it's not doing
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1044-2
+01:19:44.198 --> 01:19:47.811
+anything.
+I want that it will show me welcome Sam
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1044-3
+01:19:47.811 --> 01:19:52.942
+and the the cube of number is 4 the cube
+of four is this one and this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1047-0
+01:19:53.062 --> 01:19:55.982
+Part of what is this one,
+the two things we.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1055-0
+01:19:57.702 --> 01:20:00.222
+So how will do any of you done?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1059-0
+01:20:03.982 --> 01:20:06.142
+Then, but only two come.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1064-0
+01:20:07.862 --> 01:20:09.182
+OK, I will check this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1073-0
+01:20:11.222 --> 01:20:16.422
+Online, any of you have done? If yes,
+please let me know.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1074-0
+01:20:22.062 --> 01:20:22.382
+Tom.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1076-0
+01:20:30.462 --> 01:20:30.622
+Good.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1091-0
+01:20:34.782 --> 01:20:41.551
+One is correct, this one is correct,
+but this one is returning you the so if
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1091-1
+01:20:41.551 --> 01:20:48.584
+it is returning your footprint problem.
+Oh OK right where you have them correct
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1091-2
+01:20:48.584 --> 01:20:49.902
+perfectly fine.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1092-0
+01:20:50.302 --> 01:20:50.662
+That's good.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1099-0
+01:20:52.142 --> 01:20:56.142
+So she have done. What's your name,
+dealer.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1105-0
+01:20:57.582 --> 01:21:00.742
+Adila Adila so Adila have done it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1113-0
+01:21:08.062 --> 01:21:14.182
+She have done. I have to do as well.
+Do it fast, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1114-0
+01:21:15.702 --> 01:21:15.822
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1143-0
+01:22:41.782 --> 01:22:41.862
+The.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1154-0
+01:22:43.982 --> 01:22:49.902
+Which is how we want output to be to
+output, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1159-0
+01:22:51.542 --> 01:22:52.782
+How to right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1197-0
+01:22:55.582 --> 01:23:01.193
+Is it we want to? Oh, oh, see. Yeah. See.
+See, let me show you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1197-1
+01:23:01.193 --> 01:23:08.032
+So you want to call this function,
+let's say display. So how will light here?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1197-2
+01:23:08.032 --> 01:23:14.782
+Welcome. So you'll light welcome here.
+Right. And you have passed from here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1225-0
+01:23:15.102 --> 01:23:19.805
+Username so this line will come out first
+enter username right,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1225-1
+01:23:19.805 --> 01:23:25.242
+then enter number to find out the cube
+and square so you have entered the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1225-2
+01:23:25.242 --> 01:23:28.622
+username.
+Let's say you have entered the SEM.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1256-0
+01:23:30.222 --> 01:23:38.248
+Right then you it will call the welcome.
+Welcome to function, Mr or Miss Sam. Fine.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1256-1
+01:23:38.248 --> 01:23:43.407
+Then we want to call the cube.
+So we have right here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1256-2
+01:23:43.407 --> 01:23:46.942
+Square and Cube both you want, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1295-0
+01:23:47.742 --> 01:23:52.649
+So find out cube and square.
+So we want to call for example Cube first.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1295-1
+01:23:52.649 --> 01:23:57.079
+So I write cube and from here I have
+passed my number my number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1295-2
+01:23:57.079 --> 01:24:01.099
+So the number you have entered it will go
+here to the NUM.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1295-3
+01:24:01.099 --> 01:24:04.302
+So cube NUM is equal to NUM into NUM into
+NUM.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1325-0
+01:24:04.742 --> 01:24:09.234
+And cube of given number is equal to that
+number will come out.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1325-1
+01:24:09.234 --> 01:24:14.638
+Now we want to call the square so to call
+the square I have right here print
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1325-2
+01:24:14.638 --> 01:24:18.006
+because square is going to return you a
+number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1325-3
+01:24:18.006 --> 01:24:20.462
+So let me write here square number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1331-0
+01:24:22.222 --> 01:24:24.942
+Is equal to. We have called the square.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1337-0
+01:24:26.822 --> 01:24:29.262
+The square of the minor.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1375-0
+01:24:30.582 --> 01:24:34.600
+So what it will do?
+It will go from here we have passed the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1375-1
+01:24:34.600 --> 01:24:39.890
+number, for example the number is 4.
+You have passed from. Here is 4 into 416,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1375-2
+01:24:39.890 --> 01:24:45.181
+so that 16 will return from here to this
+one it will store inside this number,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1375-3
+01:24:45.181 --> 01:24:45.582
+right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1400-0
+01:24:46.062 --> 01:24:50.031
+So return means it will return a number.
+This one is not returning.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1400-1
+01:24:50.031 --> 01:24:53.124
+It's printing directly.
+Here the number is returned.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1400-2
+01:24:53.124 --> 01:24:55.925
+You can store it somewhere and you can
+display.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1400-3
+01:24:55.925 --> 01:24:58.142
+So to display I have right here print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1403-0
+01:25:04.382 --> 01:25:06.582
+Square of.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1405-0
+01:25:09.702 --> 01:25:11.822
+I numb.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1406-0
+01:25:15.782 --> 01:25:16.342
+He is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1409-0
+01:25:18.342 --> 01:25:20.062
+What is this quorum?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1422-0
+01:25:22.902 --> 01:25:27.370
+You can directly call the method also
+that will return you the number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1422-1
+01:25:27.370 --> 01:25:28.502
+We are right here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1458-0
+01:25:30.022 --> 01:25:33.097
+Got it.
+So this is how we are going to call the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1458-1
+01:25:33.097 --> 01:25:35.980
+function.
+So this one is first we have call.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1458-2
+01:25:35.980 --> 01:25:39.119
+So it once we will call it,
+it will do its work.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1458-3
+01:25:39.119 --> 01:25:44.180
+Welcome to function Mr or Miss the name
+and we are going to cube so it will do
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1458-4
+01:25:44.180 --> 01:25:46.422
+the cube we are going to call this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1459-0
+01:25:47.142 --> 01:25:47.262
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1480-0
+01:26:00.022 --> 01:26:05.877
+Yes, you can do it directly here.
+Also if you want you can control X in
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1480-1
+01:26:05.877 --> 01:26:09.942
+place of this one you can write it here
+directly.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1487-0
+01:26:11.622 --> 01:26:14.462
+OK, this one is also right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1529-0
+01:26:16.782 --> 01:26:21.299
+You are calling this method from here,
+but just to show you that this one is
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1529-1
+01:26:21.299 --> 01:26:25.757
+returning a value that value we have
+store somewhere and we are displaying.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1529-2
+01:26:25.757 --> 01:26:29.452
+So I have write that way.
+Yesterday I have showed you this way
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1529-3
+01:26:29.452 --> 01:26:32.033
+right?
+So you can write this way or you can
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1529-4
+01:26:32.033 --> 01:26:34.262
+write that way. So today you will use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1558-0
+01:26:34.782 --> 01:26:39.358
+To to today you'll use this one.
+This is good means you understand what we
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1558-1
+01:26:39.358 --> 01:26:43.873
+are doing. This one is returning a value.
+That value we have stored here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1558-2
+01:26:43.873 --> 01:26:48.022
+You can give any name to this one.
+You can give any name let's say.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1564-0
+01:26:51.662 --> 01:26:54.462
+Any name SQ. This is SQ.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1578-0
+01:26:56.022 --> 01:27:00.200
+Whatever this is variable inside this it
+will store the value that value have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1578-1
+01:27:00.200 --> 01:27:02.182
+display over here. Now we'll go here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1582-0
+01:27:03.822 --> 01:27:06.502
+CLS clear the screen.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1593-0
+01:27:08.982 --> 01:27:17.182
+And you will call it recap underscore D4
+dot PY.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1599-0
+01:27:19.022 --> 01:27:21.662
+So the Python have not tried Python.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1600-0
+01:27:24.022 --> 01:27:24.102
+You.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1609-0
+01:27:33.142 --> 01:27:44.982
+Python recap day four dot PY, enter name.
+Let me enter here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1610-0
+01:27:46.382 --> 01:27:47.062
+Ali.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1611-0
+01:27:49.102 --> 01:27:49.582
+Then.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1612-0
+01:27:50.942 --> 01:27:51.582
+What's the?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1646-0
+01:28:01.422 --> 01:28:05.797
+Here is enter the number we have entered
+3.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1646-1
+01:28:05.797 --> 01:28:13.750
+So welcome to function Mr Miss Ali bin
+Mustaf Cube of given #3 is 27 the square
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1646-2
+01:28:13.750 --> 01:28:15.142
+of three is 9.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1684-0
+01:28:15.982 --> 01:28:18.622
+So benefit of this one,
+you can write anything.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1684-1
+01:28:18.622 --> 01:28:22.030
+It will return the value.
+You can format it according to your
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1684-2
+01:28:22.030 --> 01:28:26.429
+requirement and in this one whatever the
+format the format will remain the same
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1684-3
+01:28:26.429 --> 01:28:29.068
+right.
+If you are writing the function here you
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1684-4
+01:28:29.068 --> 01:28:31.102
+can change outside the function also.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1695-0
+01:28:39.222 --> 01:28:43.702
+The for example you want to print it this
+way one more time, the light hair print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1701-0
+01:28:47.062 --> 01:28:48.942
+You printed this way, let's say.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1702-0
+01:28:51.462 --> 01:28:51.942
+Number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1703-0
+01:28:57.862 --> 01:28:58.502
+Bynum.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1704-0
+01:29:06.302 --> 01:29:07.022
+Squad.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1705-0
+01:29:09.302 --> 01:29:09.382
+The.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1706-0
+01:29:11.622 --> 01:29:12.102
+Screw.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1711-0
+01:29:14.662 --> 01:29:16.742
+But twice you have display now.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1745-0
+01:29:19.782 --> 01:29:24.103
+This is so any any style you can use in
+this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1745-1
+01:29:24.103 --> 01:29:30.843
+This call it because this is returning
+the value you will need just the value
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1745-2
+01:29:30.843 --> 01:29:35.077
+and that format.
+You can do your own under name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1745-3
+01:29:35.077 --> 01:29:37.582
+Let's see we have right Ravi.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1771-0
+01:29:38.502 --> 01:29:43.573
+Here the number for example 2 welcome to
+function,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1771-1
+01:29:43.573 --> 01:29:50.633
+Mr Miss Ravi Cube of given #2 is 8 square
+of two is 4, #2 is square 4.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1771-2
+01:29:50.633 --> 01:29:52.422
+So it's up to you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1774-0
+01:29:53.022 --> 01:29:54.822
+So that's the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1786-0
+01:29:56.422 --> 01:30:02.062
+Thanks. If you'll want to use the return,
+you can use it later on in anywhere.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1792-0
+01:30:04.022 --> 01:30:07.342
+So this is your complete code OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1804-0
+01:30:57.302 --> 01:30:58.342
+I've got a question.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1806-0
+01:30:59.022 --> 01:30:59.582
+Yes, please.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1837-0
+01:31:00.102 --> 01:31:03.382
+OK,
+so for example like for the when you
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1837-1
+01:31:03.382 --> 01:31:09.462
+define the square when you should,
+you will have to write this word written
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1815-0
+01:31:04.062 --> 01:31:04.662
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1837-2
+01:31:09.462 --> 01:31:12.902
+that.
+That's the only way or you can put a
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1837-3
+01:31:12.902 --> 01:31:14.822
+result or whatever this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1844-0
+01:31:14.182 --> 01:31:17.102
+Yes, the the see this one is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1846-0
+01:31:16.142 --> 01:31:18.222
+Return is A is a specific name.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1879-0
+01:31:18.982 --> 01:31:24.169
+Return if you want to return the value,
+we have to use this return only.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1866-0
+01:31:23.502 --> 01:31:26.622
+OK, OK. OK, that's the keyword. OK, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1879-1
+01:31:24.169 --> 01:31:29.570
+This is a keyword. This is a keyword,
+so that's the keyword you have to use
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1879-2
+01:31:29.570 --> 01:31:30.422
+only return.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1900-0
+01:31:29.782 --> 01:31:32.649
+So.
+So the advantage is that you the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1900-1
+01:31:32.649 --> 01:31:38.228
+advantage this over that you define like
+cube you define only the cube,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1900-2
+01:31:38.228 --> 01:31:39.622
+you only give the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1951-0
+01:31:41.462 --> 01:31:45.986
+Yes, the absolutely the.
+The advantage I'm I'm telling.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1920-0
+01:31:41.742 --> 01:31:46.702
+The cute name. OK, when you. So what?
+What is the advantage of using this?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1951-1
+01:31:45.986 --> 01:31:52.771
+I'm telling not advantage or disadvantage.
+The thing is just two way of doing this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1926-0
+01:31:48.262 --> 01:31:48.622
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1928-0
+01:31:50.062 --> 01:31:50.502
+Copy.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1951-2
+01:31:52.771 --> 01:31:58.182
+One is for example you want to do some
+sort of calculation, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1948-0
+01:31:58.662 --> 01:31:58.902
+Hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2005-0
+01:31:58.702 --> 01:32:03.407
+And after that calculation you need the
+number and that number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2005-1
+01:32:03.407 --> 01:32:08.332
+You further want to use fine.
+So in that case you just use the the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2005-2
+01:32:08.332 --> 01:32:12.449
+return thing.
+If you you want to print it directly then
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1979-0
+01:32:09.822 --> 01:32:10.662
+OK, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2005-3
+01:32:12.449 --> 01:32:18.182
+you will use the without return for
+example this is square of number is come.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1988-0
+01:32:12.982 --> 01:32:13.622
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/1993-0
+01:32:16.502 --> 01:32:16.622
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2040-0
+01:32:18.542 --> 01:32:25.380
+Right after that, what we want to do,
+we want to do some sort of things with
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2040-1
+01:32:25.380 --> 01:32:30.620
+this. For example,
+here is we have created here a function
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2040-2
+01:32:30.620 --> 01:32:37.102
+DAF let's say salary, bonus salary bonus.
+OK. Here you write the salary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2047-0
+01:32:39.262 --> 01:32:44.182
+Salary and you have returned the bonus
+return.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2053-0
+01:32:46.182 --> 01:32:51.222
+Bonus is, let's see salary into.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2097-0
+01:32:52.582 --> 01:32:58.268
+0.10 So what is it doing?
+It is returning the bonus later on.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2097-1
+01:32:58.268 --> 01:33:05.420
+You need this bonus to add into the
+salary to show the salary with the bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2097-2
+01:33:05.420 --> 01:33:12.022
+Now later on you want to do what you want
+to deduct the TDs after this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2131-0
+01:33:12.502 --> 01:33:16.986
+So you don't want to print from here,
+you want to print after doing other
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2131-1
+01:33:16.986 --> 01:33:20.259
+calculation.
+This one is just we want to find out the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2131-2
+01:33:20.259 --> 01:33:23.046
+bonus.
+So the benefit of using the return one
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2131-3
+01:33:23.046 --> 01:33:26.742
+it's will return you the number that
+number you further use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2133-0
+01:33:28.742 --> 01:33:29.302
+You got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2140-0
+01:33:30.422 --> 01:33:32.622
+OK, try to comprehend. Alright, thanks.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2142-0
+01:33:34.622 --> 01:33:35.062
+Yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2151-0
+01:33:53.262 --> 01:33:55.782
+You can write paint in it as well,
+but it's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2186-0
+01:33:58.302 --> 01:34:02.289
+So no, you, you, you,
+you don't want to see if you print it
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2186-1
+01:34:02.289 --> 01:34:05.545
+from here,
+then what the benefits if you want to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2186-2
+01:34:05.545 --> 01:34:10.927
+print as well, then what's the benefit?
+We want to just use the number later on.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2186-3
+01:34:10.927 --> 01:34:14.382
+Fine. You can use your print also.
+Let's see print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2194-0
+01:34:19.582 --> 01:34:22.542
+And it will become the same method like
+earlier. Welcome to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2196-0
+01:34:26.022 --> 01:34:26.422
+Window.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2224-0
+01:34:28.542 --> 01:34:32.973
+Then you return this value.
+Then you want to return this value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2224-1
+01:34:32.973 --> 01:34:37.612
+You can do that, but that's not logical.
+It's fine. You can do it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2224-2
+01:34:37.612 --> 01:34:41.627
+You can write it.
+That is not logical because see we have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2224-3
+01:34:41.627 --> 01:34:42.942
+two types of thing.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2275-0
+01:34:44.062 --> 01:34:49.343
+Try to understand these scenario right.
+One is 1 type of thing is you have done
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2275-1
+01:34:49.343 --> 01:34:53.238
+the calculation.
+You just want to print the second type of
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2275-2
+01:34:53.238 --> 01:34:58.519
+thing is you want to do something and
+after doing the things you can return the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2275-3
+01:34:58.519 --> 01:35:02.942
+value and you can utilise it right?
+So you can do both the things.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2293-0
+01:35:03.022 --> 01:35:06.980
+You can do here,
+but then that return values go into the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2293-1
+01:35:06.980 --> 01:35:10.799
+vein, right? See,
+let's see in simple words if you are
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2293-2
+01:35:10.799 --> 01:35:14.062
+right here, print.
+Let me just write the same.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2302-0
+01:35:19.382 --> 01:35:23.422
+You are saying this right you have right
+here the square of.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2306-0
+01:35:27.542 --> 01:35:30.262
+Is let me just check.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2328-0
+01:35:33.382 --> 01:35:36.951
+Right. What she's saying,
+I'm writing only that thing,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2328-1
+01:35:36.951 --> 01:35:41.429
+but that not the logical one.
+I will tell you why it is not logical.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2328-2
+01:35:41.429 --> 01:35:42.142
+So here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2330-0
+01:35:47.182 --> 01:35:47.862
+It is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2331-0
+01:35:49.462 --> 01:35:49.582
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2333-0
+01:35:52.222 --> 01:35:53.462
+And return yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2347-0
+01:36:18.822 --> 01:36:26.622
+See this one you are saying, right?
+So here is OK here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2348-0
+01:36:28.502 --> 01:36:28.542
+Uh.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2352-0
+01:36:32.582 --> 01:36:34.022
+Let it be the same, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2354-0
+01:36:38.902 --> 01:36:40.142
+Then I have run it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2362-0
+01:36:42.102 --> 01:36:48.702
+My name let my name here. Sam.
+Number is 2. We'll see here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2392-0
+01:36:52.542 --> 01:36:58.056
+Her square of given #2 is 4 square of two
+is 4 #2 square 4 fine.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2392-1
+01:36:58.056 --> 01:37:04.417
+So from the this one it's showing.
+From here it's showing right now if you
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2392-2
+01:37:04.417 --> 01:37:06.622
+have commented this thing.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2394-0
+01:37:09.702 --> 01:37:10.302
+Control.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2403-0
+01:37:14.022 --> 01:37:18.784
+Control. Casey,
+I have come into this one I have right
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2403-1
+01:37:18.784 --> 01:37:19.822
+here square.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2410-0
+01:37:21.982 --> 01:37:25.702
+Of my NUM right. You have rated this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2455-0
+01:37:28.222 --> 01:37:33.235
+You, you. I have just call it right now.
+I will ask you one thing.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2455-1
+01:37:33.235 --> 01:37:39.520
+So I have just called it. Here's the name.
+Let's say sameer. And here's the number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2455-2
+01:37:39.520 --> 01:37:44.607
+Let's say two so welcome function Sameer
+Cube of given number is 8.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2455-3
+01:37:44.607 --> 01:37:46.702
+The square of given #2 is 4.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2457-0
+01:37:46.902 --> 01:37:48.742
+What's the difference between this and
+that?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2484-0
+01:37:50.662 --> 01:37:58.016
+Is there any difference right now? No,
+but but in the code there is a difference
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2484-1
+01:37:58.016 --> 01:38:04.462
+and the difference is this number square
+NUM is returning you a value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2506-0
+01:38:05.662 --> 01:38:11.770
+It's returning you a value.
+That value is where is that value that
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2506-1
+01:38:11.770 --> 01:38:18.334
+that value is going to. It's not utilised.
+Let's say I have right here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2506-2
+01:38:18.334 --> 01:38:21.342
+Now one thing, let's try it here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2512-0
+01:38:23.342 --> 01:38:26.662
+R value written well, right, so this RV.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2518-0
+01:38:28.742 --> 01:38:32.022
+Print I'm printing this R.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2530-0
+01:38:33.662 --> 01:38:39.822
+So this value is off where this value is
+going. Now here is Python.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2561-0
+01:38:51.902 --> 01:38:56.029
+OK,
+it's I I will tell you two way might we
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2561-1
+01:38:56.029 --> 01:39:01.563
+will understand.
+Here is 2 I have right so here is this RV
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2561-2
+01:39:01.563 --> 01:39:08.222
+is 4 this four is no use OK you have done
+it from there so I'm asking.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2569-0
+01:39:08.502 --> 01:39:12.942
+Why we should write here this return now
+if I'll not write this one, what happen?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2583-0
+01:39:16.702 --> 01:39:20.502
+Different square square couldn't see you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2587-0
+01:39:18.862 --> 01:39:21.486
+It will.
+It will show you the square from here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2587-1
+01:39:21.486 --> 01:39:23.782
+Why we are writing return there is no use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2590-0
+01:39:24.382 --> 01:39:25.022
+No use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2612-0
+01:39:25.822 --> 01:39:30.852
+Got my point.
+So why we use the return once we need the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2594-0
+01:39:27.262 --> 01:39:27.502
+Yep.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2612-1
+01:39:30.852 --> 01:39:35.702
+value only, not the printing thing.
+You got my point.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2609-0
+01:39:36.222 --> 01:39:36.342
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2642-0
+01:39:37.302 --> 01:39:41.330
+You. You got it or not?
+See if I write this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2642-1
+01:39:41.330 --> 01:39:46.425
+I have removed that return thing.
+What happened in this case?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2642-2
+01:39:46.425 --> 01:39:50.124
+What happened in this case?
+Is it any error?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2642-3
+01:39:50.124 --> 01:39:53.822
+It This line will give to you this this
+one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2643-0
+01:39:54.702 --> 01:39:55.342
+No error.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2650-0
+01:39:58.622 --> 01:40:00.953
+No,
+I will like let's just remove for this
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2646-0
+01:39:59.102 --> 01:39:59.222
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2650-1
+01:40:00.953 --> 01:40:01.982
+one make it simple.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2677-0
+01:40:03.662 --> 01:40:08.007
+Is this line give you any error?
+If I'll do this one no no.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2677-1
+01:40:08.007 --> 01:40:13.582
+So then why that return word there?
+What the benefit of writing that return?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2665-0
+01:40:08.462 --> 01:40:08.742
+Nope.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2681-0
+01:40:13.982 --> 01:40:16.702
+To keep the value temporary for use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2723-0
+01:40:17.702 --> 01:40:20.212
+Fine.
+So there is 2 way when one functions
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2723-1
+01:40:20.212 --> 01:40:24.414
+those returning the value those function
+those not returning the value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2723-2
+01:40:24.414 --> 01:40:28.967
+If you are dispelling from inside the
+function, we need not return the value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2723-3
+01:40:28.967 --> 01:40:32.702
+If you want to return the value and we
+want to use it later on.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2758-0
+01:40:33.102 --> 01:40:37.875
+Then we'll use the return you got.
+My point. Otherwise it will be the same.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2740-0
+01:40:37.302 --> 01:40:40.022
+So, so, so. So basically when you put.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2758-1
+01:40:37.875 --> 01:40:42.271
+It will be the same like the cube.
+It will be the same like the cube.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2747-0
+01:40:41.582 --> 01:40:41.982
+So.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2758-2
+01:40:42.271 --> 01:40:46.102
+Then what's the difference between these
+two? No difference.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2775-0
+01:40:45.342 --> 01:40:50.215
+So basically,
+so basically when you put return it keep
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2762-0
+01:40:49.142 --> 01:40:49.742
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2775-1
+01:40:50.215 --> 01:40:53.582
+the value in a RAM a temporary memory.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2811-0
+01:40:52.342 --> 01:40:57.893
+Yes, that, that, that value we have,
+we will absolutely we will use it
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2790-0
+01:40:55.062 --> 01:40:58.542
+It it holds the value to be used at the
+next next OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2811-1
+01:40:57.893 --> 01:41:03.208
+anywhere that value only,
+right we will we can do the we can do the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2803-0
+01:41:00.462 --> 01:41:02.982
+OK, until it's override.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2811-2
+01:41:03.208 --> 01:41:06.022
+further calculation with that value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2810-0
+01:41:06.902 --> 01:41:07.142
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2865-0
+01:41:09.982 --> 01:41:13.524
+So for example here the salary this this
+one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2816-0
+01:41:10.142 --> 01:41:10.422
+All right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2865-1
+01:41:13.524 --> 01:41:17.528
+Let me show you the salary bonus I have
+right here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2865-2
+01:41:17.528 --> 01:41:21.609
+So here is here is let me show you the
+salary bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2865-3
+01:41:21.609 --> 01:41:28.076
+So I have called this bonus of the salary.
+Let me just show this example control PC
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2865-4
+01:41:28.076 --> 01:41:29.462
+this one is clear.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2872-0
+01:41:29.862 --> 01:41:34.502
+Let me show you this one.
+So here is we have right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2883-0
+01:41:40.462 --> 01:41:48.734
+Let's see just one example I'm asking.
+I'm discussing now the salary only and
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2883-1
+01:41:48.734 --> 01:41:49.582
+here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2898-0
+01:41:56.062 --> 01:42:05.222
+Salad. So let me call my salad. OK,
+enter salary to find enter salary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2920-0
+01:42:07.182 --> 01:42:12.584
+Enter salary to find out.
+Bonus right there is two more thing I
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2920-1
+01:42:12.584 --> 01:42:17.141
+will show you.
+After this you will get it's perfectly
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2920-2
+01:42:17.141 --> 01:42:21.782
+you will understand it perfectly.
+So here's the bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2940-0
+01:42:23.342 --> 01:42:29.532
+Bonus is equal to what will be the bonus
+we have to call salary bonus and we have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2940-1
+01:42:29.532 --> 01:42:32.022
+passed from here my salary right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2944-0
+01:42:33.422 --> 01:42:36.062
+OK, you have pass it. We have print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2946-0
+01:42:40.302 --> 01:42:41.142
+Salary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2950-0
+01:42:47.142 --> 01:42:48.782
+Yeah, the salary. My salary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2958-0
+01:42:52.702 --> 01:42:59.662
+And bonus bonus here is the bonus that
+bonus. OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2999-0
+01:43:02.302 --> 01:43:05.982
+Here is one question for you.
+For all of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2999-1
+01:43:05.982 --> 01:43:10.142
+After this we have done it.
+So how it will execute?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2999-2
+01:43:10.142 --> 01:43:16.542
+How it will execute first this line will
+execute right my input enter salary to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/2999-3
+01:43:16.542 --> 01:43:21.982
+find out the bonus you have entered the
+salary. Let's say you have.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3031-0
+01:43:22.142 --> 01:43:27.329
+10,000 so 10,000 into 10%.
+Let me make it float not integer,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3031-1
+01:43:27.329 --> 01:43:33.621
+decimal point. We want to take.
+Let's see float. We have taken the float.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3031-2
+01:43:33.621 --> 01:43:38.382
+It's salary. So 10,010 thousand.
+10% of 10,000 will be.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3065-0
+01:43:39.622 --> 01:43:45.816
+₹100 so this is 100,
+so hundred will be the bonus 100 or 10
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3065-1
+01:43:45.816 --> 01:43:52.526
+means 1010% of 10,000 is 1000.
+So here the salary and the bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3065-2
+01:43:52.526 --> 01:43:55.622
+So it will show you the bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3072-0
+01:43:55.982 --> 01:43:59.222
+And the salary? Now run it,
+it will show you CLS.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3097-0
+01:44:01.902 --> 01:44:09.314
+Here is 10123 ten thousand.
+So here is 1000 is the bonus 10% just one
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3097-1
+01:44:09.314 --> 01:44:14.502
+zero. So 1000 is the bonus. No,
+the question is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3109-0
+01:44:15.982 --> 01:44:21.022
+I want this salary plus bonus salary
+after bonus how you will.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3116-0
+01:44:22.622 --> 01:44:26.462
+Show the salary afterwards.
+I want to print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3117-0
+01:44:28.462 --> 01:44:28.782
+But it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3118-0
+01:44:31.182 --> 01:44:31.822
+Portal.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3123-0
+01:44:35.142 --> 01:44:39.102
+Salary after bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3126-0
+01:44:41.862 --> 01:44:43.102
+Is equal to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3136-0
+01:44:45.422 --> 01:44:48.822
+Any of you what I should write here?
+Salary after bonus?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3138-0
+01:44:51.302 --> 01:44:52.142
+I will get to know.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3144-0
+01:44:52.822 --> 01:44:54.742
+My my salary postponers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3155-0
+01:44:55.102 --> 01:45:01.514
+My salary plus bonus. That's it. Fine.
+So here is it is easy. You like here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3155-1
+01:45:01.514 --> 01:45:03.262
+My salary plus bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3157-0
+01:45:05.422 --> 01:45:05.902
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3162-0
+01:45:08.342 --> 01:45:12.222
+You have printed right and you have run
+it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3191-0
+01:45:14.582 --> 01:45:22.298
+CLS Python recap, you are right 10,
+000 and here this will be plus bonus just
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3191-1
+01:45:22.298 --> 01:45:26.749
+11,000.
+Got it clear through all of you this
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3191-2
+01:45:26.749 --> 01:45:29.222
+thing yes or no? Yes. OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3199-0
+01:45:27.422 --> 01:45:31.142
+Yeah, OK. OK, let me copy first.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3192-0
+01:45:29.022 --> 01:45:29.462
+Yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3210-0
+01:45:29.782 --> 01:45:33.506
+No, no, no, no, no,
+don't copy this right now.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3210-1
+01:45:33.506 --> 01:45:37.942
+One more question I want to ask you.
+Control C here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3206-0
+01:45:34.022 --> 01:45:34.262
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3214-0
+01:45:42.422 --> 01:45:44.062
+I have paste it here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3216-0
+01:45:46.582 --> 01:45:47.222
+Just a minute.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3235-0
+01:45:49.222 --> 01:45:54.015
+Control KC comment it out. I OK, OK,
+do it first. You'll do so then.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3235-1
+01:45:54.015 --> 01:45:57.627
+After that,
+I will ask that question that I want to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3235-2
+01:45:57.627 --> 01:45:58.182
+ask you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3261-0
+01:45:59.902 --> 01:46:04.581
+Otherwise you will be confused.
+Just write this one first. Note it down,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3261-1
+01:46:04.581 --> 01:46:07.658
+do it.
+Then I will ask you that question that I
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3261-2
+01:46:07.658 --> 01:46:10.542
+want to ask to make you understand this
+one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3278-0
+01:47:08.782 --> 01:47:09.702
+Very frankly.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3288-0
+01:47:51.902 --> 01:47:52.022
+Yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3347-0
+01:50:52.262 --> 01:50:52.382
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3351-0
+01:51:12.822 --> 01:51:13.222
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3354-0
+01:51:15.582 --> 01:51:16.822
+Doing or don't.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3355-0
+01:51:17.742 --> 01:51:18.102
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3372-0
+01:51:19.462 --> 01:51:26.581
+Then see now here is one question.
+If I write the same function OK,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3372-1
+01:51:26.581 --> 01:51:29.302
+then all of you yes or no.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3373-0
+01:51:30.742 --> 01:51:31.142
+Not yet.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3377-0
+01:51:31.822 --> 01:51:34.422
+Not yet to do it, but you are saying yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3398-0
+01:51:35.902 --> 01:51:39.558
+She should know.
+You should know how to say no as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3398-1
+01:51:39.558 --> 01:51:43.540
+If not, then say it.
+I need 2 minutes more. OK. Complete it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3398-2
+01:51:43.540 --> 01:51:45.302
+Fine. Fine, fine. Complete.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3413-0
+01:51:58.462 --> 01:52:03.822
+It will not work,
+you just another one will be here. Listen,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3413-1
+01:52:03.822 --> 01:52:08.742
+you want to increase this one is for this
+and for this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3419-0
+01:52:10.342 --> 01:52:12.822
+You you want to increase the temperature
+you can increase.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3420-0
+01:52:17.782 --> 01:52:18.102
+That's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3428-0
+01:52:30.822 --> 01:52:34.942
+Would you say a con AC?
+Would you say a con?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3430-0
+01:52:39.742 --> 01:52:39.982
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3431-0
+01:52:42.222 --> 01:52:42.342
+Good.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3447-0
+01:52:43.462 --> 01:52:46.192
+So you got it.
+What we will do here from here,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3447-1
+01:52:46.192 --> 01:52:49.502
+we pass the salary.
+It will return you the bonus, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3463-0
+01:52:51.462 --> 01:52:57.086
+And then this this bonus we all we have
+utilised here and we have displayed here
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3463-1
+01:52:57.086 --> 01:52:57.502
+right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3464-0
+01:53:01.462 --> 01:53:01.742
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3468-0
+01:53:04.902 --> 01:53:07.062
+No, here is one more.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3469-0
+01:53:08.942 --> 01:53:09.222
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3473-0
+01:53:11.782 --> 01:53:13.422
+I have copied.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3475-0
+01:53:14.822 --> 01:53:16.022
+Control C.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3495-0
+01:53:17.422 --> 01:53:24.100
+I have commented this one control KC.
+Now I'm writing one thing from you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3495-1
+01:53:24.100 --> 01:53:29.062
+Control KC. Forget about those.
+So here is a function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3509-0
+01:53:30.982 --> 01:53:34.595
+OK,
+I'm writing from the new one from here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3509-1
+01:53:34.595 --> 01:53:38.782
+From the down control V here is a
+function, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3527-0
+01:53:45.022 --> 01:53:49.542
+It's not returning the value,
+but it's doing this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3527-1
+01:53:49.542 --> 01:53:54.062
+Bonus is equal to salary into so this one
+and here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3536-0
+01:54:11.622 --> 01:54:15.302
+Salary bonus. This is a function, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3553-0
+01:54:16.702 --> 01:54:21.762
+This time we have rated this.
+This is not returning the value right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3549-0
+01:54:20.902 --> 01:54:21.262
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3553-1
+01:54:21.762 --> 01:54:24.622
+This is a simple function. Now here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3556-0
+01:54:40.142 --> 01:54:41.062
+There is the calling.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3562-0
+01:54:59.302 --> 01:55:00.102
+Where did the call?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3564-0
+01:55:04.142 --> 01:55:04.462
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3565-0
+01:55:05.502 --> 01:55:05.822
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3577-0
+01:55:07.302 --> 01:55:11.902
+Understood.
+You want me to to copy or just see this?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3589-0
+01:55:11.342 --> 01:55:15.998
+You you can write how you can write this
+function then after this I will ask you
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3589-1
+01:55:15.998 --> 01:55:19.102
+that question to make you understand the
+return time.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3591-0
+01:55:27.382 --> 01:55:27.742
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3592-0
+01:55:30.862 --> 01:55:31.182
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3607-0
+01:55:44.182 --> 01:55:49.338
+We have entered the salary, let's say 30,
+000, so the salary is 30,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3607-1
+01:55:49.338 --> 01:55:50.702
+000 bonus is 3000.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3617-0
+01:56:46.142 --> 01:56:46.222
+It.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3618-0
+01:56:50.182 --> 01:56:50.782
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3619-0
+01:56:55.142 --> 01:56:55.262
+Right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3624-0
+01:57:08.582 --> 01:57:11.422
+I think could probably hi.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3641-0
+01:57:28.382 --> 01:57:36.048
+OK, this one is working fine right now.
+If I want to find out I want to display
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3641-1
+01:57:36.048 --> 01:57:37.102
+this thing.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3642-0
+01:57:39.262 --> 01:57:39.382
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3652-0
+01:57:48.182 --> 01:57:52.102
+I wanted this in this one printer salary
+after bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3655-0
+01:57:54.262 --> 01:57:55.342
+How I'll get it?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3656-0
+01:57:56.062 --> 01:57:56.142
+She.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3658-0
+01:58:02.782 --> 01:58:03.622
+Any idea?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3663-0
+01:58:06.102 --> 01:58:08.062
+Print salary after bonus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3666-0
+01:58:13.342 --> 01:58:14.182
+Using this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3681-0
+01:58:15.782 --> 01:58:21.155
+Salary after bonus means we want to add
+on the bonus as well. Can we do it?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3681-1
+01:58:21.155 --> 01:58:21.862
+Yes or no.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3682-0
+01:58:23.102 --> 01:58:23.462
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3712-0
+01:58:27.302 --> 01:58:30.520
+No,
+because that bonus is not returning here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3712-1
+01:58:30.520 --> 01:58:35.906
+It's not coming here, so you can't do it.
+So if you want that kind of thing,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3712-2
+01:58:35.906 --> 01:58:40.873
+the later on the calculation,
+then you have to use the return you got.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3712-3
+01:58:40.873 --> 01:58:41.502
+My point?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3733-0
+01:58:44.422 --> 01:58:47.871
+That's why I have took that much time to
+make you understand.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3733-1
+01:58:47.871 --> 01:58:52.489
+Till that time you will not understand.
+I will. I will not get the sleep like you,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3729-0
+01:58:50.502 --> 01:58:50.582
+She.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3733-2
+01:58:52.489 --> 01:58:52.822
+right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3735-0
+01:58:56.142 --> 01:58:56.582
+You got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3784-0
+01:58:59.542 --> 01:59:04.422
+You. You got it. Now you got it.
+That's that's my mean. If you got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3784-1
+01:59:04.422 --> 01:59:07.790
+So see,
+you understand what I'm telling means if
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3784-2
+01:59:07.790 --> 01:59:13.220
+it is returning the value that value we
+can further use and so later on we can
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3784-3
+01:59:13.220 --> 01:59:16.588
+use it.
+For example here is it was returning the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3784-4
+01:59:16.588 --> 01:59:19.062
+value. So what we have done we have.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3819-0
+01:59:19.222 --> 01:59:24.231
+Add the bonus into the Sally and give
+that Sally plus bonus if tomorrow the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3819-1
+01:59:24.231 --> 01:59:27.658
+money come,
+we want to add the bonus something more
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3819-2
+01:59:27.658 --> 01:59:31.546
+so we add something more in the bonus and
+then give it to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3819-3
+01:59:31.546 --> 01:59:34.182
+But here it is not possible in this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3835-0
+01:59:34.582 --> 01:59:39.513
+This is the final thing.
+If you have completed thing and you want
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3835-1
+01:59:39.513 --> 01:59:43.622
+to print it, that's it.
+Print go you you got my point.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3839-0
+01:59:45.342 --> 01:59:47.662
+Clear to all of you online as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3842-0
+01:59:52.222 --> 01:59:52.982
+Yes, Sir.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3867-0
+01:59:52.782 --> 01:59:58.710
+Fine, fine, great. Good to know.
+Now this is the recap part.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3867-1
+01:59:58.710 --> 02:00:05.124
+We are going to start now.
+The next thing that the lambdas right,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3867-2
+02:00:05.124 --> 02:00:08.622
+the function is clear to all of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3869-0
+02:00:09.622 --> 02:00:09.822
+Yep.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3870-0
+02:00:09.782 --> 02:00:10.342
+Now let's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3872-0
+02:00:13.302 --> 02:00:14.622
+Next new.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3883-0
+02:00:47.302 --> 02:00:49.062
+Lambda EX dot PY.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3885-0
+02:00:57.462 --> 02:00:57.742
+Hello.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3897-0
+02:01:00.582 --> 02:01:05.862
+So this is the lambdas we are going to
+discuss now here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3905-0
+02:01:09.222 --> 02:01:12.542
+Recommend default parameters request to
+employment.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3945-0
+02:01:16.182 --> 02:01:20.254
+Lambdas anonymous functions are small one
+line function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3945-1
+02:01:20.254 --> 02:01:25.682
+If you want to write the one liner
+function then we will go for the lambdas
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3945-2
+02:01:25.682 --> 02:01:29.254
+anonymous.
+Anonymous means someone who don't have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3945-3
+02:01:29.254 --> 02:01:32.182
+the name right that is anonymous unknown.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3977-0
+02:01:32.662 --> 02:01:37.206
+Right. So for example,
+we want to do the add and we don't want
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3977-1
+02:01:37.206 --> 02:01:41.895
+to create that function.
+So for that we will go for the lambdas.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3977-2
+02:01:41.895 --> 02:01:46.222
+Let me show you here to try to understand,
+see for example.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3985-0
+02:01:48.182 --> 02:01:53.502
+You have declared this function right.
+Define function add.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3987-0
+02:01:55.342 --> 02:01:57.142
+I will light a.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/3989-0
+02:01:57.182 --> 02:01:58.342
+In BC.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4030-0
+02:02:00.022 --> 02:02:06.824
+You want to add the number,
+let's say NUM one and NUM NUM two or A or
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4000-0
+02:02:03.462 --> 02:02:05.222
+1/2.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4030-1
+02:02:06.824 --> 02:02:10.906
+B.
+You want to add and it it's gonna here
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4008-0
+02:02:07.702 --> 02:02:07.942
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4030-2
+02:02:10.906 --> 02:02:15.570
+return what A+B.
+So that's the functions right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4018-0
+02:02:12.062 --> 02:02:13.462
+A+, BP.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4030-3
+02:02:15.570 --> 02:02:18.582
+The small thing you want to do.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4023-0
+02:02:16.702 --> 02:02:16.982
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4035-0
+02:02:19.102 --> 02:02:22.142
+And then once you will call it,
+you will call like this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4036-0
+02:02:24.102 --> 02:02:24.542
+Ed.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4060-0
+02:02:26.342 --> 02:02:31.205
+Or let me do this one just a second.
+This is sum.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4051-0
+02:02:31.102 --> 02:02:31.942
+So you could.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4060-1
+02:02:31.205 --> 02:02:36.942
+Let's say total is equal to a + b and
+then you have print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4058-0
+02:02:35.702 --> 02:02:35.822
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4061-0
+02:02:38.622 --> 02:02:39.022
+Total.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4063-0
+02:02:50.822 --> 02:02:51.382
+Total.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4065-0
+02:02:53.742 --> 02:02:54.182
+Is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4068-0
+02:02:53.902 --> 02:02:55.462
+From spelling from spelling.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4067-0
+02:02:56.102 --> 02:02:56.302
+Yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4069-0
+02:02:58.462 --> 02:02:58.822
+Dota.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4073-0
+02:03:00.462 --> 02:03:01.782
+You have display here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4075-0
+02:03:03.262 --> 02:03:04.662
+Fine, sorry.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4077-0
+02:03:07.302 --> 02:03:08.342
+Yeah, display.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4081-0
+02:03:10.382 --> 02:03:13.142
+This is the ad I will call it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4099-0
+02:03:14.542 --> 02:03:19.569
+Or do you want to return so I will return?
+It will return the total, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4099-1
+02:03:19.569 --> 02:03:24.462
+It will return the total and you want to
+print will print the total from.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4116-0
+02:03:26.662 --> 02:03:32.047
+This one is the function,
+so we will write right once you want to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4116-1
+02:03:32.047 --> 02:03:36.045
+call it.
+How you will call we will call it here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4112-0
+02:03:34.422 --> 02:03:34.902
+And.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4116-2
+02:03:36.045 --> 02:03:38.982
+Let's see. Result is equal to total.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4132-0
+02:03:40.542 --> 02:03:45.712
+Result is equal to.
+Sorry add you have passed from year 1215
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4132-1
+02:03:45.712 --> 02:03:49.102
+right and then you can print the result.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4129-0
+02:03:47.342 --> 02:03:47.582
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4140-0
+02:03:51.022 --> 02:03:55.182
+This is the simple function you will do
+right so.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4142-0
+02:03:58.022 --> 02:03:58.942
+Lambda.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4158-0
+02:04:01.262 --> 02:04:04.351
+EX.
+But this is not the thing that we are
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4158-1
+02:04:04.351 --> 02:04:08.542
+going to discuss here.
+We are going to discuss here the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4196-0
+02:04:16.342 --> 02:04:19.883
+Lambdas.
+So this way you will write the matter,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4196-1
+02:04:19.883 --> 02:04:24.309
+but this function have the name.
+This function have a name,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4196-2
+02:04:24.309 --> 02:04:29.914
+the name is add if you want to create
+this thing without without adding the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4196-3
+02:04:29.914 --> 02:04:32.422
+name so we can go for the lambdas.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4204-0
+02:04:33.062 --> 02:04:37.502
+We can use the lambdas here is Lambda add
+is equal to this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4211-0
+02:04:40.222 --> 02:04:42.262
+So the same thing. We can write this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4241-0
+02:04:47.502 --> 02:04:51.455
+The same thing I have commented.
+This one control KC.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4241-1
+02:04:51.455 --> 02:04:54.896
+I have rate here add is equal to Lambda
+X&amp;
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4241-2
+02:04:54.896 --> 02:04:58.629
+Y 2 numbers we are passing and we are
+adding here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4241-3
+02:04:58.629 --> 02:05:02.142
+Let me just write note XY let me write AB
+only.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4247-0
+02:05:02.742 --> 02:05:06.622
+A&amp;
+B we have pass and it's returning A+B.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4251-0
+02:05:09.102 --> 02:05:11.222
+Fine. So we will late print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4255-0
+02:05:26.942 --> 02:05:27.062
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4272-0
+02:05:37.542 --> 02:05:41.854
+So this is the Lambda of this for the
+same thing,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4272-1
+02:05:41.854 --> 02:05:46.942
+K into BK or B you will pass you will
+call it here so A+B.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4274-0
+02:05:49.902 --> 02:05:50.502
+Reprint.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4287-0
+02:05:58.102 --> 02:06:01.630
+This is function this one so you can
+write here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4287-1
+02:06:01.630 --> 02:06:04.582
+For example you have passed from here to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4295-0
+02:06:06.222 --> 02:06:09.102
+Anything you will pass it will give the
+value of to this value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4296-0
+02:06:17.342 --> 02:06:17.582
+2.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4300-0
+02:06:33.222 --> 02:06:33.342
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4301-0
+02:06:35.662 --> 02:06:35.782
+Right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4304-0
+02:06:37.142 --> 02:06:37.862
+That's the laptop.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4326-0
+02:06:53.222 --> 02:06:57.143
+So that same thing,
+these are two values you are passing and
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4326-1
+02:06:57.143 --> 02:07:01.964
+this is the result and the result will
+store inside this one right in this
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4326-2
+02:07:01.964 --> 02:07:02.542
+variable.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4331-0
+02:07:04.422 --> 02:07:05.942
+Don't eat anything addition.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4339-0
+02:07:07.382 --> 02:07:12.662
+This is that issue. You want to multiply.
+You can write multi.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4344-0
+02:07:17.342 --> 02:07:19.102
+Is equal to Lambda.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4351-0
+02:07:21.302 --> 02:07:28.342
+K into KB colon you can write K into BKB.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4355-0
+02:07:34.302 --> 02:07:35.822
+Similarly division.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4358-0
+02:07:37.862 --> 02:07:39.182
+Do you want to write?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4361-0
+02:07:40.662 --> 02:07:42.222
+Do you is equal to?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4363-0
+02:07:44.462 --> 02:07:45.022
+Lambda.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4364-0
+02:07:46.622 --> 02:07:47.422
+Maybe.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4368-0
+02:07:49.742 --> 02:07:51.902
+And you divided by B.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4371-0
+02:07:53.102 --> 02:07:54.262
+We want average.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4374-0
+02:07:58.462 --> 02:08:00.342
+From the AB?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4376-0
+02:08:03.062 --> 02:08:03.982
+A + b.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4387-0
+02:08:06.782 --> 02:08:11.457
+Divided by two. What else?
+You want addition,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4387-1
+02:08:11.457 --> 02:08:14.302
+sub subsection you want sub.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4388-0
+02:08:15.702 --> 02:08:16.182
+Lunda.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4389-0
+02:08:18.622 --> 02:08:18.822
+AB.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4391-0
+02:08:21.422 --> 02:08:22.702
+2 -, B.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4393-0
+02:08:25.262 --> 02:08:25.942
+Yeah, right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4397-0
+02:08:28.862 --> 02:08:31.182
+You have taken 2 numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4399-0
+02:08:39.382 --> 02:08:39.742
+1.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4402-0
+02:08:43.022 --> 02:08:45.302
+Input and.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4404-0
+02:08:47.102 --> 02:08:47.662
+Input.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4408-0
+02:08:56.022 --> 02:08:57.342
+Under first number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4410-0
+02:09:11.382 --> 02:09:11.502
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4411-0
+02:09:14.342 --> 02:09:14.822
+Turn the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4414-0
+02:09:17.342 --> 02:09:18.262
+Second number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4416-0
+02:09:22.862 --> 02:09:23.782
+Here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4423-0
+02:09:25.582 --> 02:09:28.982
+You want for example,
+you want the subtraction print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4427-0
+02:09:34.502 --> 02:09:35.542
+Subscription.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4429-0
+02:09:37.142 --> 02:09:38.022
+Result.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4459-0
+02:09:43.822 --> 02:09:49.327
+What do you have to do?
+You will call Sup from here #1 number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4459-1
+02:09:49.327 --> 02:09:55.794
+So this is the short way to write the
+functions that is known as lambdas.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4459-2
+02:09:55.794 --> 02:09:58.502
+You are passing the two values.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4482-0
+02:09:58.902 --> 02:10:02.133
+And you are doing this.
+Similarly you can call other the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4482-1
+02:10:02.133 --> 02:10:05.931
+subsection addition division.
+So I have showed you the subsection.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4482-2
+02:10:05.931 --> 02:10:08.822
+If you want to call the addition you can
+call add.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4486-0
+02:10:13.302 --> 02:10:16.182
+Let me call on Chalut call one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4490-0
+02:10:20.102 --> 02:10:22.702
+I will call one more by duplication.
+That's it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4493-0
+02:10:30.662 --> 02:10:31.542
+A little multi.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4503-0
+02:10:51.262 --> 02:10:54.902
+These are one liner function lambdas.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4527-0
+02:10:58.782 --> 02:11:04.554
+Addition, these are the input value colon.
+After that the result you want to do if
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4527-1
+02:11:04.554 --> 02:11:09.422
+you want to print from here you can print
+from here also if you want.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4538-0
+02:11:18.062 --> 02:11:20.663
+First, we'll do this,
+then I will show you the printing from
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4538-1
+02:11:20.663 --> 02:11:21.302
+inside as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4551-0
+02:11:49.382 --> 02:11:52.062
+This is multiplication result.
+This is subtraction result.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4561-0
+02:12:00.862 --> 02:12:05.462
+You can call other also if you want
+division average and all don't.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4593-0
+02:14:11.222 --> 02:14:11.262
+Oh.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4608-0
+02:15:16.822 --> 02:15:16.942
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4611-0
+02:15:33.302 --> 02:15:33.622
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4613-0
+02:15:35.582 --> 02:15:36.142
+Not yet.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4614-0
+02:15:37.062 --> 02:15:37.462
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4615-0
+02:15:39.782 --> 02:15:39.902
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4620-0
+02:15:57.502 --> 02:15:57.622
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4621-0
+02:15:59.142 --> 02:15:59.342
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4622-0
+02:16:05.542 --> 02:16:05.822
+Mute.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4625-0
+02:16:14.142 --> 02:16:15.862
+Yeah, yeah, it's got taken.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4626-0
+02:16:17.622 --> 02:16:17.742
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4631-0
+02:16:33.422 --> 02:16:34.022
+You have a clue?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4632-0
+02:16:36.102 --> 02:16:36.342
+Hello.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4635-0
+02:16:49.342 --> 02:16:50.462
+My kids never do.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4641-0
+02:16:59.422 --> 02:17:01.342
+Invite 10 second of my.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4642-0
+02:17:04.422 --> 02:17:04.622
+Cool.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4644-0
+02:17:07.022 --> 02:17:08.302
+Oh, kept it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4645-0
+02:17:11.382 --> 02:17:11.662
+Jim.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4646-0
+02:17:14.302 --> 02:17:16.222
+And they wanted to do something.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4649-0
+02:17:34.262 --> 02:17:34.382
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4651-0
+02:17:42.062 --> 02:17:46.542
+I can't.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4652-0
+02:17:58.502 --> 02:17:59.302
+What's your name?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4655-0
+02:18:12.502 --> 02:18:13.102
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4656-0
+02:18:14.942 --> 02:18:15.542
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4662-0
+02:18:17.342 --> 02:18:17.382
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4663-0
+02:18:40.942 --> 02:18:41.022
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4676-0
+02:18:58.702 --> 02:18:58.822
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4677-0
+02:19:05.342 --> 02:19:05.382
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4678-0
+02:19:09.702 --> 02:19:09.742
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4681-0
+02:19:37.822 --> 02:19:37.862
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4690-0
+02:19:41.942 --> 02:19:41.982
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4691-0
+02:20:00.862 --> 02:20:01.022
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4694-0
+02:20:12.542 --> 02:20:13.982
+Significantly.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4699-0
+02:20:16.302 --> 02:20:23.694
+Thank you. Did you ask that?
+Would you believe this better?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4699-1
+02:20:23.694 --> 02:20:31.702
+One just want to be jump for you to be
+the language then you so.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4713-0
+02:20:35.102 --> 02:20:36.782
+So now.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4736-0
+02:20:52.662 --> 02:20:57.940
+Is number one become a #2 become B so #1
+into number B.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4736-1
+02:20:57.940 --> 02:21:03.782
+So this this is the input values and this
+is the calculation.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4745-0
+02:21:05.662 --> 02:21:08.891
+Yes, yes,
+this is calling from here and this is
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4745-1
+02:21:08.891 --> 02:21:10.102
+calling from here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4746-0
+02:21:11.622 --> 02:21:12.062
+Got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4747-0
+02:21:13.622 --> 02:21:13.742
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4764-0
+02:21:14.422 --> 02:21:19.382
+How many parameters you can put that AB
+can AB3D.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4766-0
+02:21:18.142 --> 02:21:20.542
+As as many as many as you want.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4792-0
+02:21:20.902 --> 02:21:24.018
+OK,
+so the only advantage is the only
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4777-0
+02:21:22.342 --> 02:21:24.142
+You can put one you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4792-1
+02:21:24.018 --> 02:21:29.102
+advantage is that that you only can write
+in in one line. OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4791-0
+02:21:26.862 --> 02:21:29.182
+Yeah. This is one liner, right. Yes, yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4810-0
+02:21:30.462 --> 02:21:35.288
+If we want to do a short thing,
+why we will create a file if we want to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4810-1
+02:21:35.288 --> 02:21:38.102
+use it just directly, we can do it, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4805-0
+02:21:35.462 --> 02:21:35.902
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4809-0
+02:21:37.942 --> 02:21:38.782
+OK, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4831-0
+02:21:42.302 --> 02:21:47.014
+Fine.
+So we are going to take a short break now
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4831-1
+02:21:47.014 --> 02:21:53.492
+for breakfast. After 20 minutes,
+we will be here again. OK 11:20,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4831-2
+02:21:53.492 --> 02:21:55.062
+we will be here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4832-0
+02:21:56.222 --> 02:21:56.982
+OK. Thank you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/4839-0
+02:21:58.102 --> 02:22:01.422
+Thank you. I love you.
+We can go forward fast now.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5097-0
+02:51:13.942 --> 02:51:18.542
+Fine. Welcome back hope everyone is here.
+Now start over the issue.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5102-0
+02:51:20.462 --> 02:51:21.942
+OK. Let me just go on our issue then.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5103-0
+02:51:27.822 --> 02:51:27.902
+See.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5105-0
+02:51:45.542 --> 02:51:45.662
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5107-0
+02:52:00.222 --> 02:52:00.342
+But.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5108-0
+02:52:05.702 --> 02:52:05.902
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5129-0
+02:52:13.142 --> 02:52:19.993
+You are writing centre name then came
+through the number to find out the key of
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5129-1
+02:52:19.993 --> 02:52:24.275
+this one.
+So you have taken the link it's passing
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5129-2
+02:52:24.275 --> 02:52:25.902
+from from this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5142-0
+02:52:28.142 --> 02:52:36.942
+It's funny. I I call this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5149-0
+02:52:48.622 --> 02:52:58.342
+The main 1.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5150-0
+02:53:04.222 --> 02:53:04.382
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5155-0
+02:53:06.182 --> 02:53:11.422
+One page and then second thing,
+why would it start on?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5156-0
+02:53:13.702 --> 02:53:13.822
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5158-0
+02:53:25.822 --> 02:53:26.902
+Is that the?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5159-0
+02:53:31.982 --> 02:53:32.222
+Actually.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5160-0
+02:53:35.982 --> 02:53:36.502
+So you do not.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5161-0
+02:53:43.182 --> 02:53:43.542
+We need.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5162-0
+02:53:45.062 --> 02:53:45.302
+Thinking.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5163-0
+02:53:49.342 --> 02:53:49.942
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5164-0
+02:53:51.102 --> 02:53:51.222
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5176-0
+02:54:17.462 --> 02:54:28.462
+I think.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5185-0
+02:54:36.542 --> 02:54:38.302
+That's that's it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5200-0
+02:55:01.102 --> 02:55:04.382
+How anyone can think about that that?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5202-0
+02:55:04.622 --> 02:55:05.662
+What do you are doing?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5208-0
+02:55:07.542 --> 02:55:09.542
+You are taking the island printing.
+That's it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5221-0
+02:55:18.502 --> 02:55:20.975
+See,
+I put here one print they share right
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5221-1
+02:55:20.975 --> 02:55:24.022
+here. Print, so it will print that value.
+That's it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5222-0
+02:55:26.982 --> 02:55:27.582
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5236-0
+02:55:34.102 --> 02:55:41.342
+OK, we have done this one Lambda example.
+You can see any number of things.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5237-0
+02:55:44.582 --> 02:55:44.702
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5239-0
+02:55:57.222 --> 02:55:57.502
+You.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5247-0
+02:56:01.902 --> 02:56:04.342
+OK, let's see.
+One more example of lambdas.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5261-0
+02:56:17.062 --> 02:56:21.332
+We are right to the check even number
+Lambda X let me write.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5261-1
+02:56:21.332 --> 02:56:22.942
+Otherwise you will see.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5262-0
+02:56:28.382 --> 02:56:28.902
+Check.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5263-0
+02:56:37.062 --> 02:56:37.582
+Board.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5266-0
+02:56:39.462 --> 02:56:42.142
+Is equal to Lambda.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5267-0
+02:56:43.502 --> 02:56:43.902
+And.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5270-0
+02:56:48.382 --> 02:56:50.142
+This is order number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5271-0
+02:56:52.782 --> 02:56:52.982
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5274-0
+02:56:54.862 --> 02:56:57.302
+Can modulus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5285-0
+02:57:01.222 --> 02:57:06.742
+Two is equal to equal to one else it's a.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5288-0
+02:57:08.382 --> 02:57:09.222
+E1 number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5317-0
+02:57:24.302 --> 02:57:29.612
+So what we want to do,
+we want to take a number from the user,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5317-1
+02:57:29.612 --> 02:57:34.585
+the single input.
+If the number is divided by two and give
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5317-2
+02:57:34.585 --> 02:57:38.462
+return a one that is an old number
+otherwise.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5321-0
+02:57:42.982 --> 02:57:44.782
+Otherwise it's a even number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5325-0
+02:57:59.982 --> 02:58:00.582
+Here we go.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5327-0
+02:58:02.862 --> 02:58:04.222
+So here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5332-0
+02:58:25.742 --> 02:58:26.702
+Enter number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5334-0
+02:58:32.382 --> 02:58:33.222
+We'll check.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5337-0
+02:58:35.942 --> 02:58:37.022
+Or or even.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5339-0
+02:58:44.902 --> 02:58:45.582
+There is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5344-0
+02:58:51.782 --> 02:58:54.382
+Enter number to find out 33.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5352-0
+02:59:18.062 --> 02:59:20.862
+There is, we have call it print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5358-0
+02:59:23.542 --> 02:59:28.262
+Check out from here. We have pass #1.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5376-0
+02:59:39.222 --> 02:59:44.172
+It will pass the number from here,
+whatever the number you have passed,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5376-1
+02:59:44.172 --> 02:59:48.022
+it will go here. Divide it,
+check if it is old or even.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5378-0
+02:59:55.982 --> 02:59:56.702
+Them dark.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5380-0
+02:59:59.622 --> 03:00:00.422
+Example.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5383-0
+03:00:03.102 --> 03:00:04.222
+To find out.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5394-0
+03:00:05.822 --> 03:00:14.782
+Or or even number if the condition is
+true then this one will be.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5404-0
+03:00:16.422 --> 03:00:20.782
+Display if the condition is fault then
+this one will be displayed.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5406-0
+03:00:36.662 --> 03:00:36.982
+Right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5415-0
+03:01:22.742 --> 03:01:22.862
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5434-0
+03:03:04.422 --> 03:03:04.742
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5436-0
+03:03:07.542 --> 03:03:08.222
+This or no.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5439-0
+03:03:10.942 --> 03:03:11.462
+It would.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5440-0
+03:03:14.342 --> 03:03:14.382
+Aye.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5444-0
+03:03:37.702 --> 03:03:37.782
+He.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5445-0
+03:03:40.342 --> 03:03:40.462
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5447-0
+03:03:54.102 --> 03:03:54.222
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5449-0
+03:04:05.942 --> 03:04:05.982
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5450-0
+03:04:11.822 --> 03:04:11.902
+It.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5451-0
+03:04:15.662 --> 03:04:17.222
+People from.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5452-0
+03:04:22.302 --> 03:04:22.422
+It's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5465-0
+03:05:38.662 --> 03:05:38.982
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5467-0
+03:05:40.582 --> 03:05:41.062
+OK then.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5469-0
+03:05:41.822 --> 03:05:42.342
+Next.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5471-0
+03:05:48.622 --> 03:05:49.062
+Map.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5501-0
+03:05:55.582 --> 03:06:03.437
+So what maps do it applies a function to
+all items in an iterable. For example,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5501-1
+03:06:03.437 --> 03:06:09.721
+you have a list, right?
+You have the list list have few numbers
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5501-2
+03:06:09.721 --> 03:06:10.702
+like 1234.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5544-0
+03:06:11.142 --> 03:06:14.838
+You want to do what you want to just
+double the numbers,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5544-1
+03:06:14.838 --> 03:06:20.155
+so we want to double the first number we
+want to double the second number we want
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5544-2
+03:06:20.155 --> 03:06:24.694
+to double the third number,
+we want to double all the numbers that we
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5544-3
+03:06:24.694 --> 03:06:29.104
+have inside the list, right?
+So for that what we can use we can use
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5544-4
+03:06:29.104 --> 03:06:29.622
+the map.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5576-0
+03:06:30.142 --> 03:06:33.907
+In the map,
+we will write the map into that number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5576-1
+03:06:33.907 --> 03:06:39.048
+Whatever number you have into two,
+so it will just double that number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5576-2
+03:06:39.048 --> 03:06:44.044
+And if you want to square the number,
+you can write X into X2 twice.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5576-3
+03:06:44.044 --> 03:06:47.302
+So this is map.
+Let me show you one example.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5584-0
+03:06:48.502 --> 03:06:51.262
+I have a question.
+The lease is a function as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5588-0
+03:06:52.062 --> 03:06:52.542
+Sorry.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5600-0
+03:06:52.942 --> 03:06:56.496
+The lease is a special function because
+map is a function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5601-0
+03:06:55.742 --> 03:06:59.062
+Map is just map is a function list.
+List is the list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5600-1
+03:06:56.496 --> 03:06:58.062
+Lease is special function.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5625-0
+03:07:00.622 --> 03:07:05.887
+So you cannot write anything else,
+it has to be leased to refer to the above
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5662-0
+03:07:04.942 --> 03:07:08.956
+Absolutely, absolutely.
+List is a function and we are discussing
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5625-1
+03:07:05.887 --> 03:07:06.502
+list. OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5662-1
+03:07:08.956 --> 03:07:11.982
+the map.
+Right now the map is applies a function
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5634-0
+03:07:09.862 --> 03:07:10.102
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5662-2
+03:07:11.982 --> 03:07:15.995
+to all items and iterable if it is a list,
+we'll write the list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5643-0
+03:07:13.662 --> 03:07:13.702
+E.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5662-3
+03:07:15.995 --> 03:07:20.627
+If it is something else, we'll use.
+So let me show you one example of this
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5662-4
+03:07:20.627 --> 03:07:21.182
+list one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5679-0
+03:07:21.622 --> 03:07:25.619
+So here is the number. For example,
+you won't just double of that number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5679-1
+03:07:25.619 --> 03:07:29.022
+Here is the square example I'm showing
+the double, so here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5705-0
+03:07:38.822 --> 03:07:45.449
+I will show you few more things. First,
+I'm showing you the same.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5705-1
+03:07:45.449 --> 03:07:51.072
+So here is we go.
+This one is we will create a new file
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5705-2
+03:07:51.072 --> 03:07:53.782
+here file name is MAP exam.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5707-0
+03:07:54.662 --> 03:07:55.942
+Map EX.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5710-0
+03:07:57.422 --> 03:07:58.702
+Dot π right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5727-0
+03:08:00.342 --> 03:08:04.625
+You can use there also,
+but just to put it in the separate file,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5727-1
+03:08:04.625 --> 03:08:09.302
+right so we have here numbers list.
+Here are the number, let's say 10.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5729-0
+03:08:11.022 --> 03:08:11.942
+25.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5731-0
+03:08:13.902 --> 03:08:14.302
+30.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5732-0
+03:08:18.182 --> 03:08:18.782
+40.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5733-0
+03:08:20.062 --> 03:08:20.422
+Tool.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5738-0
+03:08:21.782 --> 03:08:23.622
+And one these are the numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5746-0
+03:08:29.622 --> 03:08:32.582
+We want just the double of the number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5747-0
+03:08:36.222 --> 03:08:37.062
+A better number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5750-0
+03:08:44.302 --> 03:08:45.342
+Two into X.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5754-0
+03:08:46.662 --> 03:08:51.142
+Numbers we are displaying here print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5758-0
+03:08:53.222 --> 03:08:56.022
+Double we'll go here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5760-0
+03:08:59.142 --> 03:09:00.022
+Fearless.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5762-0
+03:09:01.662 --> 03:09:04.062
+Web EX.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5764-0
+03:09:05.582 --> 03:09:06.302
+Not by.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5767-0
+03:09:08.582 --> 03:09:09.302
+But right that.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5771-0
+03:09:21.302 --> 03:09:24.622
+Yeah, VX .5.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5774-0
+03:09:27.462 --> 03:09:28.542
+This is your list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5779-0
+03:09:32.342 --> 03:09:33.822
+Oh, let me display it this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5780-0
+03:09:39.302 --> 03:09:41.142
+Speed cook.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5785-0
+03:09:45.502 --> 03:09:47.182
+Let me display the print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5788-0
+03:09:52.982 --> 03:09:54.062
+What did you learn?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5789-0
+03:09:56.462 --> 03:09:56.982
+List.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5793-0
+03:10:05.822 --> 03:10:08.942
+There is I'm writing for.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5795-0
+03:10:15.422 --> 03:10:17.502
+Item in.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5799-0
+03:10:19.142 --> 03:10:20.342
+I said NUM in list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5801-0
+03:10:22.502 --> 03:10:24.622
+In numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5807-0
+03:10:26.222 --> 03:10:29.342
+This way you will display right and
+you'll light here print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5815-0
+03:10:30.942 --> 03:10:33.702
+Numb. And you want to end it with?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5817-0
+03:10:35.342 --> 03:10:36.142
+Recipes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5820-0
+03:10:57.342 --> 03:10:57.422
+The.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5827-0
+03:11:02.782 --> 03:11:06.262
+I have rated.
+Let me explain it how it is doing.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5866-0
+03:11:07.782 --> 03:11:11.507
+See, we will go to the map.
+We will go to the Lambda X.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5866-1
+03:11:11.507 --> 03:11:15.763
+We will go to the each and every function
+of that one into two.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5866-2
+03:11:15.763 --> 03:11:21.084
+We will do the two of the numbers list.
+This is the list of numbers and we want
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5866-3
+03:11:21.084 --> 03:11:24.342
+to do each and every members to multiply
+to two.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5895-0
+03:11:24.782 --> 03:11:31.207
+And we will create a list and that list
+we will store inside this double nums,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5895-1
+03:11:31.207 --> 03:11:34.785
+right?
+So this one is the first time I have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5895-2
+03:11:34.785 --> 03:11:39.094
+display this.
+This is your actual list original list
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5895-3
+03:11:39.094 --> 03:11:39.582
+right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5912-0
+03:11:39.902 --> 03:11:44.977
+Then we have double it.
+So I'm displaying here the double list,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5912-1
+03:11:44.977 --> 03:11:48.942
+so we will print it here from here.
+First let me.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5916-0
+03:11:50.862 --> 03:11:51.862
+CLS.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5922-0
+03:12:06.862 --> 03:12:12.422
+This should be and the code not plus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5927-0
+03:12:16.342 --> 03:12:18.422
+You want to end it with this one, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5939-0
+03:12:27.102 --> 03:12:34.662
+So original list is 102030421 and double
+list is 10.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5942-0
+03:12:40.062 --> 03:12:41.222
+Should be double list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5952-0
+03:12:42.822 --> 03:12:47.902
+I have print again the same double number.
+You have to put right? So.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5980-0
+03:12:56.702 --> 03:13:05.466
+So original list is 1025304021,
+double list is 205030604082412.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5980-1
+03:13:05.466 --> 03:13:11.902
+Got it every number we have multiplied by
+two.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5984-0
+03:13:38.182 --> 03:13:38.222
+Ah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5985-0
+03:13:43.902 --> 03:13:44.262
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/5996-0
+03:14:32.422 --> 03:14:33.262
+New line, new line.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6001-0
+03:14:44.382 --> 03:14:46.662
+This is the original list.
+Is it double list?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6002-0
+03:14:48.302 --> 03:14:48.422
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6025-0
+03:15:19.142 --> 03:15:24.033
+We don't want all new line.
+You can remove this this one we want one
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6025-1
+03:15:24.033 --> 03:15:27.222
+new line because it's end with this
+bracket.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6030-0
+03:15:31.062 --> 03:15:32.502
+So this is original list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6032-0
+03:15:33.982 --> 03:15:35.102
+There's a double list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6035-0
+03:15:54.542 --> 03:15:54.902
+15.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6051-0
+03:16:02.662 --> 03:16:09.620
+We have created a list of number and
+using the map we have just multiplied
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6051-1
+03:16:09.620 --> 03:16:11.382
+each number by two.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6052-0
+03:16:13.062 --> 03:16:13.302
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6053-0
+03:16:15.782 --> 03:16:15.902
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6089-0
+03:17:49.262 --> 03:17:54.222
+But I didn't keep the this the double
+number is keep this same.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6091-0
+03:17:56.022 --> 03:17:56.342
+Sorry.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6096-0
+03:17:57.222 --> 03:17:58.982
+It just give the same list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6100-0
+03:18:00.662 --> 03:18:01.982
+It didn't double the number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6099-0
+03:18:00.782 --> 03:18:01.222
+Where?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6101-0
+03:18:02.982 --> 03:18:03.422
+Where?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6115-0
+03:18:04.982 --> 03:18:08.382
+This is the same list. This is the this.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6118-0
+03:18:05.862 --> 03:18:11.062
+Because the print you see the print is
+the same numb exactly the same.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6126-0
+03:18:11.822 --> 03:18:14.142
+See the the the listen.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6134-0
+03:18:12.542 --> 03:18:16.880
+Numb in numbers. Oh, oh. Numb in.
+Double numb. OK, OK, sorry, Sir. OK,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6134-1
+03:18:16.880 --> 03:18:18.102
+I make your mistake.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6165-0
+03:18:17.662 --> 03:18:21.370
+This is the numbers list and this is the
+double numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6139-0
+03:18:20.222 --> 03:18:20.742
+OK, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6165-1
+03:18:21.370 --> 03:18:24.622
+This is the new list right?
+So this is the value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6149-0
+03:18:23.902 --> 03:18:24.222
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6165-2
+03:18:24.622 --> 03:18:28.720
+This is just the number.
+You can write the same or you want to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6165-3
+03:18:28.720 --> 03:18:32.622
+write different. You can write different.
+It have no issue.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6195-0
+03:18:33.222 --> 03:18:38.036
+Main thing is it's going to inside this
+list and going to each and every number.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6195-1
+03:18:38.036 --> 03:18:42.553
+If you want right here the different
+thing you can write or you can use the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6195-2
+03:18:42.553 --> 03:18:46.833
+same also for here is your ID enum.
+So you want to print here D enum so
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6195-3
+03:18:46.833 --> 03:18:47.902
+you'll let D enum.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6198-0
+03:18:48.942 --> 03:18:50.582
+So it's exactly the same.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6212-0
+03:18:53.102 --> 03:18:56.076
+Right.
+The internal thing is no issue at all.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6203-0
+03:18:54.062 --> 03:18:54.342
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6212-1
+03:18:56.076 --> 03:18:59.502
+You can write here.
+See this is ordinalist this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6214-0
+03:19:01.302 --> 03:19:01.942
+Because the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6247-0
+03:19:04.622 --> 03:19:10.167
+This thing is available up to this,
+so again you have declare it so it will
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6247-1
+03:19:10.167 --> 03:19:16.076
+be the next time. This is the new thing,
+right? So even if you won't write here,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6247-2
+03:19:16.076 --> 03:19:20.380
+numb here is numb as well.
+So then there is not the issue,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6247-3
+03:19:20.380 --> 03:19:21.182
+it will in.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6275-0
+03:19:21.742 --> 03:19:26.545
+Means it will go to the in this
+particular list. Inside it will go to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6275-1
+03:19:26.545 --> 03:19:30.874
+In this particular list.
+So this list have the original numbers
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6275-2
+03:19:30.874 --> 03:19:34.662
+and the second list have the numbers
+multiplied by two.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6276-0
+03:19:36.182 --> 03:19:36.542
+Frank.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6277-0
+03:19:37.102 --> 03:19:37.262
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6307-0
+03:19:40.902 --> 03:19:44.290
+It's up to you.
+You want to use the same word or you want
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6307-1
+03:19:44.290 --> 03:19:47.094
+to use the different. That's fine.
+You can use,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6307-2
+03:19:47.094 --> 03:19:50.424
+but you have to tell the which list we
+are going to use.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6307-3
+03:19:50.424 --> 03:19:51.942
+That is after the keyword.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6308-0
+03:19:52.702 --> 03:19:52.822
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6310-0
+03:19:54.582 --> 03:19:55.582
+Thanks for the question.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6325-0
+03:21:02.622 --> 03:21:04.182
+Let's go for philtre now.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6334-0
+03:21:09.542 --> 03:21:13.302
+Then this one all of you any doubt
+question. If you have you can ask.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6356-0
+03:21:29.542 --> 03:21:35.312
+Philtre this is the map you want to add
+on something you want to do some sort of
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6356-1
+03:21:35.312 --> 03:21:37.662
+things. You can do philtre means.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6386-0
+03:21:40.182 --> 03:21:46.295
+Philtres item using a condition we will
+use a condition to philtre the items
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6386-1
+03:21:46.295 --> 03:21:49.868
+right.
+For example here you have this number
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6386-2
+03:21:49.868 --> 03:21:55.742
+list you want to find out the even number
+you want to find out something.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6406-0
+03:21:56.222 --> 03:22:02.669
+You want to so far that you can write the
+condition so the condition you will write
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6406-1
+03:22:02.669 --> 03:22:06.582
+then it will be philtre let me show you
+here only.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6432-0
+03:22:12.422 --> 03:22:17.360
+You copy the same thing control C control
+case.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6432-1
+03:22:17.360 --> 03:22:25.588
+OK control Z control CI have copy this
+one. I'm writing here one more new file.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6432-2
+03:22:25.588 --> 03:22:26.822
+This one is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6439-0
+03:22:28.422 --> 03:22:33.382
+Philtre example right philtre example dot
+π.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6445-0
+03:22:38.502 --> 03:22:40.662
+Happy is that earlier example here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6453-0
+03:22:56.302 --> 03:22:58.182
+This is the original list we have printed.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6456-0
+03:23:02.102 --> 03:23:03.222
+I have right here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6458-0
+03:23:04.582 --> 03:23:06.062
+Even numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6467-0
+03:23:11.502 --> 03:23:15.342
+List in place of map we have write
+philtre.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6469-0
+03:23:26.422 --> 03:23:27.662
+X modulus.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6470-0
+03:23:28.862 --> 03:23:29.262
+2.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6475-0
+03:23:30.582 --> 03:23:33.502
+Is equal to equal to 0.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6491-0
+03:23:37.062 --> 03:23:43.306
+We have right here the condition if the X
+/ 2 then we will put it inside the E1
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6491-1
+03:23:43.306 --> 03:23:45.022
+numbers otherwise not.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6494-0
+03:23:54.422 --> 03:23:55.382
+There is print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6497-0
+03:23:59.702 --> 03:24:01.262
+Even numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6501-0
+03:24:04.982 --> 03:24:08.742
+From list as follows.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6504-0
+03:24:23.462 --> 03:24:24.742
+And we can print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6514-0
+03:24:31.062 --> 03:24:37.862
+In place of this number,
+we can write E1 underscore numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6517-0
+03:24:48.542 --> 03:24:51.702
+Philtre PX dot Y.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6524-0
+03:24:55.902 --> 03:24:58.382
+There is even numbers from the list as
+volumes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6535-0
+03:25:01.782 --> 03:25:06.001
+So it will go to the list and it will
+find out the even numbers only and give
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6535-1
+03:25:06.001 --> 03:25:06.542
+it to you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6547-0
+03:25:28.262 --> 03:25:32.582
+In place of map we will late philtre and
+then it will give you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6553-0
+03:25:35.302 --> 03:25:38.302
+The based on the condition it will give
+you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6564-0
+03:26:09.742 --> 03:26:12.702
+In place of map I have write philtre and
+that doesn't.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6580-0
+03:27:43.422 --> 03:27:43.542
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6589-0
+03:28:40.182 --> 03:28:40.702
+Absolutely.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6590-0
+03:28:42.062 --> 03:28:42.502
+How do you?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6591-0
+03:28:48.662 --> 03:28:49.462
+Thank you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6592-0
+03:28:51.022 --> 03:28:51.342
+I have to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6593-0
+03:28:55.302 --> 03:28:55.502
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6594-0
+03:28:58.822 --> 03:29:00.582
+Thank you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6595-0
+03:29:03.542 --> 03:29:03.702
+Hello.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6596-0
+03:29:08.542 --> 03:29:08.822
+Thank you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6598-0
+03:29:11.262 --> 03:29:11.582
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6626-0
+03:29:19.982 --> 03:29:24.666
+So we have you the dictionary, sorry list.
+So we have write list if we have any
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6626-1
+03:29:24.666 --> 03:29:28.822
+other thing we have dictionary so then we
+will write dictionary right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6636-0
+03:30:17.102 --> 03:30:18.382
+OK, we'll try this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6640-0
+03:30:37.982 --> 03:30:39.142
+You have.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6643-0
+03:30:40.422 --> 03:30:42.982
+Following list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6645-0
+03:30:45.102 --> 03:30:45.862
+I call it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6647-0
+03:30:52.862 --> 03:30:53.742
+Our list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6650-0
+03:30:55.342 --> 03:30:56.302
+Is equal to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6651-0
+03:31:00.382 --> 03:31:00.942
+4.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6652-0
+03:31:02.222 --> 03:31:02.782
+To.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6653-0
+03:31:03.982 --> 03:31:05.582
+5-6.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6659-0
+03:31:06.862 --> 03:31:11.822
+73110.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6666-0
+03:31:16.862 --> 03:31:24.742
+Write code using philtre to find out.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6669-0
+03:31:26.822 --> 03:31:28.302
+All the numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6671-0
+03:31:32.462 --> 03:31:33.582
+Less than.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6672-0
+03:31:39.262 --> 03:31:39.382
+Both.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6676-0
+03:31:42.302 --> 03:31:43.422
+From the one list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6677-0
+03:31:46.222 --> 03:31:46.582
+Umm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6679-0
+03:31:52.662 --> 03:31:53.542
+On the list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6689-0
+03:31:57.582 --> 03:32:00.560
+Right,
+so this is the question you have the code
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6689-1
+03:32:00.560 --> 03:32:02.382
+in front of you, you will try.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6704-0
+03:32:07.902 --> 03:32:11.568
+Right.
+This one is the question you have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6704-1
+03:32:11.568 --> 03:32:15.502
+following list.
+This is the list 425673110.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6706-0
+03:32:20.982 --> 03:32:21.782
+OK, do it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6717-0
+03:32:25.262 --> 03:32:30.342
+Right code using Philtre to find out all
+the numbers less than five from the list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6730-0
+03:33:35.662 --> 03:33:35.782
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6739-0
+03:34:13.702 --> 03:34:14.662
+3-5 minutes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6743-0
+03:34:34.262 --> 03:34:34.382
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6758-0
+03:35:32.022 --> 03:35:32.142
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6759-0
+03:35:41.262 --> 03:35:41.502
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6761-0
+03:35:52.422 --> 03:35:52.462
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6789-0
+03:37:46.022 --> 03:37:46.142
+But.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6790-0
+03:37:53.902 --> 03:37:54.062
+What?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6793-0
+03:38:17.462 --> 03:38:17.862
+Excellent.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6794-0
+03:38:22.622 --> 03:38:22.742
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6795-0
+03:38:28.342 --> 03:38:28.702
+It's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6796-0
+03:38:30.702 --> 03:38:34.902
+The the.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6797-0
+03:38:40.302 --> 03:38:40.862
+Yeah, here we go.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6798-0
+03:38:43.902 --> 03:38:44.302
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6808-0
+03:38:46.542 --> 03:38:50.422
+Completed OK,
+just share the screen please.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6807-0
+03:38:47.022 --> 03:38:49.222
+That's a complete.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6809-0
+03:38:52.062 --> 03:38:52.382
+No.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6810-0
+03:38:56.182 --> 03:38:56.622
+That's mother.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6813-0
+03:38:59.382 --> 03:39:01.782
+Share your screen. Please let me check.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6815-0
+03:39:04.782 --> 03:39:05.142
+Yes, Sir.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6819-0
+03:39:23.942 --> 03:39:24.582
+Are you sharing?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6822-0
+03:39:29.142 --> 03:39:29.942
+We said trying, Sir.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6827-0
+03:39:30.942 --> 03:39:32.662
+OK, no problem. Let me show you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6831-0
+03:39:34.862 --> 03:39:37.102
+You say done if you're trying.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6849-0
+03:39:39.422 --> 03:39:45.182
+OK, see here,
+this is the list right and the why I have
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6849-1
+03:39:45.182 --> 03:39:50.222
+asked you it's exact the same thing.
+So here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6870-0
+03:39:54.182 --> 03:39:59.366
+We want to write the code using philtre
+to find out all the numbers less than
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6870-1
+03:39:59.366 --> 03:40:02.422
+five right. So here is control B.
+So here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6871-0
+03:40:02.582 --> 03:40:02.662
+The.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6873-0
+03:40:08.342 --> 03:40:09.542
+Our numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6881-0
+03:40:11.342 --> 03:40:15.662
+List philtre Lambda X where X is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6882-0
+03:40:18.622 --> 03:40:19.182
+X.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6884-0
+03:40:21.862 --> 03:40:22.542
+Less than.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6902-0
+03:40:24.462 --> 03:40:31.727
+5:00 and we have right here our list.
+This is your list name our list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6902-1
+03:40:31.727 --> 03:40:37.662
+But that's it.
+You can print both the things if you want.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6903-0
+03:40:43.902 --> 03:40:44.782
+Don't see.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6905-0
+03:40:46.622 --> 03:40:47.582
+Orchestrator.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6909-0
+03:40:50.382 --> 03:40:52.222
+This is your original 1.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6911-0
+03:40:54.502 --> 03:40:56.102
+Original list is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6913-0
+03:40:58.222 --> 03:40:58.702
+List.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6916-0
+03:41:03.502 --> 03:41:04.742
+And here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6918-0
+03:41:17.542 --> 03:41:17.662
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6919-0
+03:41:22.062 --> 03:41:22.742
+Searched.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6922-0
+03:41:31.262 --> 03:41:32.462
+There's a new list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6927-0
+03:41:33.702 --> 03:41:37.222
+Fine. And this one is our numbers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6928-0
+03:41:41.982 --> 03:41:42.502
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6948-0
+03:41:50.422 --> 03:41:54.595
+This is the original list our list right?
+So here we are.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6948-1
+03:41:54.595 --> 03:42:00.062
+Find out our number list Lambda ** less
+than five. So our list is this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6951-0
+03:42:03.822 --> 03:42:05.302
+There is Python.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6971-0
+03:42:07.502 --> 03:42:17.422
+So here is original list 425673110 and
+this is 4231 less than five only. OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6996-0
+03:42:20.902 --> 03:42:24.469
+You can use it with dictionary as well
+with tuple as well.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6996-1
+03:42:24.469 --> 03:42:28.579
+So in that one we will like *****.
+I will show you one example with
+
+57efaad6-37ee-490e-a21a-3901552b1b14/6996-2
+03:42:28.579 --> 03:42:31.662
+dictionary as well.
+First we'll do this one right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7002-0
+03:42:42.422 --> 03:42:44.702
+This is the programme that I have asked
+you to do.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7003-0
+03:42:46.382 --> 03:42:46.502
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7010-0
+03:42:47.342 --> 03:42:49.742
+So anyone have done it earlier or no one?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7012-0
+03:42:51.702 --> 03:42:51.982
+Then.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7014-0
+03:42:59.902 --> 03:43:00.782
+Earlier, are you there?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7015-0
+03:43:02.142 --> 03:43:02.622
+But yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7018-0
+03:43:03.542 --> 03:43:03.702
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7019-0
+03:43:03.982 --> 03:43:04.622
+Yes.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7020-0
+03:43:05.422 --> 03:43:05.742
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7021-0
+03:43:06.222 --> 03:43:06.542
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7022-0
+03:43:10.222 --> 03:43:10.502
+So.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7050-0
+03:44:35.182 --> 03:44:35.782
+Mm-hmm.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7067-0
+03:45:27.902 --> 03:45:28.222
+Are you?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7068-0
+03:45:29.862 --> 03:45:33.902
+5-3 weeks 0500 in six weeks.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7069-0
+03:45:45.862 --> 03:45:45.902
+I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7070-0
+03:45:55.342 --> 03:45:55.462
+Right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7073-0
+03:46:13.182 --> 03:46:13.542
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7076-0
+03:46:15.222 --> 03:46:17.622
+Done. Yes or no.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7095-0
+03:46:31.262 --> 03:46:37.184
+Now let me show you one more example of
+philtre using the dictionary,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7095-1
+03:46:37.184 --> 03:46:38.622
+right so here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7100-0
+03:46:40.062 --> 03:46:41.422
+This one is done complete.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7105-0
+03:46:42.902 --> 03:46:44.102
+Completed all of you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7106-0
+03:46:44.542 --> 03:46:44.982
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7107-0
+03:47:00.182 --> 03:47:00.302
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7108-0
+03:47:10.102 --> 03:47:10.142
+Oh.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7125-0
+03:48:04.582 --> 03:48:04.902
+Done.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7127-0
+03:48:07.102 --> 03:48:07.462
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7129-0
+03:48:12.102 --> 03:48:12.742
+Here we go.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7142-0
+03:48:15.942 --> 03:48:21.702
+One more example using dictionaries,
+right? So how will I dictionary?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7145-0
+03:48:34.982 --> 03:48:36.702
+Students info.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7149-0
+03:48:38.982 --> 03:48:41.182
+That's right, the students is equal to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7151-0
+03:48:42.702 --> 03:48:43.462
+Here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7154-0
+03:48:54.902 --> 03:48:56.862
+Students marks.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7183-0
+03:50:14.782 --> 03:50:16.342
+For example, we have writers.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7189-0
+03:50:18.142 --> 03:50:19.702
+This is a list of what if?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7198-0
+03:50:24.422 --> 03:50:29.182
+Itinerary of this one. The students right.
+Good.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7235-0
+03:50:58.062 --> 03:51:03.238
+So for example,
+the passing criteria is 40% and we want
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7235-1
+03:51:03.238 --> 03:51:10.538
+to find out the only the past student
+right, the price passing criteria is 40.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7235-2
+03:51:10.538 --> 03:51:14.142
+You have to go to the 40 marks to pass.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7255-0
+03:51:14.662 --> 03:51:18.595
+If you are not going to the 40 marks you
+are fail.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7255-1
+03:51:18.595 --> 03:51:24.840
+So we want to philtre out this one this
+list to find out the passes student only
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7255-2
+03:51:24.840 --> 03:51:25.302
+right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7258-0
+03:51:28.342 --> 03:51:29.622
+Original is this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7260-0
+03:51:32.702 --> 03:51:33.182
+Print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7259-0
+03:51:32.982 --> 03:51:33.102
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7262-0
+03:51:43.662 --> 03:51:44.582
+This is the original.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7269-0
+03:51:46.702 --> 03:51:52.182
+OK,
+you want to find out the past students.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7270-0
+03:51:53.542 --> 03:51:54.182
+Pause.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7272-0
+03:51:56.262 --> 03:51:57.462
+Students.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7276-0
+03:51:59.302 --> 03:52:00.182
+Is equal to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7274-0
+03:51:59.742 --> 03:51:59.862
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7287-0
+03:52:01.702 --> 03:52:08.022
+Late here in place of list this time what
+you have to write.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7279-0
+03:52:01.862 --> 03:52:02.302
+Peace.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7295-0
+03:52:10.582 --> 03:52:12.982
+Tupper can not Tupper dictionary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7294-0
+03:52:10.662 --> 03:52:13.142
+Dictionary dictionary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7307-0
+03:52:14.822 --> 03:52:20.742
+So for dictionary we have here *****.
+This is the Lambda.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7309-0
+03:52:24.582 --> 03:52:25.142
+Oh, Dan.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7311-0
+03:52:35.942 --> 03:52:37.142
+So item.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7314-0
+03:52:40.782 --> 03:52:42.022
+There is item.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7315-0
+03:52:43.422 --> 03:52:43.542
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7318-0
+03:52:44.022 --> 03:52:45.142
+Greater than.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7341-0
+03:52:46.662 --> 03:52:52.316
+Equal to 40,
+right 40 and we will take it from where
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7341-1
+03:52:52.316 --> 03:53:00.102
+we'll take it from our dictionary.
+The dictionary name is student marks,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7336-0
+03:52:57.942 --> 03:52:58.422
+To din.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7341-2
+03:53:00.102 --> 03:53:00.742
+right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7339-0
+03:53:01.142 --> 03:53:01.422
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7360-0
+03:53:02.582 --> 03:53:08.899
+Student marks,
+student marks dot items the collection of
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7349-0
+03:53:04.182 --> 03:53:04.462
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7351-0
+03:53:05.822 --> 03:53:05.942
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7360-1
+03:53:08.899 --> 03:53:10.782
+items so here is.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7362-0
+03:53:12.582 --> 03:53:13.062
+Print.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7364-0
+03:53:18.982 --> 03:53:20.222
+Class is good, it's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7381-0
+03:53:22.582 --> 03:53:24.830
+Now you got it.
+What the meaning of the list?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7381-1
+03:53:24.830 --> 03:53:27.810
+Because that was the list.
+That's why we are using the list.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7381-2
+03:53:27.810 --> 03:53:30.302
+There's a dictionary,
+so we'll write a dictionary.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7383-0
+03:53:35.222 --> 03:53:36.102
+I will go here.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7388-0
+03:53:39.302 --> 03:53:40.182
+Let me write one moment.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7392-0
+03:53:39.302 --> 03:53:42.982
+Why? Why? Why?
+You have to put the dot items.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7396-0
+03:53:44.222 --> 03:53:44.622
+Sorry.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7407-0
+03:53:45.422 --> 03:53:49.593
+Why you have to put that dot items to
+student marks dot item?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7407-1
+03:53:49.593 --> 03:53:51.342
+Why not just to the marks?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7422-0
+03:53:49.742 --> 03:53:56.367
+Because we because it's not work because
+in dictionary we have two things.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7422-1
+03:53:56.367 --> 03:53:58.222
+One is known as keys.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7425-0
+03:53:58.462 --> 03:53:59.102
+And value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7441-0
+03:54:00.062 --> 03:54:05.631
+And the second one is values,
+so items means we are going to take both
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7441-1
+03:54:05.631 --> 03:54:08.062
+the things values and the keys.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7440-0
+03:54:06.822 --> 03:54:07.462
+Oh.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7442-0
+03:54:09.822 --> 03:54:09.862
+Aye.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7450-0
+03:54:10.542 --> 03:54:13.702
+Or so you you also can put keys or values.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7457-0
+03:54:13.942 --> 03:54:18.742
+Right, right. So here is print all.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7454-0
+03:54:15.142 --> 03:54:15.862
+Oh, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7461-0
+03:54:20.022 --> 03:54:24.462
+The students there is current.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7464-0
+03:54:26.982 --> 03:54:27.782
+Past student.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7467-0
+03:54:28.582 --> 03:54:31.342
+Cost student.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7469-0
+03:54:45.062 --> 03:54:45.702
+Item.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7471-0
+03:54:45.542 --> 03:54:47.302
+It don't get it. Hold, listen.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7473-0
+03:54:48.902 --> 03:54:49.702
+Items.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7480-0
+03:54:51.862 --> 03:54:54.822
+That one, the most dot items or item only?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7489-0
+03:54:54.862 --> 03:54:59.146
+It it is fine,
+item item is fine but we have to write to
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7484-0
+03:54:56.862 --> 03:54:57.022
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7489-1
+03:54:59.146 --> 03:54:59.822
+this way.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7493-0
+03:55:04.542 --> 03:55:06.622
+We have to write to the index.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7494-0
+03:55:07.382 --> 03:55:07.702
+Oh.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7496-0
+03:55:09.342 --> 03:55:09.822
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7505-0
+03:55:09.862 --> 03:55:14.702
+Item 11 this is 0. This is one item one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7506-0
+03:55:21.102 --> 03:55:21.782
+Yes, it's.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7516-0
+03:55:24.502 --> 03:55:30.462
+0 is what which item Sam Sam 60,
+is item 0, right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7524-0
+03:55:32.902 --> 03:55:39.142
+Hold a second sixty Raj, Sandy.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7535-0
+03:55:46.102 --> 03:55:50.302
+Where is the we 35 metre?
+Is not there right?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7555-0
+03:55:51.542 --> 03:55:59.631
+It's fine. Let me add the criteria.
+Let me increase it by 50. See, this is 0.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7555-1
+03:55:59.631 --> 03:56:02.742
+This is 101. This this is one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7576-0
+03:56:04.062 --> 03:56:10.118
+The 605035 it's one we are comparing,
+not the name we are comparing to the
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7574-0
+03:56:09.822 --> 03:56:10.502
+Index.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7576-1
+03:56:10.118 --> 03:56:12.782
+marks. This is 0. This is one OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7583-0
+03:56:16.262 --> 03:56:19.142
+So I'll so after that they check item 3.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7588-0
+03:56:20.742 --> 03:56:21.942
+Because you put item one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7614-0
+03:56:20.982 --> 03:56:26.969
+Not, not, not not. Not. Item 3.
+See this one is the key.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7614-1
+03:56:26.969 --> 03:56:35.897
+This this one we are comparing the values
+not the keys. Fine. If you have the issue,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7614-2
+03:56:35.897 --> 03:56:38.102
+let me just show you.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7618-0
+03:56:38.822 --> 03:56:41.662
+You can write here values.
+What do you write here?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7621-0
+03:56:43.822 --> 03:56:44.422
+Where do you?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7628-0
+03:56:44.182 --> 03:56:47.822
+Values, right and we will late here we.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7624-0
+03:56:45.822 --> 03:56:45.982
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7636-0
+03:56:49.222 --> 03:56:53.382
+I will understand it better we we greater
+than equal to.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7640-0
+03:56:55.302 --> 03:56:57.302
+50 is it fine now?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7659-0
+03:56:58.862 --> 03:57:02.855
+What that means? This is the key.
+The first one is the key,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7643-0
+03:56:58.982 --> 03:56:59.342
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7659-1
+03:57:02.855 --> 03:57:06.582
+the second one is value.
+So we are comparing the value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7657-0
+03:57:04.022 --> 03:57:04.422
+Value.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7664-0
+03:57:07.782 --> 03:57:09.622
+Is it OK now you'll understand it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7669-0
+03:57:11.262 --> 03:57:12.422
+Yes, OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7667-0
+03:57:11.542 --> 03:57:12.062
+Admission.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7679-0
+03:57:13.622 --> 03:57:17.702
+So here the the traceable most recent.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7674-0
+03:57:13.702 --> 03:57:14.022
+All right.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7722-0
+03:57:20.222 --> 03:57:26.046
+We cannot convert dictionary update
+sequence element 0 to sequence fine,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7696-0
+03:57:20.862 --> 03:57:22.702
+Can I call that this?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7722-1
+03:57:26.046 --> 03:57:32.268
+so that's values we want to compare so
+value is on which place it is in at 0.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7722-2
+03:57:32.268 --> 03:57:34.182
+So we will light here I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7724-0
+03:57:34.742 --> 03:57:36.622
+And here we write I.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7725-0
+03:57:37.702 --> 03:57:38.182
+Plus one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7744-0
+03:57:38.582 --> 03:57:47.778
+One and then this one is items. OK,
+so that comparison we don't to do control
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7729-0
+03:57:39.582 --> 03:57:40.182
+I went.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7744-1
+03:57:47.778 --> 03:57:49.782
+T right here CLS.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7747-0
+03:57:51.022 --> 03:57:53.342
+Enter and see.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7777-0
+03:57:55.142 --> 03:58:01.196
+So now you got it.
+We are comparing the values so wherever
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7777-1
+03:58:01.196 --> 03:58:07.044
+the value is greater than equal to 50
+then it will pass.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7777-2
+03:58:07.044 --> 03:58:10.942
+So this SEM is 60 surpass Raj 55 pass.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7792-0
+03:58:11.262 --> 03:58:20.182
+Mere 35 fail Sandy fail,
+Neeraj pass deep fail. Garima Pass got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7790-0
+03:58:18.022 --> 03:58:18.142
+Yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7814-0
+03:58:21.062 --> 03:58:24.296
+Yeah, but,
+but why need we need to put number one
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7814-1
+03:58:24.296 --> 03:58:27.594
+there can?
+Can we just read out the one if we just
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7806-0
+03:58:25.862 --> 03:58:26.022
+This.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7814-2
+03:58:27.594 --> 03:58:28.822
+put in the bracket?
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7843-0
+03:58:28.142 --> 03:58:34.727
+No, no, no, no, this this is 0.
+This is one,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7825-0
+03:58:34.142 --> 03:58:35.422
+Yeah, yeah.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7843-1
+03:58:34.727 --> 03:58:44.822
+this is 0 this is 101010101010101.
+So we are comparing to these one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7837-0
+03:58:39.982 --> 03:58:41.302
+Oh OK, I see.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7844-0
+03:58:45.782 --> 03:58:46.222
+This thing.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7845-0
+03:58:46.982 --> 03:58:47.222
+MMM.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7848-0
+03:58:48.142 --> 03:58:48.662
+You got it.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7849-0
+03:58:49.022 --> 03:58:49.542
+OK.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7860-0
+03:58:52.862 --> 03:58:56.902
+And if you want it in the for loop that
+also will do. First we'll do this much.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7901-0
+03:59:05.262 --> 03:59:11.635
+So I need to follow the data that you
+right tell me I have to use the data that
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7901-1
+03:59:11.635 --> 03:59:16.334
+you type in, right?
+Because it's there's several amendment
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7901-2
+03:59:16.334 --> 03:59:20.795
+being done just now you you will you will
+use this one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7901-3
+03:59:20.795 --> 03:59:23.582
+This one is one day that's the one.
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7918-0
+03:59:24.142 --> 03:59:27.682
+No, that, that,
+that one is I have to explain to him only,
+
+57efaad6-37ee-490e-a21a-3901552b1b14/7918-1
+03:59:27.682 --> 03:59:31.342
+OK, that is fine.
+This one is you have to use only this one.
